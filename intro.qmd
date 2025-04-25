@@ -10,14 +10,20 @@ Welcome to LDRS 663: Coaching for Transformational Blended Learning
 ### Course Learning Outcomes {.unnumbered}
 On successful completion of this course, students should be able to:
 
-- analyze the characteristics of the coaching role within theoretical models of blended teaching and learning;
-- demonstrate the ability to model metacognitive strategies for self-regulated learning;
-- apply intercultural competencies in coaching learners in transformational blended learning environments;
-- evaluate the quality of feedback in light of evidence-based research
-- evaluate interactions in a learning environment and develop strategies for  high quality educative interactions;
-- Design cognitive and social activities to meet learning outcomes.
-- apply multi-modal communication and collaboration tools effectively to support learning in a higher education context.
-- apply information and media literacies to research, produce, analyse and present information online.
+
+
+ - Demonstrate the ability to model metacognitive strategies for self-regulated learning.   //todo #18  
+- Apply information and media literacies to research, produce, analyze, and present information online.   
+- Design cognitive and social learning activities to meet learning outcomes.   
+- Evaluate interactions in a learning environment and develop strategies for high-quality educative interactions.   
+- Evaluate the quality of feedback in light of evidence-based research.   
+- Apply intercultural competencies in coaching learners in transformational blended learning environments.   //todo #18  
+- Analyze the characteristics of the coaching and facilitation roles within emerging multi-access models of blended teaching and learning.   
+- Apply multi-modal communication and collaboration tools effectively to support learning in a higher education context.   
+
+
+
+
 
 
 ### Resources {.unnumbered}

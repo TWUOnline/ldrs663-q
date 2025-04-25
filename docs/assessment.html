@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.42">
+<meta name="generator" content="quarto-1.6.8">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -37,10 +37,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-79bb3942e891885f9f7af119cd221462.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-626149efe8f5d16e1d391ba177679bf0.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-e19161ed4e9aff9b066a34963cfd5be8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -123,6 +123,12 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Welcome</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./intro.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Welcome</span></a>
   </div>
 </li>
@@ -242,13 +248,14 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+<p>//todo</p>
 <div class="parent-table-container">
 <div class="table-container">
 <table class="caption-top table">
 <thead>
 <tr class="header">
 <th>Assessment Task</th>
-<th style="text-align: center;">Due Date</th>
+<th style="text-align: center;">Outcomes</th>
 </tr>
 </thead>
 <tbody>
@@ -458,7 +465,7 @@ To submit this assignment, scroll to the bottom of the screen on the Unit 5 Tab 
 </section>
 <section id="small-group-facilitation" class="level2 unnumbered">
 <h2 class="unnumbered anchored" data-anchor-id="small-group-facilitation">Small Group Facilitation</h2>
-<p>Working in small groups you will facilitate a short 10-15 min learning activity. In your learning pods, each of you should select a topic from LDRS 463/663 and guide your group through a review discussion of that topic. It is recommended that you use an activity modified from one of the <a href="https://liberatingstructures.com">Liberating Structures activities</a>. Following our meeting, you will have access to the recording of the session and you should re-watch your setion and create a detailed reflection on the experience. Describe as much as you can in response to what happened in your session.</p>
+<p>//todo Working in small groups you will facilitate a short 10-15 min learning activity. In your learning pods, each of you should select a topic from LDRS 463/663 and guide your group through a review discussion of that topic. It is recommended that you use an activity modified from one of the <a href="https://liberatingstructures.com">Liberating Structures activities</a>. Following our meeting, you will have access to the recording of the session and you should re-watch your setion and create a detailed reflection on the experience. Describe as much as you can in response to what happened in your session.</p>
 <p>I hope you will push your comfort level in this activity, take some risks, and hopefully mess up. That will be a good thing because it will give you much to reflect on later.</p>
 <p>Your reflection should be submitted as a 300-500 word ‘Daily Note’ in your Obsidian vault, named ‘facilitation-reflection’.</p>
 <p>In your facilitation session, demonstrate and reflect on the following:</p>
@@ -641,6 +648,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -751,6 +760,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
+      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
