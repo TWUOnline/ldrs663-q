@@ -1,15 +1,15 @@
 # Assessment {.unnumbered}
 
-//todo
+[//todo #12](https://github.com/ma-lead/ldrs663/issues/12)
 
 | Assessment Task | Outcomes | 
 | --- | :---: |
-| Learning Reflection Blogs | Ongoing |
-| Concept Map and Lit Review | September 22 | 
-| Small Group Facilitation | September 29 |
-| Peer Coaching Session | October 6 | 
-| Analysis  | October  27 | 
-| Synthesis | November 1 | 
+| Learning Reflections | Ongoing |
+| Autoethnography Proposal and Ethics App |   | 
+| Small Group Facilitation |   |
+| Peer Coaching Session |   | 
+| Analysis and Discussion  |   | 
+| Knowledge Process Map |   | 
 
 <!--
 | Assessment Task | Due Date | Approximate weight |
@@ -130,7 +130,11 @@ Choose one of the previous 5 posts that you would like to showcase as your best 
 -->
 
 
-## Concept Map and Literature Review  {.unnumbered}
+## Autoethnography Proposal and Ethics App  {.unnumbered}
+
+Your project throughout this course will be to engage in an autoethnographic exploration of your experiences learning about and practicing coaching and facilitation skills in the context of higher education. 
+
+
 
 Working individually and in cooperation with your learning pod, use Google Scholar, the TWU library, and AI-powered tools such as LitMaps to find 8-10 peer-reviewed articles on a topic of your choosing, but related to coaching and/or facilitation. Focus on finding at least one systematic or scoping review and several other topical papers. Import the citations and papers into Zotero and then Obsidian. On each file, summarize the associated article, and annotate the PDF. Export the references from Zotero as an .RIS file and include the file in your vault. Create a new Canvas in Obsidian and create a concept map of the relationships between the ideas in the papers. Include on your canvas a new file in which you summarize your concept map (300-500 words).
 <!--

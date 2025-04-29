@@ -16,7 +16,7 @@ On successful completion of this course, students should be able to:
 - Apply information and media literacies to research, produce, analyze, and present information online.   
 - Design cognitive and social learning activities to meet learning outcomes.   
 - Evaluate interactions in a learning environment and develop strategies for high-quality educative interactions.   
-- Assess the quality of student learning processes and products in light of learning outcomes.   
+- Assess the quality of your own and others' learning processes and products in light of learning outcomes.   
 - Apply intercultural competencies in coaching learners in transformational blended learning environments. [//todo #18](https://github.com/ma-lead/ldrs663/issues/18)    
 - Analyze the characteristics of the coaching and facilitation roles within emerging multi-access models of blended teaching and learning.   
 - Apply multi-modal communication and collaboration tools effectively to support learning in a higher education context.   
