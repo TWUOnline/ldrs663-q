@@ -21,7 +21,7 @@ You will be directed when to complete the following tasks.
 
 ## Overview {.unnumbered}
 
-Welcome to Unit 1 of LDRS 663! In this unit, we will begin by considering the nature of learning communities through the lens of a model called the _Community of Inquiry (CoI)_ ([Garrison et al., 2000](https://www.sciencedirect.com/science/article/pii/S1096751600000166?){target="_blank"}; [Vaughan et al., 2013](http://www.aupress.ca/index.php/books/120229){target="_blank"}). The CoI model proposes that there are three overlapping components, or presences, to any learning environment; cognitive presence (constructing meaning), social presence (projecting a sense of yourself), and teaching presence (designing and facilitating the learning experience). The CoI model is grounded in a long history of social constructivism which is the idea that learning is fundamentally a social process ([Dewey, 1897](https://en.wikisource.org/wiki/My_Pedagogic_Creed){target="_blank"}; [Vygotsky, 1978](https://twu.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat05965a&AN=alc.191437&site=eds-live){target="_blank"}). We will also consider various modes of interaction in learning environments and how these two models have informed the model of teaching and learning in TWU FAR Centres.
+Welcome to Unit 1 of LDRS 663! In this unit, we will begin by considering the nature of learning communities through the lens of a model called the _Community of Inquiry (CoI)_ ([Garrison et al., 2000](https://www.sciencedirect.com/science/article/pii/S1096751600000166?){target="_blank"}; [Vaughan et al., 2013](http://www.aupress.ca/index.php/books/120229){target="_blank"}). The CoI model proposes that there are three overlapping components, or presences, to any learning environment; cognitive presence (constructing meaning), social presence (projecting a sense of yourself), and teaching presence (designing and facilitating the learning experience). The CoI model is grounded in a long history of social constructivism which is the idea that learning is fundamentally a social process ([Dewey, 1897](https://en.wikisource.org/wiki/My_Pedagogic_Creed){target="_blank"}; [Vygotsky, 1978](https://twu.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat05965a&AN=alc.191437&site=eds-live){target="_blank"}). We will also consider various modes of interaction in learning environments and how these two models have informed the model of teaching and learning in TWU online courses.
 
 ### Topics {.unnumbered}
 This unit is divided into the following topics:
@@ -42,9 +42,12 @@ When you have completed this unit, you will be able to:
 
 Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
 
-1. [Exploring the Community of Inquiry:](#activity-exploring-the-community-of-inquiry) Read *Critical Inquiry in a Text-Based Environment: Computer Conferencing in Higher Education*.
-2. [What Is Interaction?:](#activity-what-is-interaction) Watch *You Keep Using That Word* and consider what interaction is.
-3. [Theoretical Rationale for Interaction:](#activity-theoretical-rationale-for-interaction) Read *Getting the Mix Right Again: An Updated and Theoretical Rationale for Interaction*.
+//todo #22
+
+1. Introductions and Learning Stories @sec-learning-stories
+2. [Exploring the Community of Inquiry:](#activity-exploring-the-community-of-inquiry) Read *Critical Inquiry in a Text-Based Environment: Computer Conferencing in Higher Education*.
+3. [What Is Interaction?:](#activity-what-is-interaction) Watch *You Keep Using That Word* and consider what interaction is.
+4. [Theoretical Rationale for Interaction:](#activity-theoretical-rationale-for-interaction) Read *Getting the Mix Right Again: An Updated and Theoretical Rationale for Interaction*.
 
 ::: {.note icon="true"}
 
@@ -69,9 +72,9 @@ Here are the resources you will need to complete this unit:
 
 
 
-## Introduction to the Community of Inquiry Model
+## Introduction to the Community of Inquiry Model {#sec-learning-stories}
 
-Before you dive into the content of this unit in LDRS 663, take a moment to recall some particularly memorable learning experiences that you have had. They don't have to be particularly profound in terms of *what* you learned, but profound because of the fact that you still remember *that* you learned something and *how* you learned it. Pick one or two of those experiences and  be prepared share them in our class meeting. Make sure to tell us about the context of your experience. Who was there? What did you do to learn? Why do you remember it? 
+Before you dive into the content of this unit in LDRS 663, take a moment to recall some particularly memorable learning experiences that you have had. They don't have to be particularly profound in terms of *what* you learned, but profound because of the fact that you still remember *that* you learned something and *how* you learned it. Pick one or two of those experiences and share them in the *[Introductions and Learning Stories* topic in the Learning Community.](https://twu.discourse.group/t/introductions-and-learning-stories) Make sure to tell us about the context of your experience. Who was there? What did you do to learn? Why do you remember it? 
 
 ### Social Constructivism
 
