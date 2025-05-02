@@ -56,18 +56,15 @@ If your birthday is between July 1 and December 31, **criticize** Anderson's Int
 
 Feel free to respond to arguments presented by your colleagues for or against the theorem.
 
-To submit all of your posts for the course, create a new journal entry in your Obsidian vault.
+Compose each post as a new topic in [the Learning Community](https://twu.discourse.group/c/leadership-463-663/21). Make sure you use tags in your post to allow you and others in the course to curate your thoughts.
 
 ### Post 2{.unnumbered}
 
 #### Due at the end of Unit 3 {-}
 
-Scan through the [feed of posts from previous cohorts of this course](https://ma-lead.github.io/ldrs663/feeds.html){target="_blank"} and read through a few posts about Anderson's *Interaction Equivalency Theorem*. Then revisit your own post from Unit 1 in this cohort and, in a new post, provide a review of your Unit 1 post. Evaluate your post using the SOLO Taxonomy found on the bottom of this page. In your review, make sure you link to more than one post from a previous cohort.
+Your second post will be based on your Autoethnography proposal (Assignment 1). Your task will be to create an abstract for your paper, which at this point, will be a summary of your proposal. Your abstarct must be between 150 and 200 words. This is the standard word count for an article abstract in many journals.
 
-Once you have completed this task using one of your own posts, repeat the process for one of your colleagues' posts, preferrably, someone who took the opposite view from you (if you defended Anderson's theorem, then evaluate the post of someone who criticised it).
-
-To create all of your posts for the course, create a new journal entry in your Obsidian vault, then paste your completed post into the appropriate topic in Discourse.
-
+Compose each post as a new topic in [the Learning Community](https://twu.discourse.group/c/leadership-463-663/21). Make sure you use tags in your post to allow you and others in the course to curate your thoughts.
 ### Post 3{.unnumbered}
 
 #### Due at the end of Unit 4 {.unnumbered}
@@ -79,8 +76,7 @@ In your Discussion Post for this unit, you are being asked to select one core co
 - Why is the competency important?    
 - What set of integrated knowledge, skills, aptitudes and attributes help define, in more detail, how to successfully perform the job to be done?    
 
-To submit all of your posts for the course, create a new journal entry in your Obsidian vault.
-
+Compose each post as a new topic in [the Learning Community](https://twu.discourse.group/c/leadership-463-663/21). Make sure you use tags in your post to allow you and others in the course to curate your thoughts.
 <!--
 ### Post 4{.unnumbered}
 
@@ -110,6 +106,7 @@ Throughout this unit we have explore the idea of the educational experience. You
 - How might this shift change the learner’s role and responsibilities change?  
 - How can institutions ensure quality and transformational learning outcomes?  
 
+Compose each post as a new topic in [the Learning Community](https://twu.discourse.group/c/leadership-463-663/21). Make sure you use tags in your post to allow you and others in the course to curate your thoughts.
 <!--
 ### Showcase Post {.unnumbered}
 
@@ -132,9 +129,9 @@ Choose one of the previous 5 posts that you would like to showcase as your best 
 -->
 
 
-## Autoethnography Proposal and Ethics App  {.unnumbered}
+## Autoethnography Proposal <!--and Ethics App-->  {.unnumbered}
 
-Your project throughout this course will be to engage in an autoethnographic exploration of your experiences learning about and practicing coaching and facilitation skills in the context of higher education. 
+Your project throughout this course will be to engage in an autoethnographic exploration of your experiences learning about and practicing coaching and facilitation skills in the context of higher education. Each assignment in the course will contribute towards the creation of an autoethnographic account of your experiences in the course and the final result will be a document in the form of a scholarly article. The first component of this project is to create a proposal, which will include a brief introduction to your project, a literature review, and a description of your methods (autoethnography).
 
 
 

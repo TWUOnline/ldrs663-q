@@ -44,7 +44,7 @@ Here is a list of learning activities that will benefit you in completing this u
 
 //todo #22
 
-1. Introductions and Learning Stories @sec-learning-stories
+1. *[Introductions and Learning Stories* topic in the Learning Community.](https://twu.discourse.group/t/introductions-and-learning-stories)
 2. [Exploring the Community of Inquiry:](#activity-exploring-the-community-of-inquiry) Read *Critical Inquiry in a Text-Based Environment: Computer Conferencing in Higher Education*.
 3. [What Is Interaction?:](#activity-what-is-interaction) Watch *You Keep Using That Word* and consider what interaction is.
 4. [Theoretical Rationale for Interaction:](#activity-theoretical-rationale-for-interaction) Read *Getting the Mix Right Again: An Updated and Theoretical Rationale for Interaction*.
