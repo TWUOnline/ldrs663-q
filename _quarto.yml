@@ -49,7 +49,7 @@ format:
   html:
     template-partials:
       yml-assets/title-block.html
-      
+    link-external-icon: true
     sidebar:
       style: "docked"
       search: true
