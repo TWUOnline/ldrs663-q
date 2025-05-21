@@ -116,6 +116,7 @@ The task of facilitating learning with the ZPD in mind assumes that you, as the 
 
 ::: {.learning-activity title="Read and Reflect"}
 // todo #23 Add an introduction to this activity?
+
 - How does the idea of the zone of proximal development help you support learning?
 - How do you think social interactions have influenced your learning experiences in the past? Can you recall an example where learning through observation or collaboration helped you grasp a concept better?
 - Vygotsky emphasizes the role of the Zone of Proximal Development (ZPD) in effective learning. Reflecting on a recent learning challenge, can you identify your ZPD for that task? How did external support (e.g., guidance, resources) help you progress?
@@ -135,6 +136,7 @@ Contrary to this dysfunctional group learning model, cooperative learning is str
 
 #### More about cooperative learning...{.unnumbered}
 // todo #24 Perhaps adding an example to each of the five characteristics of learning groups would be a good idea!
+
 ##### Positive Interdependence{.unnumbered}
 Positive interdependence, according to Johnson and Johnson is the idea that individuals in a learning environment are dependent upon each other for success. In other words, I cannot succeed unless you succeed and you cannot succeed unless I succeed. So, collectively, we are interdependent. Positive interdependence is the key that distinguishes cooperative learning from competitive learning, where students are graded on a curve and only the top 2-3% of students can earn 'A' grades.
 
@@ -163,6 +165,7 @@ Finally, the group must be able to monitor their process with the goal of improv
 After reading through the content in Topic 2, please consider the following questions:  
 
 // todo #25 I’m wondering whether we should reconsider this question, as the students have not yet been introduced to coaching concepts in this unit.
+
 -  How can coaching concepts be applied to helping learners learn?  
 -  What key characteristics define effective coaching for learning?  
 -  How can educators coach learners through the transition of making a change?
@@ -190,6 +193,7 @@ The work of facilitating the learning process within a group setting begins with
 
 ::: {.learning-activity}
 // todo #26 Should we include an introduction that encourages the student to start thinking about the planning of their facilitation session? Or should we include specific questions that prompt the student to begin planning their facilitation session?
+
 Read the following article [_Facilitating Learning and Change in Groups and Group Sessions_](https://infed.org/mobi/facilitating-learning-and-change-in-groups-and-group-sessions/) (_Infed.Org_, n.d.).
 
 After completing the reading above, consider the following questions:  
@@ -352,7 +356,9 @@ This unit explored the principles and practices of Learning Facilitation, emphas
 ::: check
 
 Before you move on to the next unit, you may want to check to make sure that you are able to:
+
 // todo #27 The ‘Checking Your Learning’ section needs to be developed. It only has the Unit Learning Outcomes right now.
+
 - Explain how to design learning environments to maximize learning.  
 - Plan appropriate group learning processes to support transformative learning.  
 - Demonstrate how to facilitate a course of study.  

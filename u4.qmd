@@ -95,7 +95,7 @@ The first Learning Activity for Unit 5 will focus on the work of John Dewey in h
 
  - [**Experience and Education: Chapter 2**](http://ruby.fgcu.edu/courses/ndemers/colloquium/experienceducationdewey.pdf)
 
-#### ***Questions to Consider...***
+#### **Questions to Consider**
 
 After completing the reading above, consider the following questions:
 
@@ -274,7 +274,7 @@ After taking a moment to consider the questions above, read Chapter 1 of our cor
 
 [Teaching in a Digital Age](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/part/chapter-1-fundamental-change-in-education/)
 
-#### ***Questions to Consider...*** {.unnumbered}
+#### **Questions to Consider** {.unnumbered}
 
 After completing the reading above, consider the following questions:
 
@@ -334,7 +334,7 @@ This Learning Activity begins by asking you to take a close look and consider th
 
 [Realigning Higher Education for the 21st-Century Learner through Multi-Access Learning](https://jolt.merlot.org/vol9no2/irvine_0613.htm)
 
-#### ***Questions to Consider...*** {.unnumbered}
+#### **Questions to Consider** {.unnumbered}
 
 After taking some time to consider the picture, along with completing the reading above, consider the following questions:
 
