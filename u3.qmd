@@ -606,5 +606,8 @@ you really want.
 - Define the Critical Path (the order of tasks)
 - Schedule the Work (when you do what)
 
-## TUnit Summary {.unnumbered}
+## Unit Summary {.unnumbered}
 //todo #20
+
+## Checking Your Learning
+//todo #21
