@@ -30,6 +30,8 @@ When you have completed this unit, you should be able to:
 
 Online resources will be provided in the unit.
 
+// todo #29 - The Coaching Notes link is broken. Also, I think it would be good to use the “open in a new tab” setting.
+
 [Coaching Notes](https://ma-lead.github.io/ldrs663/coaching-notes.html)
 
 ## Theories of Learning {.unnumbered}
@@ -93,15 +95,15 @@ One implication of this is that it is naïve for educators to assume that a sing
 
 Read Chapters 1-3 of How people learn II: Learners, Context and Cultures, [available for free download here](https://www.nap.edu/catalog/24783).
 
-Note: We will not be using this entire book, so don't feel obliged to purchase a copy for yourself.
+*Note*: We will not be using this entire book, so don't feel obliged to purchase a copy for yourself.
 Click 'Read Online' As you read, please use hypothes.is to both record your thoughts and connections in the article, but also interact with past annotations. These chapters are already heavily annotated, presumably by other students.
 
 **Questions to Consider**
 
 After completing the reading above, consider the following questions:
 
- - *What are the basic types of learning?*
- - *How does the human brain respond to learning?*
+ - What are the basic types of learning?
+ - How does the human brain respond to learning?
 
 
 :::
@@ -119,12 +121,12 @@ Below is a resource that summarizes existing research from cognitive science rel
 
 After completing the reading above, consider the following questions:
 
- - *How do students understand new ideas?*
- - *How do students learn and retain new information?*
- - *How do students solve problems?*
- - *How does learning transfer to new situations in or outside of the classroom?*
- - *What motivates students to learn?*
- - *What are common misconceptions about how students think and learn?*
+ - How do students understand new ideas?
+ - How do students learn and retain new information?
+ - How do students solve problems?
+ - How does learning transfer to new situations in or outside of the classroom?
+ - What motivates students to learn?
+ - What are common misconceptions about how students think and learn?
 
 
 :::
@@ -149,6 +151,7 @@ Increasing learners’ awareness of their own internal resistance to new learnin
 
 The secondary theme of coaching for learning is increasing learners’ awareness of how they may best realize their potential capacity to learn anything which they set out to learn. This involves coaching learners in the learning process and helping them make it more effective and efficient. This practice builds on the notion of transforming the learners' natural learning process into a disciplined set of study skills. A helpful approach that educators can use to coach for learning potential is the GROW coaching model. This model is based on the coaching concepts pioneered by Gallway (1997) and developed at the McKinsey consulting firm in the 1980s and first published in 1992 by John Whitmore in his book *Coaching for Performance*. The model is widely used in leadership and life coaching contexts. For educators concerned with coaching for learning, we can apply this model in the following way:
 
+// todo #30 - This content is currently in a learning activity box. Is there a better format to highlight this?
 
 ::: {.learning-activity}
 
