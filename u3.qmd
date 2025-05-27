@@ -172,15 +172,17 @@ The secondary theme of coaching for learning is increasing learners’ awareness
 
 Take a few moments to read the article below written by Tim Gallwey. Gallwey works with companies to help them find better ways to implement change. In the article below, he discusses the importance of creating a learning culture - specifically, he discusses why coaches need to understand the learning process and the obstacles a learner experiences:
 
+// todo #31 modify the link to open in a new tab
+
 - [**The Inner Game of Work**](https://thesystemsthinker.com/the-inner-game-of-work-building-capability-in-the-workplace/)
 
 **Questions to Consider**
 
 After completing the activity above, consider the following questions:
 
-- *How can coaching concepts be applied to helping learners learn?*
-- *What key characteristics define effective coaching for learning?*
-- *How can educators coach learners through the transition of making a change?*
+- How can coaching concepts be applied to helping learners learn?
+- What key characteristics define effective coaching for learning?
+- How can educators coach learners through the transition of making a change?
 
 
 :::
@@ -190,7 +192,9 @@ After completing the activity above, consider the following questions:
 Effective coaching is grounded in an emerging set of coaching competencies. These competencies represent a set of integrated knowledge, skills, aptitudes and attributes that coalesce into behaviors that define, in more detail, what is needed to successfully perform the task of helping learners learn. The following are six essential behaviors the developing educator as coach must demonstrate.
 
 
-### Practicing Professional Ethics & Standards {.unnumbered}
+### 1 Practicing Professional Ethics & Standards {.unnumbered}
+
+// todo #32 The check marks look larger than the font. Can we adjust their size, or would it be better to use bullet points?
 
 The basis of this competency is a personal commitment to demonstrating and maintaining the highest level of ethical behavior. Emerging professional coaching standards include,   
 ✅ making the roles, responsibilities, and rights of everyone involved in the coaching relationship clear,   
@@ -201,13 +205,13 @@ The basis of this competency is a personal commitment to demonstrating and maint
 
 
 
-### Cultivating Trust & Safety {.unnumbered}
+### 2 Cultivating Trust & Safety {.unnumbered}
 
 Seeks to understand the learner and their unique learning context, demonstrates respect for the learner’s identity, values and perspective, showing empathy and concern for their well-being, acknowledges the learner unique abilities, interests, and feelings, demonstrating openness and vulnerability, and supporting the unique needs of the learner’s personality.
 
 
 
-### Holding Space/Presence {.unnumbered}
+### 3 Holding Space/Presence {.unnumbered}
 
 Being focused on the moment and giving attention to what is occurring in your conversation with the learner. Initially, this might feel like simply holding yourself back from talking too much as the coach and giving the learner space (that is, your silence) to reflect and process things. One way to conceptualize this competency as "creating a “space to listen into.” This involves   
 ✅  creating comfortable distance in physical space,  
@@ -216,18 +220,18 @@ Being focused on the moment and giving attention to what is occurring in your co
 
 
 
-### Active Listening {.unnumbered}
+### 4 Active Listening {.unnumbered}
 
 The intent of these particular skills is to help the coach truly understand the learner and their context, and to help the learner feel like they have been understood and supported. Typical skills include, paying attention, holding judgement, reflecting, clarifying, summarizing, and sharing.
 
 
-### Evoking Awareness {.unnumbered}
+### 5 Evoking Awareness {.unnumbered}
 
 Asks questions to clarify the learners’ experiences, way of thinking, feelings, values, needs, wants, and beliefs.  Asking questions to help learners explore beyond their current thinking. Invites learners to share more about their present learning experiences. Notices what is working to enhance the learners progress. Challenges learners to increase their awareness and insight. Helps learners identify their potential for growth, internal/external obstacles, and options to move forward. Shares observations, insights, and encouragements to assist the learner in their learning.
 
 
 
-### Cultivating Growth {.unnumbered}
+### 6 Cultivating Growth {.unnumbered}
 
 Asks questions that helps learners  
 ✅ surface their interests,  
