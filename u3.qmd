@@ -259,7 +259,7 @@ After completing the activity above, consider the following questions:
  - How can a coaching approach help you support learner success in an educational setting?
 
 :::
-
+// todo #34 Delete the following heading? 
 
 ## Unit 4 Assessment {.unnumbered}
 
@@ -297,6 +297,7 @@ In addition, please begin planning your [Peer Coaching Session](https://ma-lead.
 
 :::
 -->
+// todo #35 **The following Coaching Notes feel like a mix of a summary and a step-by-step guide to help students coach more effectively. What if we turned this into an H5P presentation and used it as the summary section? Maybe we could also offer a downloadable version—would that be helpful for their assignments?**
 
 ## Coaching Notes {.unnumbered}
 
@@ -344,6 +345,7 @@ In addition, please begin planning your [Peer Coaching Session](https://ma-lead.
 
 #### Core Coaching Competencies {.unnumbered}
 
+// todo #36 The content discusses 6 Core Coaching Competencies, and here there are more than six. Could this be confusing for students? Maybe we could organize them differently?
 
 - Practicing Professional Ethics & Standards
 - Cultivating Trust & Safety
@@ -379,7 +381,6 @@ The reality is that
 > Why is “listening into” the inner world of the learner’s lived-experience so difficult? 
 
 
-:::
 
 #### Reason: We listen autobiographically {.unnumbered}
 
@@ -413,7 +414,7 @@ she finishes communicating, saying things like:
 
 #### Julian Treasure (2011) provides us with critical insights into how we can listen consciously. {.unnumbered}
 
-
+// todo #37 The link to the video is missing
 
 ![alt-text](assets/presentations/coaching/ted.jpg "TEDTalks splash page")
 
@@ -460,6 +461,7 @@ she finishes communicating, saying things like:
 2. Name emotions you observe
 3. Be a “mirror”
 
+// todo #38 I think we can improve the quality of the following image, since the text is blurry and hard to read.
 
 
 ![alt-text](assets/presentations/coaching/plutchik.jpg "Plutchik's wheel of emotions")
