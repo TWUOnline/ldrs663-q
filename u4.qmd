@@ -50,7 +50,7 @@ His point, here, is that the studying of texts is also an “experiential learni
 
 According to Dewey’s theory of education and experience, one’s learning experience arises from the interaction of two essential principles—continuity and interaction.  Continuity refers to his idea that each experience one has will influence, in some way, one’s future experiences. Building on continuity, interaction expresses the relationship between one’s past experience and present learning situation.
 
-// todo #39 Use a different format to highlight the following text, since this is not a learning activity 
+**// todo #39** Use a different format to highlight the following text, since this is not a learning activity 
 
 ::: {.learning-activity}
 #### Continuity of experience, in Dewey’s (1938) words, 
@@ -75,7 +75,7 @@ Dewey describes the mechanics of the interplay of continuity and interaction as 
 
 The course designer has crafted a course of study and associated active learning experiences in the facilitator’s guide. The course designer’s intent is to lead the student, with the help of your facilitation, through a continuity of interactions leading to positive growth in the learner, as defined by the learning outcomes. As facilitator your role is to help learners navigate this pathway of learning experiences and ensure the intended continuity of learning experiences and the intended learner interactions between the learners and these experiences is achieved.
 
-// todo #40 Use a different format to highlight the following text, since this is not a learning activity
+**// todo #40** Use a different format to highlight the following text, since this is not a learning activity
 
 ::: {.learning-activity}
 #### In sum, Dewey’s theory suggests three critical practices for facilitating learning:
@@ -95,7 +95,7 @@ Every learner and group of learners is unique, each bringing different prior exp
 
 The first Learning Activity for Unit 4 will focus on the work of John Dewey in his writing *Experience and Education.* While the link below will take you to the entire text (*which you are more then welcome to read!*), the focus for this section will be on Chapter 2 titled: ***The Need of a Theory of Experience.***
 
-// todo #41 Set up the following link to open in a new tab
+**// todo #41** Set up the following link to open in a new tab
 
  - [**Experience and Education: Chapter 2**](http://ruby.fgcu.edu/courses/ndemers/colloquium/experienceducationdewey.pdf)
 
@@ -171,7 +171,7 @@ As educators today, we have inherited a mix of classical, modern, and now post-m
 
 **// todo #42** It seems that the instructions for the learning activity are missing. Exactly what readings do students have to complete?
 
-#### **Questions to Consider**
+#### **Questions to Consider** {.unnumbered}
 
 After completing the reading above, consider the following questions:
 
@@ -219,7 +219,7 @@ Bound by a space and a time, study is a particularity, not a generality. Study i
 
 ### Activity {.unnumbered}
 
-::: {.learning-activity}
+::: {.learning-activity title="Estimayed Time: 00 minutes"}
 
 **// todo #43** It seems that the content provided is sufficient for students to reflect on the questions listed. I’m just wondering if this was the intended design, or if we’re missing some reading resources for this activity.
 
