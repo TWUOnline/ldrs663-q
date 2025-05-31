@@ -75,14 +75,12 @@ The course designer has crafted a course of study and associated active learning
 
 **// todo #40** Use a different format to highlight the following text, since this is not a learning activity
 
-::: {.learning-activity}
-#### In sum, Dewey’s theory suggests three critical practices for facilitating learning:
+### In sum, Dewey’s theory suggests three critical practices for facilitating learning:
 
-- the need to intentionally link new learning experiences with past ones in a logical and progressive way  
+> - the need to intentionally link new learning experiences with past ones in a logical and progressive way  
 - the need to identify what the learner already knows  
 - helping the learner make their learning meaningful (not merely as preparation for the future, but in the present)  
 
-:::
 
 Every learner and group of learners is unique, each bringing different prior experiences to each new learning situation you will facilitate. So, part of your role is to help learners navigate gaps in continuity and make judgements about what active learning experiences are best suited to helping learners grow.
 
