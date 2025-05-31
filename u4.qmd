@@ -263,19 +263,21 @@ Explaining the important role of the map Dewey (1902) writes:
 
 The learning design and its associated documents that we create as educators constitute a map of the terrain to be covered within a course of study (that is, a learning program). Nevertheless, it is important to recognize it is not an exhaustive view of the territory, but simply sets directive guidance for the teachers’ and students’ journey through this terrain. In short, *curricular documents, like a syllabus, simply serves as the guide to the learning experience.* As educators, we shouldn’t be bound to it. In our role of coaching and facilitating transformational learning our role is to acts as guides in the curricular journey that students are undertaking and they work to complete a particular course of study.
 
-
+**// todo #46** I wonder if we should provide some examples of a syllabus or a suggested outline of what it should include.
 
 ## Emerging Models of Open and Multi-Access Education
 
 Online learning, blended learning, flipped classroom, face-to-face, hybrid course, multi-access... you may have heard some of these terms tossed around, especially recently with the shifting focus to online. Before we unpack and examine these modalities of learning, consider how learning in Higher Education has changed. *What are the shifts that have happened in the last 20, 10, 5 years? How has technology shaped the way teachers teach and the way students learn?*
 
+### Activity {.unnumbered}
 
 ::: {.learning-activity}
-#### Learning Activity {.unnumbered}
 
 After taking a moment to consider the questions above, read Chapter 1 of our core text, *Teaching in a Digital Age* by Tony Bates. It can be found by clicking on the following link:
 
 ***Note:*** *Particularly focus on sections 1.6-1.8.*
+
+**// todo #47** Configure the following link to open in a new tab.
 
 [Teaching in a Digital Age](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/part/chapter-1-fundamental-change-in-education/)
 
@@ -283,8 +285,8 @@ After taking a moment to consider the questions above, read Chapter 1 of our cor
 
 After completing the reading above, consider the following questions:
 
- - ***What changes have you seen in Online Learning?***  
- - ***What changes to you foresee in the next few years?***  
+ - What changes have you seen in Online Learning?
+ - What changes to you foresee in the next few years? 
 
 :::
 
