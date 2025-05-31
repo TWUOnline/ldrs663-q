@@ -310,7 +310,7 @@ Read the following excerpt from *Realigning Higher Education for the 21st-Centur
 
 With the uncertainty brought on by COVID-19, multi-access learning has great potential for our education system. This modality not only brings more choice to students, but promotes a learner-centred course design and best practices in teaching and learning.
 
-#### The 4 tiers of multi-access learning: {-}
+### The 4 tiers of multi-access learning:
 
 ##### Tier 1 {.unnumbered}
 
@@ -351,6 +351,12 @@ After taking some time to consider the picture, along with completing the readin
 :::
 
 ![Beyond Blended Visual notes by giuliaforsythe on Twitter](assets/U5/U5LAImage.jpg)
+
+## Unit Summary {.unnumbered}
+**// todo #48**
+
+## Checking Your Learning {.unnumbered}
+**// todo #49**
 
 **// todo #45** Delete the following title?
 
