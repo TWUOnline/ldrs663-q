@@ -217,12 +217,13 @@ As educators coaching students for transformational learning our overarching aim
 
 Bound by a space and a time, study is a particularity, not a generality. Study is embodied in individual lives, it is a place and situation “saturated by meaning, with culture and history as these are personified in specific people with whom we live as neighbors, fellow citizens, and humanity” (Pinar, 2015, p. 192). The act of study as defined by McClintock and Pinar is not something, which is limited to a formal program of study. Rather, McClintock and Pinar remind us all of culture, and nature, can be educational. Going back to antiquity, Hutchins (1968, p. 133) notes that “education was not a segregated activity,” but rather as was the situation in Greece, “the Athenian was educated by culture, by paideia” (p. 33). The critical insight to emerge, here, is that “study is the site of education” (Pinar, 2006, p. 112). The nature of study is a very personal, often difficult, potentially joyous, dialogue of self-transformation. As educators, our ultimate role is to help others in their personal acts of study and self-transformation.
 
+### Activity {.unnumbered}
 
 ::: {.learning-activity}
 
-// todo #43 It seems that the content provided is sufficient for students to reflect on the questions listed. I’m just wondering if this was the intended design, or if we’re missing some reading resources for this activity.
+**// todo #43** It seems that the content provided is sufficient for students to reflect on the questions listed. I’m just wondering if this was the intended design, or if we’re missing some reading resources for this activity.
 
-#### **Questions to Consider**... {.unnumbered}
+#### **Questions to Consider** {.unnumbered}
 
 After completing the reading above, consider the following questions:
 
