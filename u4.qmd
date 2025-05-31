@@ -120,7 +120,7 @@ Peters’ (1966) assertion that the term education is more than merely a synonym
 The “what” and “how” questions of education take us a step closer to understanding what it means to be educated. Broadly speaking, Peters’ assertion that education involves something of value being learned in a particular way implies that to become educated involves a transformation or a change. That is, to become educated means one becomes something. Consider, our common use of “to educate” in our everyday speech. When we say we must educate someone about something, such as, “We must educate the public” about such-and-such, “the clear implication of this familiar way of speaking is that certain information is to be imparted, this information is to be understood and, in virtue of the understanding, what people do, or do not do, is to change” (Barrow and Woods, 2006, p. 35). Thus, clearly education means not only coming to *know* such-and-such, but *how* to do various sort of things.
 
 
-### The Pre-Modern Condition
+### The Pre-Modern Condition {.unnumbered}
 
 Educational ideas about what things of worth should be learned and how they should be learned emerge from our theories of knowledge. That is, how one seeks to lead others to know presumes knowledge of what knowledge is and how one comes to have knowledge. Moreover, knowledge is (often, if not always) value laden, making ethical claims on how people ought to live. So, it might also be said that people’s educational ideas about knowledge are informed by their ethical propositions. Lastly, knowledge (typically) is directed at something, which further requires a metaphysical consideration of what there is. Or, in other words, a consideration of the ways in which the known (anything that is) relates to knowledge (what is represented or thought to be). This tri-part conception of knowledge is one we inherited in the West from the ancient Greeks.
 
@@ -134,7 +134,7 @@ This idea persisted, and by late antiquity Augustine, in his dialogue <i>On the 
 
 This idea of “drawing forth” knowledge remains an important concept for use, as in part, it forms a foundation to how we understand the roles of coaching learners and facilitating learning experiences.
 
-### The Modern Condition
+### The Modern Condition {.unnumbered}
 
 Following, the classical tri-part conception of what one ought to know and how one comes to know, typical of ancient through the Middle Ages thought, a new modern condition of thought emerged. In the mid-17th century, the seeds of the Enlightenment (and more broadly speaking, the Modern Era) were planted by Descartes’ <i>Discourse on Method,</i> published in 1637, and by Isaac Newton’s <i>Principia Mathematica</i> in 1687. These two conceptual insights mark redactions of two longstanding Western thought traditions and together generate a new education paradigm. Ways of thinking inspired by Plato’s ideal Forms and Aristotle’s normative ideals were supplanted (respectively) by Descartes’ method of rightly conducting reason (philosophic positivism) and Newton’s system of mathematical physics (scientific method). Consequently, (and irrespective of any deductive or inductive distinction) the pre-modern “organic” paradigm of intellectual coherence shifted into a modern “mechanical” one. This new paradigm of learning introduced a now commonplace “constructivist” model of knowledge, which is at once, still modern and is presently shifting into something that is “beyond” that definition.
 
@@ -150,7 +150,7 @@ While today Science in education is commonplace, in Spencer’s day his complain
 
 In modern times, the old idea of teaching as a helping act leading a student to discover the Truth through their own act of study, transformed in a directive act of instructing the learning. That is, teachers become instructors, and students became learners. The hope of scientific education was twofold. First, we thought that if we could understand how people learn, then, we could understand how to instruct them in their learning. Metaphorically, we saw people as learning “machines” who could be “programmed” with instructions, just like we program computers. Second, we believed science could give us secure, reliable Truth, which we could then program our minds to hold. The problem is that people are not machines, and scientific knowledge is not secure.
 
-### The Post-Modern Condition
+### The Post-Modern Condition {.unnumbered}
 
 Simply put, while science was an incredibly powerful way of understanding the natural world, it was less successful at describing or more importantly predicted the social world. Jean-François Lyotard described this dissolution with the limits of science to know the world, the post-modern condition. Lyotard’s primary interest is the high-status knowledge produced by the social institutions of highly developed (Western) societies. In his seminal work <i>The Postmodern Condition: A Report on Knowledge</i> (Lyotard, 1984) he notes that a primary characteristic of this type of knowledge production is a modern notion that aspires to fit all forms of knowledge into a general unifying narrative. Lyotard designates any knowledge (in particular scientific) as modern that “legitimates itself with reference to a metadiscourse of this kind making an explicit appeal to some grand narrative, such as the dialectics of Spirit, the hermeneutics of meaning, the emancipation of rational or working subject, or the creation of wealth” (1984, p. xxiii).
 
@@ -176,7 +176,7 @@ After completing the reading above, consider the following questions:
 
 :::
 
-## Topic 3: Study as the Site of Education {-}
+## Study as the Site of Education {-}
 
 Learning ultimately occurs within the cognitive presence of individual learners, through their personal interactions with their self and the content. Historically, this educational experience has been widely understood as the practice known as study. McClintock (1971/2000) argues, “whether we like it or not, many … educators considered education to consist of neither teaching nor learning; instead, they found the diverse forms of study to be the driving force in education” (p. 167). While instruction in all of its various forms may play a role, the learner is always the one who does the work of learning. Citing Montaigne’s (1877) essay “Of the Education of Children” McClintock (1971/2000) notes, “teaching and learning might impart knowledge, whereas study led to understanding, whereby things known were made one's own and became a part of one's judgment, and ‘education, labor, and study aim only at forming that’” (p. 162). Here, we see how Dewey’s notion of the importance of learners adding their own meaning and application to what they learn connects to a thread of thought with a long history. We also see the educational idea of the normative or ethical element of whole personal transformation.
 
@@ -228,7 +228,7 @@ After completing the reading above, consider the following questions:
 
 :::
 
-## Topic 4: Institutionalization of Teaching and Learning {.unnumbered}
+## Institutionalization of Teaching and Learning
 
 
 In his essay *“Towards a place for study in a world of instruction”* McClintock (1971/2000) observes how the modern era’s institutionalization of study progressively led to a fundamental shift in practice:
@@ -265,7 +265,7 @@ The learning design and its associated documents that we create as educators con
 
 
 
-## Topic 5: Emerging Models of Open and Multi-Access Education {.unnumbered}
+## Emerging Models of Open and Multi-Access Education
 
 Online learning, blended learning, flipped classroom, face-to-face, hybrid course, multi-access... you may have heard some of these terms tossed around, especially recently with the shifting focus to online. Before we unpack and examine these modalities of learning, consider how learning in Higher Education has changed. *What are the shifts that have happened in the last 20, 10, 5 years? How has technology shaped the way teachers teach and the way students learn?*
 
@@ -289,7 +289,7 @@ After completing the reading above, consider the following questions:
 :::
 
 
-## Topic 6 - Multi-Access Learning Environments {.unnumbered}
+## Multi-Access Learning Environments
 
 
 One trend that is gaining traction is **Multi-Access Learning.**
@@ -310,32 +310,32 @@ With the uncertainty brought on by COVID-19, multi-access learning has great pot
 
 #### The 4 tiers of multi-access learning: {-}
 
-##### Tier 1
+##### Tier 1 {.unnumbered}
 
 The first tier of multi-access learning is what most of you have experienced (as learners and faculty) as the predominant modality of higher education, face-to-face (f2f). F2f learning environments are often assumed to be the preferred modality of learning because a f2f classroom allows for rich, multi-modal interactions and robust community-building. This is true to an extent, but only if class sizes are very small; large, lecture-based classrooms present significant challenges to building the kind of critical and safe community for engaged interaction.
 
-##### Tier 2
+##### Tier 2 {.unnumbered}
 
 The second tier of access allows learners who cannot travel to a central campus (like during a worldwide pandemic) to participate in a learning community syncronously via video conferencing. Remote and local learners may exchange items and artifacts and may share video feeds and use software such as Etherpad or screensharing through the web-conferencing tool to collaborate on documents for co-creation of content.
 
-##### Tier 3
+##### Tier 3 {.unnumbered}
 
 The third tier provides asynchronous access for remote learners who cannot join the scheduled class session due to any number of constraints (employment, child/elder care, time-zone, or even network bandwidth). Irvine, et al. acknowledge that simply viewing a recording of a synchronous session, regardless of how collaborative and engaging that session may have been, is a much leaner experience for learners and may not be optimal. This highlights the need to provide learning materials in formats beyond video and audio, perhaps including text-based materials and asynchronous tools for co-creation of content such as GitHub.
 
-##### Tier 4
+##### Tier 4 {.unnumbered}
 
 The outermost tier of the model is for open participation from non-credit learners who are choosing to participate for their own interest and edification. It may seem anathema to some faculty to consider opening their course to the world, but the benefits can be significant, particularly in times like the spring of 2020.
 
-## Learning Activities {.unnumbered}
+## Activity: Look, Read, and Reflect {.unnumbered}
 
 
 ::: {.learning-activity}
-#### Look, Read, and Reflect {.unnumbered}
 
 This Learning Activity begins by asking you to take a close look and consider the picture below this block.
 
+**// todo #44** Include the image within the activity box.
 
-#### Read
+#### Read {.unnumbered}
 
 [Realigning Higher Education for the 21st-Century Learner through Multi-Access Learning](https://jolt.merlot.org/vol9no2/irvine_0613.htm)
 
@@ -343,14 +343,15 @@ This Learning Activity begins by asking you to take a close look and consider th
 
 After taking some time to consider the picture, along with completing the reading above, consider the following questions:
 
- - ***What ideas surround multi-access learning, according to the image?***
- - ***What is your definition of multi-access learning?***
- - ***If you were asked to provide multi-access learning for your course, what initial questions would you have?***
+ - What ideas surround multi-access learning, according to the image?
+ - What is your definition of multi-access learning?
+ - If you were asked to provide multi-access learning for your course, what initial questions would you have?
 
 :::
 
 ![Beyond Blended Visual notes by giuliaforsythe on Twitter](assets/U5/U5LAImage.jpg)
 
+**// todo #45** Delete the following title?
 
 ## Unit 4 Assessment {.unnumbered}
 
