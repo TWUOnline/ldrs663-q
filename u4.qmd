@@ -31,7 +31,7 @@ When you have completed this unit, you should be able to:
 Online resources will be provided in the unit.
 
 
-## Topic 1 - What is Educational Experience
+## What is Educational Experience
 
 
 Earlier we were introduced to the idea that a learning environment can be understood as overlapping presences: *cognitive presence, social presence,* and *teaching presence.* In this unit, we explore what is experienced within this environment by examining the theoretical ground the CoI model is built upon.
@@ -52,12 +52,10 @@ According to Dewey’s theory of education and experience, one’s learning expe
 
 **// todo #39** Use a different format to highlight the following text, since this is not a learning activity 
 
-::: {.learning-activity}
-#### Continuity of experience, in Dewey’s (1938) words, 
+### Continuity of experience, in Dewey’s (1938) words, 
 
 > *“means that every experience both takes up something from those which have gone before and modifies in some way the quality of those which come after”*(p. 35).
 
-:::
 
 Put different, every experience that a learner enacts or undergoes modifies that learner, and this modification (whether the learner likes it or not) affects the nature, quality and direction of the learner’s subsequent experiences. In this way, then, we may come to speak of a person growing, developing, or transforming not merely physically, but intellectually, morally, and so forth. This idea of growth expressed within the principle of continuity also suggests direction, ends, or outcome.
 
