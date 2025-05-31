@@ -176,7 +176,7 @@ After completing the reading above, consider the following questions:
 
 :::
 
-## Study as the Site of Education {-}
+## Study as the Site of Education
 
 Learning ultimately occurs within the cognitive presence of individual learners, through their personal interactions with their self and the content. Historically, this educational experience has been widely understood as the practice known as study. McClintock (1971/2000) argues, “whether we like it or not, many … educators considered education to consist of neither teaching nor learning; instead, they found the diverse forms of study to be the driving force in education” (p. 167). While instruction in all of its various forms may play a role, the learner is always the one who does the work of learning. Citing Montaigne’s (1877) essay “Of the Education of Children” McClintock (1971/2000) notes, “teaching and learning might impart knowledge, whereas study led to understanding, whereby things known were made one's own and became a part of one's judgment, and ‘education, labor, and study aim only at forming that’” (p. 162). Here, we see how Dewey’s notion of the importance of learners adding their own meaning and application to what they learn connects to a thread of thought with a long history. We also see the educational idea of the normative or ethical element of whole personal transformation.
 
@@ -228,7 +228,7 @@ After completing the reading above, consider the following questions:
 
 :::
 
-## Institutionalization of Teaching and Learning
+## The Institutionalization of Teaching and Learning
 
 
 In his essay *“Towards a place for study in a world of instruction”* McClintock (1971/2000) observes how the modern era’s institutionalization of study progressively led to a fundamental shift in practice:
