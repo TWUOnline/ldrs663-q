@@ -1,10 +1,8 @@
 # Educational Experience in a Multi-Access World
 
+## Overview {.unnumbered}
 
 This unit investigates the nature of educational experience, and how to guide it within the emerging learning settings where the teaching presence is now being distributed across multiple modalities and instructional roles. In this emerging model there is a systematic division of labour of the traditional teaching responsibilities. For instance, in one emerging model of multi-access education the teacher designs a course and assesses the students’ learning. However, the work of facilitating and directing the social and cognitive processes for the purpose of realizing the learning outcomes is now the responsibility of learning coaches and facilitators.  
-
-
-
 
 
 ### Topics {.unnumbered}
@@ -18,7 +16,7 @@ This unit is divided into the following topics:
 5. Emerging Models of Open and Multi-Access Education
 6. Multi-Access Learning Environments
 
-### Learning Outcomes {.unnumbered}
+### Unit Learning Outcomes {.unnumbered}
 
 When you have completed this unit, you should be able to:  
 - Describe the characteristics of educational experience.  
@@ -26,10 +24,19 @@ When you have completed this unit, you should be able to:
 - Identify the ways institutional learning and teaching is changing.  
 - Understand the difference between pedagogy and modality.  
 
+### Learning Activities {.unnumbered}
+Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
+
+**// todo #51** Add Learning Activities list 
+
+### Assessment {.unnumbered} 
+
+Please see the Assessment section in Moodle for assignment details.
+
 ### Resources {.unnumbered}
 
 Online resources will be provided in the unit.
-
+**// todo #50** Should we add the core book: Teaching in a Digital Age?
 
 ## What is Educational Experience
 
@@ -357,6 +364,7 @@ After taking some time to consider the picture, along with completing the readin
 
 ## Checking Your Learning {.unnumbered}
 **// todo #49**
+
 
 **// todo #45** Delete the following title?
 
