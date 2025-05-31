@@ -31,7 +31,7 @@ When you have completed this unit, you should be able to:
 Online resources will be provided in the unit.
 
 
-## Topic 1 - What is Educational Experience {.unnumbered}
+## Topic 1 - What is Educational Experience
 
 
 Earlier we were introduced to the idea that a learning environment can be understood as overlapping presences: *cognitive presence, social presence,* and *teaching presence.* In this unit, we explore what is experienced within this environment by examining the theoretical ground the CoI model is built upon.
@@ -88,10 +88,9 @@ The course designer has crafted a course of study and associated active learning
 
 Every learner and group of learners is unique, each bringing different prior experiences to each new learning situation you will facilitate. So, part of your role is to help learners navigate gaps in continuity and make judgements about what active learning experiences are best suited to helping learners grow.
 
-
+### Activity {.unnumbered}
 
 ::: {.learning-activity}
-#### Learning Activity {.unnumbered}
 
 The first Learning Activity for Unit 4 will focus on the work of John Dewey in his writing *Experience and Education.* While the link below will take you to the entire text (*which you are more then welcome to read!*), the focus for this section will be on Chapter 2 titled: ***The Need of a Theory of Experience.***
 
@@ -99,7 +98,7 @@ The first Learning Activity for Unit 4 will focus on the work of John Dewey in h
 
  - [**Experience and Education: Chapter 2**](http://ruby.fgcu.edu/courses/ndemers/colloquium/experienceducationdewey.pdf)
 
-#### **Questions to Consider**
+#### **Questions to Consider** {.unnumbered}
 
 After completing the reading above, consider the following questions:
 
