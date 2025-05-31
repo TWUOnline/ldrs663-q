@@ -165,11 +165,11 @@ As Lyotard illustrates, “instead of trying to analyse complex phenomena in ter
 
 As educators today, we have inherited a mix of classical, modern, and now post-modern ideas about education, knowledge, teaching, and learning. In short, educators, including adult educators, draw upon a diverse plurality of ideas about their practice. Moreover, learners, including adult learners have been shaped by different educational approaches. These thinking frameworks lie beneath all our discussions.
 
-
-// todo #42 It seems that the instructions for this learning activity are missing. Exactly what readings do students have to complete?
+### Activity {.unnumbered}
 
 ::: {.learning-activity}
-#### Learning Activity {.unnumbered}
+
+**// todo #42** It seems that the instructions for the learning activity are missing. Exactly what readings do students have to complete?
 
 #### **Questions to Consider**
 
