@@ -326,8 +326,7 @@ The third tier provides asynchronous access for remote learners who cannot join 
 
 The outermost tier of the model is for open participation from non-credit learners who are choosing to participate for their own interest and edification. It may seem anathema to some faculty to consider opening their course to the world, but the benefits can be significant, particularly in times like the spring of 2020.
 
-## Activity: Look, Read, and Reflect {.unnumbered}
-
+#### Activity: Look, Read, and Reflect {.unnumbered}
 
 ::: {.learning-activity}
 
