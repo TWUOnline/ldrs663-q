@@ -50,6 +50,7 @@ format:
     template-partials:
       yml-assets/title-block.html
     link-external-icon: true
+    link-external-newwindow: true
     sidebar:
       style: "docked"
       search: true
