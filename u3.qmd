@@ -4,10 +4,10 @@
 
 An enduring principle of educational practice is learners learn in different ways and at different rates. Effective educators recognize the uniqueness of each individual learner. They understand each learner arrives at a new learning situation with different lived experiences, existing knowledge, cognitive processing strengths and weaknesses, learning preferences, values, and goals. At the same time, effective educators also recognize some aspects of the learning process are common to most, if not all, learners. For instance, most educators believe learning is an ongoing, reflective process. We tend to broadly believe human are constantly taking in new information, integrating it into what we already know, and developing ideas based on this merging of past and present. In the midst of educator’s diverse and sometimes contradictory ideas about learning, there seems to be a great deal of mystery, and countless myths about how the learning process actually works. Unit 4 will introduce some important questions about learning, such as:
 
-❓ How can we as educators ensure our students are truly achieving the outcomes we intend?   
-❓ What practises should educators use in order to create an effective learning environment?   
-❓ What role do learners play in generating and sustaining this environment?   
-❓ How can we maximize the likelihood of transformational learning?
+-  How can we as educators ensure our students are truly achieving the outcomes we intend?   
+-  What practises should educators use in order to create an effective learning environment?   
+-  What role do learners play in generating and sustaining this environment?   
+-  How can we maximize the likelihood of transformational learning?
 
 ### Topics {.unnumbered}
 
@@ -30,9 +30,9 @@ When you have completed this unit, you should be able to:
 
 Online resources will be provided in the unit.
 
-// todo #29 - The Coaching Notes link is broken. Also, I think it would be good to use the “open in a new tab” setting.
+<!-- // todo #29 - The Coaching Notes link is broken. Also, I think it would be good to use the “open in a new tab” setting. -->
 
-[Coaching Notes](https://ma-lead.github.io/ldrs663/coaching-notes.html)
+[Coaching Notes](https://twuonline.github.io/ldrs663-q/presentations/coaching/coaching-notes.html)
 
 ## Theories of Learning {.unnumbered}
 
@@ -197,11 +197,11 @@ Effective coaching is grounded in an emerging set of coaching competencies. Thes
 // todo #32 The check marks look larger than the font. Can we adjust their size, or would it be better to use bullet points?
 
 The basis of this competency is a personal commitment to demonstrating and maintaining the highest level of ethical behavior. Emerging professional coaching standards include,   
-✅ making the roles, responsibilities, and rights of everyone involved in the coaching relationship clear,   
-✅  clearly communicating how information will be communicated between everyone involved in the coaching relationship,   
-✅ maintain confidentiality of personal information and communications,   
-✅ having a clear understanding of the conditions where information will not be kept confidential, and   
-✅ be aware of and respond sensitively to potential power or status differences.
+- making the roles, responsibilities, and rights of everyone involved in the coaching relationship clear,   
+-  clearly communicating how information will be communicated between everyone involved in the coaching relationship,   
+- maintain confidentiality of personal information and communications,   
+- having a clear understanding of the conditions where information will not be kept confidential, and   
+- be aware of and respond sensitively to potential power or status differences.
 
 
 
@@ -214,9 +214,9 @@ Seeks to understand the learner and their unique learning context, demonstrates 
 ### 3 Holding Space/Presence {.unnumbered}
 
 Being focused on the moment and giving attention to what is occurring in your conversation with the learner. Initially, this might feel like simply holding yourself back from talking too much as the coach and giving the learner space (that is, your silence) to reflect and process things. One way to conceptualize this competency as "creating a “space to listen into.” This involves   
-✅  creating comfortable distance in physical space,  
-✅ creating a non-judgmental emotional space, and    
-✅ creating a quiet auditory space.   Holding space, or being present, is an essential way the educator as coach can demonstrate to the learner that the learner’s contribution is valued and their learning is important. It’s also important for the coach to hold space for themselves to reflect and process what is happening.
+-  creating comfortable distance in physical space,  
+- creating a non-judgmental emotional space, and    
+- creating a quiet auditory space.   Holding space, or being present, is an essential way the educator as coach can demonstrate to the learner that the learner’s contribution is valued and their learning is important. It’s also important for the coach to hold space for themselves to reflect and process what is happening.
 
 
 
@@ -234,11 +234,11 @@ Asks questions to clarify the learners’ experiences, way of thinking, feelings
 ### 6 Cultivating Growth {.unnumbered}
 
 Asks questions that helps learners  
-✅ surface their interests,  
-✅ clarify and prioritize their goals,  
-✅ assess their learning experiences,   
-✅ explore options for continued learning, and  
-✅ design learning plans and commit to achieving their learning goals.  
+- surface their interests,  
+- clarify and prioritize their goals,  
+- assess their learning experiences,   
+- explore options for continued learning, and  
+- design learning plans and commit to achieving their learning goals.  
 
 
 ::: {.learning-activity}
@@ -285,15 +285,15 @@ In addition, please begin planning your [Peer Coaching Session](https://ma-lead.
 #### Things To Do This Week {.unnumbered}
 
 
-✅  Meet in Zoom <span class='badge-blue'>Wednesday, October 4 - 10:30 AM PDT</span>[Check your local time here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20231004T1030&p1=1109&ah=1)
-✅  Meet in Zoom <span class='badge-blue'>Wednesday, October 11 - 10:30 AM PDT</span>[Check your local time here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20231011T1030&p1=1109&ah=1)          
-✅  **Read** and **Reflect** Chapters 1-3 of How people learn II: Learners, Context and Cultures, [available for free download here](https://www.nap.edu/catalog/24783){target="_blank"}.     
-✅ **Read** and **Reflect** [**The Science of Learning**](https://deansforimpact.org/wp-content/uploads/2016/12/The_Science_of_Learning.pdf)  
-✅ **Read** and **Reflect** [**The Inner Game of Work**](https://thesystemsthinker.com/the-inner-game-of-work-building-capability-in-the-workplace/)   
-✅ **Read** and **Reflect** [**Core Competencies**](https://coachfederation.org/core-competencies)  
-✅ **Publish** your [Unit 3 Post](https://ma-lead.github.io/ldrs663/assessments.html#post-3) using the category `ldrs663`.  
-✅  **Meet** with your Learning Pod to complete the [Peer Coaching Session](https://ma-lead.github.io/ldrs663/assessments.html#peer-coaching-session).
-✅  Please complete these items by <span class='badge-blue'>Saturday, October 14 - by sundown</span>, or let me know if you will need a bit more time.
+-  Meet in Zoom <span class='badge-blue'>Wednesday, October 4 - 10:30 AM PDT</span>[Check your local time here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20231004T1030&p1=1109&ah=1)
+-  Meet in Zoom <span class='badge-blue'>Wednesday, October 11 - 10:30 AM PDT</span>[Check your local time here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20231011T1030&p1=1109&ah=1)          
+-  **Read** and **Reflect** Chapters 1-3 of How people learn II: Learners, Context and Cultures, [available for free download here](https://www.nap.edu/catalog/24783){target="_blank"}.     
+- **Read** and **Reflect** [**The Science of Learning**](https://deansforimpact.org/wp-content/uploads/2016/12/The_Science_of_Learning.pdf)  
+- **Read** and **Reflect** [**The Inner Game of Work**](https://thesystemsthinker.com/the-inner-game-of-work-building-capability-in-the-workplace/)   
+- **Read** and **Reflect** [**Core Competencies**](https://coachfederation.org/core-competencies)  
+- **Publish** your [Unit 3 Post](https://ma-lead.github.io/ldrs663/assessments.html#post-3) using the category `ldrs663`.  
+-  **Meet** with your Learning Pod to complete the [Peer Coaching Session](https://ma-lead.github.io/ldrs663/assessments.html#peer-coaching-session).
+-  Please complete these items by <span class='badge-blue'>Saturday, October 14 - by sundown</span>, or let me know if you will need a bit more time.
 
 :::
 -->
