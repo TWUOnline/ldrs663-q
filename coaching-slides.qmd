@@ -1,5 +1,6 @@
 ---
 title: 'Coaching'
+output-dir: docs
 format:
   revealjs:
     multiplex: true
