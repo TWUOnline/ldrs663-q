@@ -9,7 +9,7 @@ format:
 ---
 
 # Coaching
-### LDRS 663
+<!-- ### LDRS 663
 
 
 
@@ -22,7 +22,7 @@ format:
   - you will produce a Zoom recording of your coaching session, and
   - you will write a 1-2 page reflection on your actions coaching your peer’s learning.
 
----
+--- -->
 
 
 

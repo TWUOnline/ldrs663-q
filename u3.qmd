@@ -48,7 +48,7 @@ As you can see, the artist envisioned a process whereby information was fed into
 
 These are both examples of how the modern condition of thought (Unit 2), has shaped our thinking about learning. Many modern era educators viewed people as learning “machines” who could be “programmed” with instructions, just like we program computers. The legacy of this thinking still lingers and the educational model of instructors instructing students through instructions is still prevalent.
 
-In these modern visions, learning is something done *to* students, not something done *by* students. The learner is completely passive in the process. The dreams of grade-schoolers to be able to rest a book on their head and learn by osmosis are just as far-fetched as the prognostications from the early 20th century, from the *Matrix,* and from the claims of many edtech companies today. However, we need to recognize that learning is hard work. Consider Erasmus’s (1965) comment in his dialogue *The Art of Learning*, “For my part, I know no other art of learning than hard work, devotion, and perseverance” (p. 461). This statement remains as true today, as it was in 1529.
+In these modern visions, learning is something done *to* students, not something done *by* students. The learner is completely passive in the process. The dreams of grade-schoolers to be able to rest a book on their head and learn by osmosis are just as far-fetched as the prognostications from the early 20th century, from the *Matrix,* and from the claims of many edtech companies today. However, we need to recognize that learning is hard work. Consider Erasmus’s (1965) comment in his dialogue *The Art of Learning*, “For my part, I know no other art of learning than hard work, devotion, and perseverance” (p. 461). This statement remains as true today as it was in 1529.
 
 Take a few minutes to watch this video from Destin Sandlin, creator of the YouTube channel *Smarter Every Day*. The video has a long introduction, but it is entertaining and sets up the problem of learning very well:
 
@@ -68,7 +68,7 @@ As a way to consolidate your own learning around this concept, take a few minute
 
 In the video, Destin also talks about cognitive bias and the tremendously powerful effect that our own biases have on what and how well we learn. The challenge that he faced in learning to ride the backwards brain bike wasn't so much the physical skills involved, but *unlearning* his previous 'ride a bike' algorithm. When he encountered new information that didn't match his previous experience, it was extremely difficult to overcome his previous experience and bias. It took him 8 months of dedicated effort to do it. At the end, he discovered that he hadn't *overcome* his bias, he had only transferred it to a new bias, albeit one that was easier to overcome.
 
-This process is also true for people learning new ideas. None of us come to a learning context without preconceived ideas regarding the nature of the topic to be studied, and often, those ideas are incorrect. They are misconceptions. Biases. Then, when new information comes along, our brain actively sabotages us by telling us that we already know this and we don't need to listen, while simultaneously convincing us even more of the truth of our misconceptions.
+This process is also true for people learning new ideas. All of us come to a learning context with preconceived ideas regarding the nature of the topic to be studied, and often, those ideas are incorrect. They are misconceptions. Biases. Then, when new information comes along, our brain actively sabotages us by telling us that we already know this and we don't need to listen, while simultaneously convincing us even more of the truth of our misconceptions.
 
 Below is another video, this time from *Veritasium,* in which Derek Muller shows why misconceptions (biases) can be so difficult to overcome:
 
@@ -96,7 +96,7 @@ One implication of this is that it is naïve for educators to assume that a sing
 Read Chapters 1-3 of How people learn II: Learners, Context and Cultures, [available for free download here](https://www.nap.edu/catalog/24783).
 
 *Note*: We will not be using this entire book, so don't feel obliged to purchase a copy for yourself.
-Click 'Read Online' As you read, please use hypothes.is to both record your thoughts and connections in the article, but also interact with past annotations. These chapters are already heavily annotated, presumably by other students.
+Click 'Read Online'. As you read, please use hypothes.is to both record your thoughts and connections in the article, but also interact with past annotations. These chapters are already heavily annotated, presumably by other students.
 
 **Questions to Consider**
 
@@ -133,27 +133,28 @@ After completing the reading above, consider the following questions:
 
 ## The Practice of Coaching {.unnumbered}
 
-***What is Coaching?*** Coaching is something that you do to help improve someone in some way. Gallway (1997) defines coaching as “a way of being, listening, asking, and speaking that draws out and augments characteristics and potential that are already present in a person.” His conceptualization of the method is analogous to Michelangelo’s approach to sculpture. Michelangelo believed that “every block of stone has a statue inside it and it’s the task of the sculptor to discover it.” Similarly, Gallway (1997) writes:
+***What is Coaching?*** Coaching is something that you do to help improve someone in some way. Gallwey (1997) defines coaching as “a way of being, listening, asking, and speaking that draws out and augments characteristics and potential that are already present in a person.” His conceptualization of the method is analogous to Michelangelo’s approach to sculpture. Michelangelo believed that “every block of stone has a statue inside it and it’s the task of the sculptor to discover it.” Similarly, Gallwey (1997) writes:
 
 > *Coaches know that an oak tree already exists within an acorn. They have seen the one grow into the other, over time and under the right conditions, and are committed to providing those conditions to the best of their abilities. Successful coaches continually learn how best to “farm” the potential they are given to nurture.*
 
-***How do Educators Coach Learners for Learning?*** The beginning point of an effective coaching for learning practice as an educator is the coaching relationship. It’s critical, according to Gallway (1997), for coaches to “[create] a safe and challenging environment in which learning can take place.” In the educator’s role as coach, this relationship is a shared learning space where the educator enters the learners’ internal dialogue with their learning experiences. Coaching work involves two aims, 
+***How do Educators Coach Learners for Learning?*** The beginning point of an effective coaching for learning practice as an educator is the coaching relationship. It’s critical, according to Gallwey (1997), for coaches to “[create] a safe and challenging environment in which learning can take place.” In the educator’s role as coach, this relationship is a shared learning space where the educator enters the learners’ internal dialogue with their learning experiences. Coaching work involves two aims, 
 
 - helping each learner become aware of their own potential, and,   
 - helping learners remove any interference in realizing this potential. 
 
 In terms of coaching for learning we know that it is a natural aspect of our nature as human beings to learn. That is, it’s something we simply do naturally. But, one thing that makes learning difficult is that our past learning gradually starts to interfere with our present and future learning.
 
-Increasing learners’ awareness of their own internal resistance to new learning is the primary theme of coaching for learning. Common obstacles to learning, according to Gallway (1997), include the learner’s assumption that they already know what is being taught, the fear of being judged, doubt, and trying too hard to appear learned. In broader terms, Scharmer (2016) has identified the learners’ internal ***voice of judgement*** (VoJ), ***voice of cynicism*** (VoC), and ***voice of fear*** (VoF) as universal factors interfering with learning. The role of effective coaching is to help learners overcome these obstacles by opening their mind, emotions, and will to new possibilities. This work involves coaching learners through the transition of change—that is, 
-- letting go of what was, 
-- moving through the transition, and 
+Increasing learners’ awareness of their own internal resistance to new learning is the primary theme of coaching for learning. Common obstacles to learning, according to Gallwey (1997), include the learner’s assumption that they already know what is being taught, the fear of being judged, doubt, and trying too hard to appear learned. In broader terms, Scharmer (2016) has identified the learners’ internal ***voice of judgement*** (VoJ), ***voice of cynicism*** (VoC), and ***voice of fear*** (VoF) as universal factors interfering with learning. The role of effective coaching is to help learners overcome these obstacles by opening their mind, emotions, and will to new possibilities. This work involves coaching learners through the transition of change—that is, 
+
+- letting go of what was,  
+- moving through the transition, and  
 - embracing a new beginning.  
 
-The secondary theme of coaching for learning is increasing learners’ awareness of how they may best realize their potential capacity to learn anything which they set out to learn. This involves coaching learners in the learning process and helping them make it more effective and efficient. This practice builds on the notion of transforming the learners' natural learning process into a disciplined set of study skills. A helpful approach that educators can use to coach for learning potential is the GROW coaching model. This model is based on the coaching concepts pioneered by Gallway (1997) and developed at the McKinsey consulting firm in the 1980s and first published in 1992 by John Whitmore in his book *Coaching for Performance*. The model is widely used in leadership and life coaching contexts. For educators concerned with coaching for learning, we can apply this model in the following way:
+The secondary theme of coaching for learning is increasing learners’ awareness of how they may best realize their potential capacity to learn anything which they set out to learn. This involves coaching learners in the learning process and helping them make it more effective and efficient. This practice builds on the notion of transforming the learners' natural learning process into a disciplined set of study skills. A helpful approach that educators can use to coach for learning potential is the GROW coaching model. This model is based on the coaching concepts pioneered by Gallwey (1997) and developed at the McKinsey consulting firm in the 1980s and first published in 1992 by John Whitmore in his book *Coaching for Performance*. The model is widely used in leadership and life coaching contexts. For educators concerned with coaching for learning, we can apply this model in the following way:
 
-// todo #30 - This content is currently in a learning activity box. Is there a better format to highlight this?
+<!-- // todo #30 - This content is currently in a learning activity box. Is there a better format to highlight this? -->
 
-::: {.learning-activity}
+::: {.callout}
 
 **Goal Setting.** Helping learners clarify **what** they need and more importantly want to learn? **Why** they need and/or truly want to learn it? And **when** they need to, or genuinely want, to learn it? The coach, here, also helps learners see how their personal goals can align with prescribed learning outcomes.
 
@@ -172,7 +173,7 @@ The secondary theme of coaching for learning is increasing learners’ awareness
 
 Take a few moments to read the article below written by Tim Gallwey. Gallwey works with companies to help them find better ways to implement change. In the article below, he discusses the importance of creating a learning culture - specifically, he discusses why coaches need to understand the learning process and the obstacles a learner experiences:
 
-// todo #31 modify the link to open in a new tab
+<!-- // todo #31 modify the link to open in a new tab -->
 
 - [**The Inner Game of Work**](https://thesystemsthinker.com/the-inner-game-of-work-building-capability-in-the-workplace/)
 
@@ -194,9 +195,10 @@ Effective coaching is grounded in an emerging set of coaching competencies. Thes
 
 ### 1 Practicing Professional Ethics & Standards {.unnumbered}
 
-// todo #32 The check marks look larger than the font. Can we adjust their size, or would it be better to use bullet points?
+<!-- // todo #32 The check marks look larger than the font. Can we adjust their size, or would it be better to use bullet points? -->
 
 The basis of this competency is a personal commitment to demonstrating and maintaining the highest level of ethical behavior. Emerging professional coaching standards include,   
+
 - making the roles, responsibilities, and rights of everyone involved in the coaching relationship clear,   
 -  clearly communicating how information will be communicated between everyone involved in the coaching relationship,   
 - maintain confidentiality of personal information and communications,   
@@ -214,7 +216,8 @@ Seeks to understand the learner and their unique learning context, demonstrates 
 ### 3 Holding Space/Presence {.unnumbered}
 
 Being focused on the moment and giving attention to what is occurring in your conversation with the learner. Initially, this might feel like simply holding yourself back from talking too much as the coach and giving the learner space (that is, your silence) to reflect and process things. One way to conceptualize this competency as "creating a “space to listen into.” This involves   
--  creating comfortable distance in physical space,  
+
+-  creating comfortable distance in physical space,   
 - creating a non-judgmental emotional space, and    
 - creating a quiet auditory space.   Holding space, or being present, is an essential way the educator as coach can demonstrate to the learner that the learner’s contribution is valued and their learning is important. It’s also important for the coach to hold space for themselves to reflect and process what is happening.
 
@@ -234,10 +237,11 @@ Asks questions to clarify the learners’ experiences, way of thinking, feelings
 ### 6 Cultivating Growth {.unnumbered}
 
 Asks questions that helps learners  
-- surface their interests,  
-- clarify and prioritize their goals,  
+
+- surface their interests,   
+- clarify and prioritize their goals,   
 - assess their learning experiences,   
-- explore options for continued learning, and  
+- explore options for continued learning, and   
 - design learning plans and commit to achieving their learning goals.  
 
 
@@ -246,9 +250,9 @@ Asks questions that helps learners
 
 For this activity, you will be reading through the Core Competencies of the International Coaching Federation. The International Coaching Federation is dedicated to advancing the coaching profession by setting high, ethical standards. Read more below:
 
-// todo #33 the following link is broken
+<!-- // todo #33 the following link is broken -->
 
- - [**Core Competencies**](https://coachfederation.org/core-competencies)
+ - [**Core Competencies**](https://coachingfederation.org/core-competencies)
 
 **Questions to Consider**
 
@@ -259,9 +263,9 @@ After completing the activity above, consider the following questions:
  - How can a coaching approach help you support learner success in an educational setting?
 
 :::
-// todo #34 Delete the following heading? 
+<!-- // todo #34 Delete the following heading?  -->
 
-## Unit 4 Assessment {.unnumbered}
+<!-- ## Unit 4 Assessment {.unnumbered} -->
 
 
 <!--
@@ -298,6 +302,11 @@ In addition, please begin planning your [Peer Coaching Session](https://ma-lead.
 :::
 -->
 // todo #35 **The following Coaching Notes feel like a mix of a summary and a step-by-step guide to help students coach more effectively. What if we turned this into an H5P presentation and used it as the summary section? Maybe we could also offer a downloadable version—would that be helpful for their assignments?**
+
+<!-- Add this HTML code where you want the button to appear -->
+<a href="https://twuonline.github.io/ldrs663-q/coaching-slides.html">
+  <button type="button">Go to Coaching Slides</button>
+</a>
 
 ## Coaching Notes {.unnumbered}
 
