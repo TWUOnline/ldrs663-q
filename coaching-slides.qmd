@@ -1,6 +1,4 @@
 ---
-title: 'Coaching'
-output-dir: docs
 format:
   revealjs:
     multiplex: true
@@ -9,24 +7,11 @@ format:
 ---
 
 # Coaching
-<!-- ### LDRS 663
-
 
 
 ---
 
-# Peer Coaching Practice Session
-
-- Working with another student, use the G.R.O.W. model to coach each other through the process of planning for a particular learning activity within this course (such as, your facilitation resource project).
-- There are two outcomes to assessment:
-  - you will produce a Zoom recording of your coaching session, and
-  - you will write a 1-2 page reflection on your actions coaching your peer’s learning.
-
---- -->
-
-
-
-# What is **coaching**?
+## What is **coaching**?
 
 ---
 
@@ -37,17 +22,17 @@ and potential that are already present in a person. ~Gallwey, 1997
 
 ---
 
-# Michaelangelo's Principle
+## Michaelangelo's Principle
 
 > Every block of stone has a statue inside it and it is the task of the sculptor to discover it.”
 
 ---
 
-![](mike.jpg)
+![](assets/u3/mike.jpg)
 
 ---
 
-# Developing Learning Capability
+## Developing Learning Capability
 
 ---
 
@@ -57,7 +42,7 @@ and potential that are already present in a person. ~Gallwey, 1997
 
 ---
 
-# Aims of coaching for Learning
+## Aims of coaching for Learning
 
 ---
 
@@ -69,12 +54,12 @@ and potential that are already present in a person. ~Gallwey, 1997
 
 ---
 
-# Learning Performance = Potential - Interference
+## Learning Performance = Potential - Interference
 ~Gallwey, 1997
 
 ---
 
-# Core Coaching Competencies
+## Core Coaching Competencies
 
 ---
 
@@ -82,6 +67,9 @@ and potential that are already present in a person. ~Gallwey, 1997
 - Cultivating Trust & Safety
 - Holding Space/ Presence
 - Active Listening
+
+---
+
 - Asking Questions
 - Creating Awareness
 - Setting (SMART) Goals
@@ -91,7 +79,7 @@ and potential that are already present in a person. ~Gallwey, 1997
 
 ---
 
-# Listening
+## Listening
 
 ---
 
@@ -101,7 +89,7 @@ The reality is that
 
 ---
 
-# Levels of Listening
+## Levels of Listening
 
 ---
 
@@ -114,11 +102,11 @@ The reality is that
 
 ---
 
-# Why is “listening into” the inner world of the learner’s lived-experience so difficult?
+## Why is “listening into” the inner world of the learner’s lived-experience so difficult?
 
 ---
 
-# Reason: We listen autobiographically
+## Reason: We listen autobiographically
 
 ---
 
@@ -138,7 +126,7 @@ she finishes communicating, saying things like:
 
 ---
 
-# Other Common Barriers to Effective Listening
+## Other Common Barriers to Effective Listening
 
 ---
 
@@ -150,24 +138,24 @@ she finishes communicating, saying things like:
 
 ---
 
-# We Need to Learn to “Listen Into” Learner’s Worlds Consciously
+## We Need to Learn to “Listen Into” Learner’s Worlds Consciously
 
 ---
 
-# Julian Treasure (2011) provides us with critical insights into how we can listen consciously.
+## Julian Treasure (2011) provides us with critical insights into how we can listen consciously.
 
 ---
 
-![alt-text](ted.jpg "TEDTalks splash page")
+![alt-text](assets/u3/ted.jpg "TEDTalks splash page")
 
 ---
 
-# How can we listen consciously to our learners’ inner world’s to truly understand them?
+## How can we listen consciously to our learners’ inner world’s to truly understand them?
 
 
 ---
 
-# Our Listening Positions Need to Match the Situation
+## Our Listening Positions Need to Match the Situation
 
 - Active vs. Passive
 - Reductive vs. Expansive
@@ -176,22 +164,22 @@ she finishes communicating, saying things like:
 
 ---
 
-# Coaching for learning requires Active Listening
+## Coaching for learning requires Active Listening
 
 ---
 
-![alt-text](active.png "Active Listening Model, (Hoppe, 2006)")
+![alt-text](assets/u3/active.png "Active Listening Model, (Hoppe, 2006)")
 
 ---
 
-# Pay Attention
+## Pay Attention
 1. Be present; focus on the moment
 2. Observe body language; your own and the learner’s.
 3. Pre-empt distractions.
 
 ---
 
-# Hold Judgement
+## Hold Judgement
 1. Practice empathy; seeking to make the learner “feel” felt and heard.
 2. Try to understand learner’s “lens”.
 3. Be patient.
@@ -203,7 +191,7 @@ she finishes communicating, saying things like:
 
 ---
 
-# Reflect
+## Reflect
 1. Paraphrase (“What I am hearing is...”)
 2. Name emotions you observe
 3. Be a “mirror”
@@ -211,11 +199,11 @@ she finishes communicating, saying things like:
 
 ---
 
-![alt-text](plutchik.jpg "Plutchik's wheel of emotions")
+![alt-text](assets/u3/plutchik.jpg "Plutchik's wheel of emotions")
 
 ---
 
-# Clarify
+## Clarify
 1. Use open-ended questions (“What might you do next?).
 2. Use clarifying questions (“Let me see, if I’m clear?”).
 3. Use probing questions (“What tactics have you tried?”).
@@ -223,25 +211,25 @@ she finishes communicating, saying things like:
 
 ---
 
-# Summarize
+## Summarize
 1. Use “So” periodically (“So, what I have heard so far…”).
 2. Use “So” at the end (So, let me summarize what I have heard…”).
 3. Ask the other person to summarize.
 
 ---
 
-# Share
+## Share
 1. Be an active participant in the conversation.
 2. Share thoughts, feelings, and experiences to deepen and/or check for understanding.
 3. Ask the learner about your impact on him or her.
 
 ---
 
-# G.R.O.W. Coaching Model
+## G.R.O.W. Coaching Model
 
 ---
 
-# Goal Setting
+## Goal Setting
 - Setting short and long term learning goals.
 - Key questions to ask:
   - What can you do with my time that is important?
@@ -251,11 +239,11 @@ she finishes communicating, saying things like:
   
 ---
 
-# Make Your Goals S.M.A.R.T.
+## Make Your Goals S.M.A.R.T.
 
 ---
 
-## Specific
+### Specific
 - Your goal should be clear and specific.
 - Ask yourself:
   - What do I want to accomplish in this course?
@@ -264,7 +252,7 @@ she finishes communicating, saying things like:
 
 ---
 
-## Measurable
+### Measurable
 - You should be able to track your progress.
 - Ask yourself:
   - How much time is involved?
@@ -272,7 +260,7 @@ she finishes communicating, saying things like:
 
 ---
 
-## Attainable
+### Attainable
 - Your goal should be realistic and achievable.
 - Ask yourself:
   - How can you accomplish this goal?
@@ -281,7 +269,7 @@ she finishes communicating, saying things like:
 
 ---
 
-## Relevant
+### Relevant
 - Your goal should matter and align with your other
 goals.
 - Ask yourself:
@@ -291,7 +279,7 @@ goals.
 
 ---
 
-## Time-bound
+### Time-bound
 - Your goal should have a deadline to focus on.
 - Ask yourself:
   - When?
@@ -299,7 +287,7 @@ goals.
 
 ---
 
-# Reality Checking
+## Reality Checking
 - Understanding where you really are relative to what
 you really want.
 - Key questions to ask:
@@ -310,7 +298,7 @@ you really want.
 
 ---
 
-# Identifying Obstacles to Achieving Goals
+## Identifying Obstacles to Achieving Goals
 
 ---
 
@@ -323,7 +311,7 @@ you really want.
 
 ---
 
-# Common Obstacles to Learning Goals
+## Common Obstacles to Learning Goals
 - Assumption that “I already know”
 - Assumption that learning means remediation
 - Fear of being judged
@@ -333,7 +321,7 @@ you really want.
 
 ---
 
-# Option Exploration
+## Option Exploration
 - Key questions to ask:
   - What alternatives do you have?
   - Who can support you?
@@ -342,7 +330,7 @@ you really want.
 
 ---
 
-# Reframing Questions
+## Reframing Questions
 - What am you not seeing?
 - What is a better position to take?
 - Is this problem the root problem or a symptom of it?
@@ -350,7 +338,7 @@ you really want.
 
 ---
 
-# The Way Forward
+## The Way Forward
 - Key questions to ask:
   - What commitments am I going to make?
   - What are my next steps?
@@ -361,8 +349,10 @@ you really want.
 
 ---
 
-# Creating Action Strategies
+## Creating Action Strategies
 - Set SMART Goal(s) (the job to be done)
 - Breakdown the Work (into a list of tasks)
 - Define the Critical Path (the order of tasks)
 - Schedule the Work (when you do what)
+
+---

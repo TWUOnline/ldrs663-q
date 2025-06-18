@@ -25,7 +25,7 @@ book:
     - feeds.qmd
     - obsidian.qmd
     - references.qmd
-    - coaching-slides.qmd
+    # - coaching-slides.qmd
 
 # References
 bibliography: https://twuonline.github.io/course-materials/quarto/references.bib
