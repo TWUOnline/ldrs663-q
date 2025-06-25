@@ -1,3 +1,7 @@
+---
+slide-format: revealjs
+---
+
 # Coaching for Learning
 
 ## Overview {.unnumbered}
@@ -310,7 +314,13 @@ In addition, please begin planning your [Peer Coaching Session](https://ma-lead.
 
 ## Coaching Notes {.unnumbered}
 
+<div>
 
+```{=html}
+<iframe class="slide-deck" src="coaching-slides.qmd"></iframe>
+```
+
+</div>
 
 #### What is **coaching**? {.unnumbered}
 
@@ -499,6 +509,14 @@ she finishes communicating, saying things like:
 
 #### G.R.O.W. Coaching Model {.unnumbered}
 
+
+<div>
+
+```{=html}
+<iframe class="slide-deck" src="coaching/"></iframe>
+```
+
+</div>
 
 ## Goal Setting {.unnumbered}
 

@@ -4,6 +4,7 @@ project:
   type: book
   output-dir: docs
 
+
 published-title: "Last Modified"
 
 book:
@@ -25,7 +26,7 @@ book:
     - feeds.qmd
     - obsidian.qmd
     - references.qmd
-    # - coaching-slides.qmd
+    - coaching-slides/coaching-slides.qmd
 
 # References
 bibliography: https://twuonline.github.io/course-materials/quarto/references.bib
@@ -60,6 +61,7 @@ format:
     toc: true
     toc-title: On This Page
     theme: cosmo
+    slide-format: revealjs
     # The line below  should only be enabled to locally test css before moving it to the main css file in course materials.
     #theme: [cosmo, yml-assets/test.scss]
     include-in-header:
