@@ -2,7 +2,7 @@
 title: 'Facilitated Learning Design'
 format:
   revealjs:
-    multiplex: true
+    # multiplex: true
     incremental: true
     theme: night
 ---

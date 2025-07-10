@@ -317,7 +317,7 @@ In addition, please begin planning your [Peer Coaching Session](https://ma-lead.
 <div>
 
 ```{=html}
-<iframe class="slide-deck" src="coaching-slides.qmd"></iframe>
+<iframe class="slide-deck" src="presentations/coaching/coaching-slides.qmd"></iframe>
 ```
 
 </div>
