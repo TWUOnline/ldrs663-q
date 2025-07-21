@@ -32,6 +32,8 @@ Obsidian will become a backbone of this course. One of the advantages of Obsidia
 
 To give you a head start, we have created a **starter vault** for you to download and use. Follow the instructions below to access the starter vault.
 
+It is important to follow these instructions carefully.
+
 1. Download the 'Starter Obsidian Vault' from Moodle. 
     - This will download a file called `ldrs663-vault.zip` to your computer.
 2. Move the file to your `Documents` folder.

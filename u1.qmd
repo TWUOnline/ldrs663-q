@@ -2,26 +2,21 @@
 
 
 
+### Things To Do This Week {.unnumbered}
 
 
-<!--
-### Things To Do This Week
-
-You will be directed when to complete the following tasks.
-
-
--  Meet in Zoom [<span class='badge-blue'>Monday, November 20, 1-3pm </span>(Click to check your local time)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS+663&iso=20231120T13&p1=1109&ah=2)  - 
+<!-- -  Meet in Zoom [<span class='badge-blue'>Monday, November 20, 1-3pm </span>(Click to check your local time)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS+663&iso=20231120T13&p1=1109&ah=2)  -  -->
+- **Before you start: Follow** the instructions on the '[Getting Started with Obsidian](https://ma-lead.github.io/ldrs663/getting-started-with-obsidian.html)' page in the course notes in Moodle.
 - **Read** [Critical inquiry in a text-based environment: Computer conferencing in higher education](https://www-sciencedirect-com.twu.idm.oclc.org/science/article/pii/S1096751600000166)  
 - **Read** [Getting the mix right again: An updated and theoretical rationale for interaction](http://www.irrodl.org/index.php/irrodl/article/view/149/230)   
 - **Read** [Interaction and the online distance classroom: Do instructional methods effect the quality of interaction?](https://link-springer-com.ezproxy.student.twu.ca/article/10.1007/s12528-011-9049-4)   
-- Follow the instructions on the '[Getting Started with Obsidian](https://ma-lead.github.io/ldrs663/getting-started-with-obsidian.html)' page in the course notes in Moodle.
-- **Write** your arguments for or against the *Interaction Equivalency Theorem* in Obsidian by clicking on 'Open today's daily note' in the vertical menu on the left.  
-- Please complete these tasks by <span class='badge-blue'>Sunday, November 26</span> before your regular bedtime. 
--->
+- **Write** your arguments for or against the *Interaction Equivalency Theorem* in the Learning community.  
+- Please complete these tasks by <span class='badge-blue'>Sunday, July 28</span> before your regular bedtime. 
+
 
 ## Overview {.unnumbered}
 
-Welcome to Unit 1 of LDRS 663! In this unit, we will begin by considering the nature of learning communities through the lens of a model called the _Community of Inquiry (CoI)_ ([Garrison et al., 2000](https://www.sciencedirect.com/science/article/pii/S1096751600000166?){target="_blank"}; [Vaughan et al., 2013](http://www.aupress.ca/index.php/books/120229){target="_blank"}). The CoI model proposes that there are three overlapping components, or presences, to any learning environment; cognitive presence (constructing meaning), social presence (projecting a sense of yourself), and teaching presence (designing and facilitating the learning experience). The CoI model is grounded in a long history of social constructivism which is the idea that learning is fundamentally a social process ([Dewey, 1897](https://en.wikisource.org/wiki/My_Pedagogic_Creed){target="_blank"}; [Vygotsky, 1978](https://twu.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat05965a&AN=alc.191437&site=eds-live){target="_blank"}). We will also consider various modes of interaction in learning environments and how these two models have informed the model of teaching and learning in TWU online courses.
+Welcome to Unit 1 of LDRS 463/663! In this unit, we will begin by considering the nature of learning communities through the lens of a model called the _Community of Inquiry (CoI)_ ([Garrison et al., 2000](https://www.sciencedirect.com/science/article/pii/S1096751600000166?){target="_blank"}; [Vaughan et al., 2013](http://www.aupress.ca/index.php/books/120229){target="_blank"}). The CoI model proposes that there are three overlapping components, or presences, to any learning environment; cognitive presence (constructing meaning), social presence (projecting a sense of yourself), and teaching presence (designing and facilitating the learning experience). The CoI model is grounded in a long history of social constructivism which is the idea that learning is fundamentally a social process ([Dewey, 1897](https://en.wikisource.org/wiki/My_Pedagogic_Creed){target="_blank"}; [Vygotsky, 1978](https://twu.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat05965a&AN=alc.191437&site=eds-live){target="_blank"}). We will also consider various modes of interaction in learning environments and how these two models have informed the model of teaching and learning in TWU online courses.
 
 ### Topics {.unnumbered}
 This unit is divided into the following topics:
@@ -74,7 +69,7 @@ Here are the resources you will need to complete this unit:
 
 ## Introduction to the Community of Inquiry Model {#sec-learning-stories}
 
-Before you dive into the content of this unit in LDRS 663, take a moment to recall some particularly memorable learning experiences that you have had. They don't have to be particularly profound in terms of *what* you learned, but profound because of the fact that you still remember *that* you learned something and *how* you learned it. Pick one or two of those experiences and share them in the *[Introductions and Learning Stories* topic in the Learning Community.](https://twu.discourse.group/t/introductions-and-learning-stories) Make sure to tell us about the context of your experience. Who was there? What did you do to learn? Why do you remember it? 
+Before you dive into the content of this unit in LDRS 463/663, take a moment to recall some particularly memorable learning experiences that you have had. They don't have to be particularly profound in terms of *what* you learned, but profound because of the fact that you still remember *that* you learned something and *how* you learned it. Pick one or two of those experiences and share them in the *[Introductions and Learning Stories* topic in the Learning Community.](https://twu.discourse.group/t/introductions-and-learning-stories) Make sure to tell us about the context of your experience. Who was there? What did you do to learn? Why do you remember it? 
 
 ### Social Constructivism
 
@@ -130,7 +125,7 @@ Teaching presence can be a shared function between members of the community. Gar
 
 If you haven't done so previously, sign up for and activate [hypothes.is](https://hypothes.is/signup){target="_blank"} and while you are reading the article, leave some annotations that connect what you are reading to your own experience.
 
-Use the tag 'ldrs663' in any annotations you create so that we can all find each other.
+Use the tag 'ldrs463-663' in any annotations you create so that we can all find each other.
 
 <!-- // TODO #5 This link is not working. Maybe this link instead? https://servicehub.twu.ca/TDClient/1904/Portal/KB/ArticleDet?ID=146716  -->
 [Click here for assistance getting set up with hypothes.is.](http://create.twu.ca/help/other-web-tools/hypothesis){target="_blank"}
@@ -235,7 +230,7 @@ Please complete the assignment under 'Post 1' on the 'Assessment' page in the me
 
 ## Unit Summary {.unnumbered}
 
-In this unit of LDRS 663, you are introduced to the Community of Inquiry (CoI) model, which emphasizes the interconnected roles of cognitive, social, and teaching presences in online learning environments. The unit explores how these presences foster meaningful learning experiences through interaction, informed by the educational theory of social constructivism. Additionally, the unit examines various modes of interaction, including student-teacher, student-student, and student-content dynamics, and introduces Anderson’s Interaction Equivalency Theorem, which explains how deep learning can occur with a focus on one key mode of interaction.
+In this unit of LDRS 463/663, you are introduced to the Community of Inquiry (CoI) model, which emphasizes the interconnected roles of cognitive, social, and teaching presences in online learning environments. The unit explores how these presences foster meaningful learning experiences through interaction, informed by the educational theory of social constructivism. Additionally, the unit examines various modes of interaction, including student-teacher, student-student, and student-content dynamics, and introduces Anderson’s Interaction Equivalency Theorem, which explains how deep learning can occur with a focus on one key mode of interaction.
 
 ::: check
 

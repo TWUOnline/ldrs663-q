@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a30068d770d9d4a7",
+        "id": "94052548655fb2e9",
         "type": "tabs",
         "children": [
           {
-            "id": "96e907e8d2c7d073",
+            "id": "041ea04435d702e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Welcome"
             }
           }
         ]
@@ -161,11 +165,34 @@
       "command-palette:Open command palette": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "885d4a14e4c4b5fc",
+  "active": "041ea04435d702e0",
   "lastOpenFiles": [
+    "Progress Overview.md",
+    "Personal Learning Tracker/LO1.md",
+    "Welcome.md",
+    "Personal Learning Tracker/LO8.md",
+    "Personal Learning Tracker/LO7.md",
+    "Personal Learning Tracker/LO6.md",
+    "Personal Learning Tracker/LO3.md",
+    "Personal Learning Tracker/LO4.md",
+    "Personal Learning Tracker/LO5.md",
+    "Personal Learning Tracker/LO2.md",
+    "_templates/Learning Reflection.md",
+    "_templates/Learning Outcome.md",
+    "Assignments/Assignment 1 - Autoethnography Proposal.md",
+    "Assignments/Assignment 3 - Peer Coaching Session.md",
+    "Assignments/Assignment 4 - Analysis and Discussion.md",
+    "Assignments/Assignment 5 - Knowledge Process Map.md",
+    "Assignments/Assignment 2 - Small Group Facilitation.md",
+    "Personal Learning Tracker",
+    "_templates",
+    "Assignments",
+    "Learning Reflections/2025-07-17.md",
+    "Assignments/Learning Reflections",
     "Untitled.canvas",
     "Articles/changIndividualCollaborativeAutoethnography2021.pdf",
     "changIndividualCollaborativeAutoethnography2021.md",
@@ -177,25 +204,10 @@
     "Learning Outcomes/LO-2.md",
     "Learning Outcomes/LO-1.md",
     "_templates/reflections.md",
-    "Learning Reflections",
-    "02-Articles/garrisonCriticalInquiryTextbased2000.md",
-    "02-articles/garrisonCriticalInquiryTextbased2000.md",
-    "garrisonCriticalInquiryTextbased2000.md",
-    "Assignment 1 summary.md",
-    "My Library.md",
+    "Assignments/Learning Reflections",
     "My Library.ris",
-    "Learning Outcomes/LO-8.md",
     "04-Synthesis",
     "03-Analysis",
-    "01-Journal",
-    "_templates/tool.md",
-    "Learning Outcomes/LO-7.md",
-    "Learning Outcomes/LO-6.md",
-    "Learning Outcomes/LO-5.md",
-    "Learning Outcomes/LO-4.md",
-    "Learning Outcomes",
-    "storage/ULLIJDZ8/images/3",
-    "storage/78RFTS5M/images/2",
     "storage/ZZLTW6FX/nyu-short.svg",
     "storage/ZZLTW6FX/nyu-long.svg",
     "storage/ZZLTW6FX/by-nd.svg",

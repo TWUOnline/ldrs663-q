@@ -8,7 +8,7 @@ project:
 published-title: "Last Modified"
 
 book:
-  title: "LDRS 663"
+  title: "LDRS 463/663"
   author: "Colin Madland, Mark Halvorson, Scott Macklin"
   date: "last-modified"
   date-format: "MMM D, YYYY"
@@ -23,10 +23,9 @@ book:
     - u5.qmd
     - u6.qmd    
     - assessment.qmd
-    - feeds.qmd
     - obsidian.qmd
     - references.qmd
-    - coaching-slides/coaching-slides.qmd
+
 
 # References
 bibliography: https://twuonline.github.io/course-materials/quarto/references.bib

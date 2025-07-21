@@ -1,6 +1,6 @@
 # Welcome {.unnumbered}
 
-Welcome to LDRS 663: Coaching for Transformational Blended Learning
+Welcome to LDRS 463/663: Coaching for Transformational Blended Learning
 
 ### Program Learning Outcomes {.unnumbered}
 - Demonstrate effective facilitation and coaching communication skills (eg. active listening, developing rapport, providing feedback)  
