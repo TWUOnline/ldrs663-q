@@ -2,7 +2,7 @@
 proficiency:
   - not demonstrated
 created: 2025-07-20T12:43
-updated: 2025-07-21T15:07
+updated: 2025-07-23T09:54
 ---
 
 > [!NOTE] **Design** cognitive and social learning activities to meet learning outcomes.
@@ -15,17 +15,26 @@ updated: 2025-07-21T15:07
 
 > [!EXAMPLE] [[Assignment 2 - Small Group Facilitation]]
 > Describe, with examples, how you met learning outcome 3 in completing the Small Group Facilitation.
+> 
+> > [proficiency::not demonstrated]
 
 
 > [!EXAMPLE] [[Assignment 3 - Peer Coaching Session]]
 > Describe, with examples, how you met learning outcome 3 in completing the Peer Coaching Session.
+> 
+> > [proficiency::not demonstrated]
 
 > [!EXAMPLE] [[Assignment 4 - Analysis and Discussion]]
 > Describe, with examples, how you met learning outcome 3 in completing the  Analysis and Discussion.
+> 
+> > [proficiency::not demonstrated]
+
 
 
 
 > [!SUCCESS] Formative Feedback
-> Instructor Use
+> [aggregate::not demonstrated]
+
+
 
 

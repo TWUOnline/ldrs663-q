@@ -3,6 +3,12 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "proficiency": "multitext"
+    "proficiency": "multitext",
+    "outcomes": "multitext",
+    "not demonstrated": "checkbox",
+    "emerging": "checkbox",
+    "developing": "checkbox",
+    "proficient": "checkbox",
+    "extending": "checkbox"
   }
 }

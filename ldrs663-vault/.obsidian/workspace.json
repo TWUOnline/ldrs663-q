@@ -1,27 +1,62 @@
 {
   "main": {
-    "id": "670e273a1fc33b00",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "94052548655fb2e9",
+        "id": "b90a28404beeb8c9",
         "type": "tabs",
         "children": [
           {
-            "id": "041ea04435d702e0",
+            "id": "f8a1ac6eff2f25a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
-                "mode": "preview",
-                "source": false
+                "file": "Personal Learning Tracker/LO1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "LO1"
+            }
+          },
+          {
+            "id": "debf48dc0ef92def",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Learning Tracker/LO8.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LO8"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal Learning Tracker/LO8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for LO8"
             }
           },
           {
@@ -169,25 +205,28 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "041ea04435d702e0",
+  "active": "debf48dc0ef92def",
   "lastOpenFiles": [
-    "Progress Overview.md",
+    "Aggregated Assessment.md",
     "Personal Learning Tracker/LO1.md",
-    "Welcome.md",
     "Personal Learning Tracker/LO8.md",
     "Personal Learning Tracker/LO7.md",
     "Personal Learning Tracker/LO6.md",
-    "Personal Learning Tracker/LO3.md",
-    "Personal Learning Tracker/LO4.md",
     "Personal Learning Tracker/LO5.md",
+    "Personal Learning Tracker/LO4.md",
+    "Personal Learning Tracker/LO3.md",
     "Personal Learning Tracker/LO2.md",
-    "_templates/Learning Reflection.md",
+    "Assessment Overview.md",
     "_templates/Learning Outcome.md",
-    "Assignments/Assignment 1 - Autoethnography Proposal.md",
-    "Assignments/Assignment 3 - Peer Coaching Session.md",
-    "Assignments/Assignment 4 - Analysis and Discussion.md",
+    "Overall.md",
     "Assignments/Assignment 5 - Knowledge Process Map.md",
+    "Assignments/Assignment 4 - Analysis and Discussion.md",
+    "Assignments/Assignment 3 - Peer Coaching Session.md",
     "Assignments/Assignment 2 - Small Group Facilitation.md",
+    "Assignments/Assignment 1 - Autoethnography Proposal.md",
+    "Welcome.md",
+    "Progress Overview.md",
+    "_templates/Learning Reflection.md",
     "Personal Learning Tracker",
     "_templates",
     "Assignments",
@@ -201,9 +240,6 @@
     "Article Notes/changIndividualCollaborativeAutoethnography2021.md",
     "dawsonValidityMattersMore2024.md",
     "Learning Outcomes/LO-3.md",
-    "Learning Outcomes/LO-2.md",
-    "Learning Outcomes/LO-1.md",
-    "_templates/reflections.md",
     "Assignments/Learning Reflections",
     "My Library.ris",
     "04-Synthesis",
