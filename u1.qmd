@@ -9,9 +9,9 @@
 - **Before you start: Follow** the instructions on the '[Getting Started with Obsidian](https://ma-lead.github.io/ldrs663/getting-started-with-obsidian.html)' page in the course notes in Moodle.
 - **Read** [Critical inquiry in a text-based environment: Computer conferencing in higher education](https://www-sciencedirect-com.twu.idm.oclc.org/science/article/pii/S1096751600000166)  
 - **Read** [Getting the mix right again: An updated and theoretical rationale for interaction](http://www.irrodl.org/index.php/irrodl/article/view/149/230)   
-- **Read** [Interaction and the online distance classroom: Do instructional methods effect the quality of interaction?](https://link-springer-com.ezproxy.student.twu.ca/article/10.1007/s12528-011-9049-4)   
+- **Read** [Interaction and the online distance classroom: Do instructional methods effect the quality of interaction?](https://rdcu.be/cKSGf)   
 - **Write** your arguments for or against the *Interaction Equivalency Theorem* in the Learning community.  
-- Please complete these tasks by <span class='badge-blue'>Sunday, July 28</span> before your regular bedtime. 
+- Please complete these tasks by ~~Sunday, Jul 28~~ **Sunday, Aug 3** before your regular bedtime. 
 
 
 ## Overview {.unnumbered}
@@ -127,8 +127,7 @@ If you haven't done so previously, sign up for and activate [hypothes.is](https:
 
 Use the tag 'ldrs463-663' in any annotations you create so that we can all find each other.
 
-<!-- // TODO #5 This link is not working. Maybe this link instead? https://servicehub.twu.ca/TDClient/1904/Portal/KB/ArticleDet?ID=146716  -->
-[Click here for assistance getting set up with hypothes.is.](http://create.twu.ca/help/other-web-tools/hypothesis){target="_blank"}
+[Click here for assistance getting set up with hypothes.is.](https://servicehub.twu.ca/TDClient/1904/Portal/KB/ArticleDet?ID=146716){target="_blank"}
 
 As you read, consider a time where you experienced a learning environment where the three presences described in the CoI were apparent. Consider the following questions and optionally, write your responses in a new post on your blog.
 

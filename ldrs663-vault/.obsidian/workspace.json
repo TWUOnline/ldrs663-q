@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Learning Tracker/LO8.md",
+                "file": "Assignments/Assignment 1 - Autoethnography Proposal.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LO8"
+              "title": "Assignment 1 - Autoethnography Proposal"
             }
           }
         ],
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Learning Tracker/LO8.md",
+                "file": "Assignments/Assignment 1 - Autoethnography Proposal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for LO8"
+              "title": "Backlinks for Assignment 1 - Autoethnography Proposal"
             }
           },
           {
@@ -207,9 +207,10 @@
   },
   "active": "debf48dc0ef92def",
   "lastOpenFiles": [
-    "Aggregated Assessment.md",
     "Personal Learning Tracker/LO1.md",
+    "Assignments/Assignment 1 - Autoethnography Proposal.md",
     "Personal Learning Tracker/LO8.md",
+    "Aggregated Assessment.md",
     "Personal Learning Tracker/LO7.md",
     "Personal Learning Tracker/LO6.md",
     "Personal Learning Tracker/LO5.md",
@@ -223,7 +224,6 @@
     "Assignments/Assignment 4 - Analysis and Discussion.md",
     "Assignments/Assignment 3 - Peer Coaching Session.md",
     "Assignments/Assignment 2 - Small Group Facilitation.md",
-    "Assignments/Assignment 1 - Autoethnography Proposal.md",
     "Welcome.md",
     "Progress Overview.md",
     "_templates/Learning Reflection.md",
