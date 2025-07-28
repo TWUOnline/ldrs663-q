@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b90a28404beeb8c9",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "f8a1ac6eff2f25a5",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Learning Tracker/LO1.md",
-                "mode": "source",
+                "file": "Welcome.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LO1"
-            }
-          },
-          {
-            "id": "debf48dc0ef92def",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Assignments/Assignment 1 - Autoethnography Proposal.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Assignment 1 - Autoethnography Proposal"
+              "title": "Welcome"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,10 +180,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "debf48dc0ef92def",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Personal Learning Tracker/LO1.md",
+    "Welcome.md",
     "Assignments/Assignment 1 - Autoethnography Proposal.md",
+    "Personal Learning Tracker/LO1.md",
     "Personal Learning Tracker/LO8.md",
     "Aggregated Assessment.md",
     "Personal Learning Tracker/LO7.md",
@@ -224,7 +200,6 @@
     "Assignments/Assignment 4 - Analysis and Discussion.md",
     "Assignments/Assignment 3 - Peer Coaching Session.md",
     "Assignments/Assignment 2 - Small Group Facilitation.md",
-    "Welcome.md",
     "Progress Overview.md",
     "_templates/Learning Reflection.md",
     "Personal Learning Tracker",
