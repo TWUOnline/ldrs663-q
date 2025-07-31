@@ -2,14 +2,16 @@
 
 ## Overview {.unnumbered}
 
-In this unit, we will explore the nature of technology integrated assessment. In any formal learning environment, and many informal learning environments, there is a requirement for the instructor to engage in some sort of assessment of how well the learners are achieving the outcomes intended in the course design. Typically, this has happened with the assignment of a grade in a percentage or letter format, and usually accompanied by a significant amount of feedback from the instructor. In order to do this, the instructor needs to come to know what the learner knows, can do, or has become in relation to the outcomes. Coaching and facilitation are two activities that are highly dependent on assessing a learner's knowledge or ability in relation to a learning outcome and are key components of the process of certifying that a learner has achieved a certain level of proficiency. Knowledge of results occurs when an instructor or learner have identified a gap between what the learner is currently able to do and what they should be able to do in light of the course or program learning outcomes. Feedback occurs when inforamtion about how to close that gap is identified and the learner has the opportunity to improve their performance.
+In this unit, we will explore the nature of technology integrated assessment. In any formal learning environment, and many informal learning environments, there is a requirement for the instructor to engage in some sort of assessment of how well the learners are achieving the outcomes intended in the course design. Typically, this has happened with the assignment of a grade in a percentage or letter format, and usually accompanied by a significant amount of feedback from the instructor. In order to do this, the instructor needs to come to know what the learner knows, can do, or has become in relation to the outcomes. Coaching and facilitation are two activities that are highly dependent on assessing a learner's knowledge or ability in relation to a learning outcome and are key components of the process of certifying that a learner has achieved a certain level of proficiency. Knowledge of results occurs when an instructor or learner have identified a gap between what the learner is currently able to do and what they should be able to do in light of the course or program learning outcomes. Feedback occurs when information about how to close that gap is identified and the learner has the opportunity to improve their performance.
 
 ### Topics {.unnumbered}
 
 This unit is divided into the following topics:
 
-1. How does technology impact assessment?
-2. Feedback Loops and Spirals
+1. What is educational assessment?
+2. What is wrong with educational assesment?
+3. How does technology impact assessment?
+4. Feedback Loops and Spirals
 
 
 
@@ -28,5 +30,48 @@ Here is a list of learning activities that will benefit you in completing this u
 - Read, annotate, and tag   
   - Bower, M. (2019). [Technology‐mediated learning theory.](https://doi.org/10.1111/bjet.12771) *British Journal of Educational Technology, 50*(3), 1035–1048. 
   - Carless, D. (2019). [Feedback loops and the longer-term: Towards feedback spirals.](https://doi.org/10.1080/02602938.2018.1531108) *Assessment & Evaluation in Higher Education, 44*(5), 705–714.   
+  - Lipnevich, A. A., Guskey, T. R., Murano, D. M., & Smith, J. K. (2020). What do grades mean? Variation in grading criteria in American college and university courses. Assessment in Education: Principles, Policy & Practice, 27(5), 480–500. https://doi.org/10/ghjw3k
+  - Hattie, J., & Timperley, H. (2007). The power of feedback. Review of Educational Research, 77, 81–112. https://doi.org/10.3102/003465430298487
+- Post 4
+- 
 
 
+## What is Educational Assessment?
+
+[@lipnevichWhatGradesMean2020]
+
+### Traditional grading
+
+### Assessment *of* learning
+
+### Assessment *for* learning
+
+### Assessment *as* learning
+
+## What is wrong with Educational Assessment?
+
+### The math doesn't add up
+
+### Fair does not mean equal
+
+
+## How does Technology Impact Educational Assessment?
+
+[@bowerTechnologymediatedLearningTheory2019]
+
+### Technology-mediated learning
+
+### Technology and assessment
+
+## Feedback Loops and Spirals
+[@hattiePowerFeedback2007; @carlessFeedbackLoopsLongerterm2019]
+
+### What is feedback
+
+### Feedback loops
+
+### Feedback spirals
+
+## Summary
+
+## Unit 5 Assessment

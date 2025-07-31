@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -202,6 +222,31 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#unit-learning-outcomes" id="toc-unit-learning-outcomes" class="nav-link" data-scroll-target="#unit-learning-outcomes">Unit Learning Outcomes</a></li>
   <li><a href="#learning-activities" id="toc-learning-activities" class="nav-link" data-scroll-target="#learning-activities">Learning Activities</a></li>
   </ul></li>
+  <li><a href="#what-is-educational-assessment" id="toc-what-is-educational-assessment" class="nav-link" data-scroll-target="#what-is-educational-assessment"><span class="header-section-number">5.1</span> What is Educational Assessment?</a>
+  <ul>
+  <li><a href="#traditional-grading" id="toc-traditional-grading" class="nav-link" data-scroll-target="#traditional-grading"><span class="header-section-number">5.1.1</span> Traditional grading</a></li>
+  <li><a href="#assessment-of-learning" id="toc-assessment-of-learning" class="nav-link" data-scroll-target="#assessment-of-learning"><span class="header-section-number">5.1.2</span> Assessment <em>of</em> learning</a></li>
+  <li><a href="#assessment-for-learning" id="toc-assessment-for-learning" class="nav-link" data-scroll-target="#assessment-for-learning"><span class="header-section-number">5.1.3</span> Assessment <em>for</em> learning</a></li>
+  <li><a href="#assessment-as-learning" id="toc-assessment-as-learning" class="nav-link" data-scroll-target="#assessment-as-learning"><span class="header-section-number">5.1.4</span> Assessment <em>as</em> learning</a></li>
+  </ul></li>
+  <li><a href="#what-is-wrong-with-educational-assessment" id="toc-what-is-wrong-with-educational-assessment" class="nav-link" data-scroll-target="#what-is-wrong-with-educational-assessment"><span class="header-section-number">5.2</span> What is wrong with Educational Assessment?</a>
+  <ul>
+  <li><a href="#the-math-doesnt-add-up" id="toc-the-math-doesnt-add-up" class="nav-link" data-scroll-target="#the-math-doesnt-add-up"><span class="header-section-number">5.2.1</span> The math doesn’t add up</a></li>
+  <li><a href="#fair-does-not-mean-equal" id="toc-fair-does-not-mean-equal" class="nav-link" data-scroll-target="#fair-does-not-mean-equal"><span class="header-section-number">5.2.2</span> Fair does not mean equal</a></li>
+  </ul></li>
+  <li><a href="#how-does-technology-impact-educational-assessment" id="toc-how-does-technology-impact-educational-assessment" class="nav-link" data-scroll-target="#how-does-technology-impact-educational-assessment"><span class="header-section-number">5.3</span> How does Technology Impact Educational Assessment?</a>
+  <ul>
+  <li><a href="#technology-mediated-learning" id="toc-technology-mediated-learning" class="nav-link" data-scroll-target="#technology-mediated-learning"><span class="header-section-number">5.3.1</span> Technology-mediated learning</a></li>
+  <li><a href="#technology-and-assessment" id="toc-technology-and-assessment" class="nav-link" data-scroll-target="#technology-and-assessment"><span class="header-section-number">5.3.2</span> Technology and assessment</a></li>
+  </ul></li>
+  <li><a href="#feedback-loops-and-spirals" id="toc-feedback-loops-and-spirals" class="nav-link" data-scroll-target="#feedback-loops-and-spirals"><span class="header-section-number">5.4</span> Feedback Loops and Spirals</a>
+  <ul>
+  <li><a href="#what-is-feedback" id="toc-what-is-feedback" class="nav-link" data-scroll-target="#what-is-feedback"><span class="header-section-number">5.4.1</span> What is feedback</a></li>
+  <li><a href="#feedback-loops" id="toc-feedback-loops" class="nav-link" data-scroll-target="#feedback-loops"><span class="header-section-number">5.4.2</span> Feedback loops</a></li>
+  <li><a href="#feedback-spirals" id="toc-feedback-spirals" class="nav-link" data-scroll-target="#feedback-spirals"><span class="header-section-number">5.4.3</span> Feedback spirals</a></li>
+  </ul></li>
+  <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary"><span class="header-section-number">5.5</span> Summary</a></li>
+  <li><a href="#unit-5-assessment" id="toc-unit-5-assessment" class="nav-link" data-scroll-target="#unit-5-assessment"><span class="header-section-number">5.6</span> Unit 5 Assessment</a></li>
   </ul>
 </nav>
     </div>
@@ -213,11 +258,13 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="overview" class="level2 unnumbered">
 <h2 class="unnumbered anchored" data-anchor-id="overview">Overview</h2>
-<p>In this unit, we will explore the nature of technology integrated assessment. In any formal learning environment, and many informal learning environments, there is a requirement for the instructor to engage in some sort of assessment of how well the learners are achieving the outcomes intended in the course design. Typically, this has happened with the assignment of a grade in a percentage or letter format, and usually accompanied by a significant amount of feedback from the instructor. In order to do this, the instructor needs to come to know what the learner knows, can do, or has become in relation to the outcomes. Coaching and facilitation are two activities that are highly dependent on assessing a learner’s knowledge or ability in relation to a learning outcome and are key components of the process of certifying that a learner has achieved a certain level of proficiency. Knowledge of results occurs when an instructor or learner have identified a gap between what the learner is currently able to do and what they should be able to do in light of the course or program learning outcomes. Feedback occurs when inforamtion about how to close that gap is identified and the learner has the opportunity to improve their performance.</p>
+<p>In this unit, we will explore the nature of technology integrated assessment. In any formal learning environment, and many informal learning environments, there is a requirement for the instructor to engage in some sort of assessment of how well the learners are achieving the outcomes intended in the course design. Typically, this has happened with the assignment of a grade in a percentage or letter format, and usually accompanied by a significant amount of feedback from the instructor. In order to do this, the instructor needs to come to know what the learner knows, can do, or has become in relation to the outcomes. Coaching and facilitation are two activities that are highly dependent on assessing a learner’s knowledge or ability in relation to a learning outcome and are key components of the process of certifying that a learner has achieved a certain level of proficiency. Knowledge of results occurs when an instructor or learner have identified a gap between what the learner is currently able to do and what they should be able to do in light of the course or program learning outcomes. Feedback occurs when information about how to close that gap is identified and the learner has the opportunity to improve their performance.</p>
 <section id="topics" class="level3 unnumbered">
 <h3 class="unnumbered anchored" data-anchor-id="topics">Topics</h3>
 <p>This unit is divided into the following topics:</p>
 <ol type="1">
+<li>What is educational assessment?</li>
+<li>What is wrong with educational assesment?</li>
 <li>How does technology impact assessment?</li>
 <li>Feedback Loops and Spirals</li>
 </ol>
@@ -237,12 +284,85 @@ ul.task-list li input[type="checkbox"] {
 <li>Read, annotate, and tag
 <ul>
 <li>Bower, M. (2019). <a href="https://doi.org/10.1111/bjet.12771">Technology‐mediated learning theory.</a> <em>British Journal of Educational Technology, 50</em>(3), 1035–1048.</li>
-<li>Carless, D. (2019). <a href="https://doi.org/10.1080/02602938.2018.1531108">Feedback loops and the longer-term: Towards feedback spirals.</a> <em>Assessment &amp; Evaluation in Higher Education, 44</em>(5), 705–714.</li>
+<li>Carless, D. (2019). <a href="https://doi.org/10.1080/02602938.2018.1531108">Feedback loops and the longer-term: Towards feedback spirals.</a> <em>Assessment &amp; Evaluation in Higher Education, 44</em>(5), 705–714.<br>
+</li>
+<li>Lipnevich, A. A., Guskey, T. R., Murano, D. M., &amp; Smith, J. K. (2020). What do grades mean? Variation in grading criteria in American college and university courses. Assessment in Education: Principles, Policy &amp; Practice, 27(5), 480–500. https://doi.org/10/ghjw3k</li>
+<li>Hattie, J., &amp; Timperley, H. (2007). The power of feedback. Review of Educational Research, 77, 81–112. https://doi.org/10.3102/003465430298487</li>
 </ul></li>
+<li>Post 4</li>
+<li></li>
 </ul>
-
-
 </section>
+</section>
+<section id="what-is-educational-assessment" class="level2" data-number="5.1">
+<h2 data-number="5.1" class="anchored" data-anchor-id="what-is-educational-assessment"><span class="header-section-number">5.1</span> What is Educational Assessment?</h2>
+<p><span class="citation" data-cites="lipnevichWhatGradesMean2020">(Lipnevich et al., 2020)</span></p>
+<section id="traditional-grading" class="level3" data-number="5.1.1">
+<h3 data-number="5.1.1" class="anchored" data-anchor-id="traditional-grading"><span class="header-section-number">5.1.1</span> Traditional grading</h3>
+</section>
+<section id="assessment-of-learning" class="level3" data-number="5.1.2">
+<h3 data-number="5.1.2" class="anchored" data-anchor-id="assessment-of-learning"><span class="header-section-number">5.1.2</span> Assessment <em>of</em> learning</h3>
+</section>
+<section id="assessment-for-learning" class="level3" data-number="5.1.3">
+<h3 data-number="5.1.3" class="anchored" data-anchor-id="assessment-for-learning"><span class="header-section-number">5.1.3</span> Assessment <em>for</em> learning</h3>
+</section>
+<section id="assessment-as-learning" class="level3" data-number="5.1.4">
+<h3 data-number="5.1.4" class="anchored" data-anchor-id="assessment-as-learning"><span class="header-section-number">5.1.4</span> Assessment <em>as</em> learning</h3>
+</section>
+</section>
+<section id="what-is-wrong-with-educational-assessment" class="level2" data-number="5.2">
+<h2 data-number="5.2" class="anchored" data-anchor-id="what-is-wrong-with-educational-assessment"><span class="header-section-number">5.2</span> What is wrong with Educational Assessment?</h2>
+<section id="the-math-doesnt-add-up" class="level3" data-number="5.2.1">
+<h3 data-number="5.2.1" class="anchored" data-anchor-id="the-math-doesnt-add-up"><span class="header-section-number">5.2.1</span> The math doesn’t add up</h3>
+</section>
+<section id="fair-does-not-mean-equal" class="level3" data-number="5.2.2">
+<h3 data-number="5.2.2" class="anchored" data-anchor-id="fair-does-not-mean-equal"><span class="header-section-number">5.2.2</span> Fair does not mean equal</h3>
+</section>
+</section>
+<section id="how-does-technology-impact-educational-assessment" class="level2" data-number="5.3">
+<h2 data-number="5.3" class="anchored" data-anchor-id="how-does-technology-impact-educational-assessment"><span class="header-section-number">5.3</span> How does Technology Impact Educational Assessment?</h2>
+<p><span class="citation" data-cites="bowerTechnologymediatedLearningTheory2019">(Bower, 2019)</span></p>
+<section id="technology-mediated-learning" class="level3" data-number="5.3.1">
+<h3 data-number="5.3.1" class="anchored" data-anchor-id="technology-mediated-learning"><span class="header-section-number">5.3.1</span> Technology-mediated learning</h3>
+</section>
+<section id="technology-and-assessment" class="level3" data-number="5.3.2">
+<h3 data-number="5.3.2" class="anchored" data-anchor-id="technology-and-assessment"><span class="header-section-number">5.3.2</span> Technology and assessment</h3>
+</section>
+</section>
+<section id="feedback-loops-and-spirals" class="level2" data-number="5.4">
+<h2 data-number="5.4" class="anchored" data-anchor-id="feedback-loops-and-spirals"><span class="header-section-number">5.4</span> Feedback Loops and Spirals</h2>
+<p><span class="citation" data-cites="hattiePowerFeedback2007 carlessFeedbackLoopsLongerterm2019">(Carless, 2019; Hattie &amp; Timperley, 2007)</span></p>
+<section id="what-is-feedback" class="level3" data-number="5.4.1">
+<h3 data-number="5.4.1" class="anchored" data-anchor-id="what-is-feedback"><span class="header-section-number">5.4.1</span> What is feedback</h3>
+</section>
+<section id="feedback-loops" class="level3" data-number="5.4.2">
+<h3 data-number="5.4.2" class="anchored" data-anchor-id="feedback-loops"><span class="header-section-number">5.4.2</span> Feedback loops</h3>
+</section>
+<section id="feedback-spirals" class="level3" data-number="5.4.3">
+<h3 data-number="5.4.3" class="anchored" data-anchor-id="feedback-spirals"><span class="header-section-number">5.4.3</span> Feedback spirals</h3>
+</section>
+</section>
+<section id="summary" class="level2" data-number="5.5">
+<h2 data-number="5.5" class="anchored" data-anchor-id="summary"><span class="header-section-number">5.5</span> Summary</h2>
+</section>
+<section id="unit-5-assessment" class="level2" data-number="5.6">
+<h2 data-number="5.6" class="anchored" data-anchor-id="unit-5-assessment"><span class="header-section-number">5.6</span> Unit 5 Assessment</h2>
+
+
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-bowerTechnologymediatedLearningTheory2019" class="csl-entry" role="listitem">
+Bower, M. (2019). Technology-mediated learning theory. <em>British Journal of Educational Technology</em>, <em>50</em>(3), 1035–1048. <a href="https://doi.org/10.1111/bjet.12771">https://doi.org/10.1111/bjet.12771</a>
+</div>
+<div id="ref-carlessFeedbackLoopsLongerterm2019" class="csl-entry" role="listitem">
+Carless, D. (2019). Feedback loops and the longer-term: Towards feedback spirals. <em>Assessment &amp; Evaluation in Higher Education</em>, <em>44</em>(5), 705–714. <a href="https://doi.org/10.1080/02602938.2018.1531108">https://doi.org/10.1080/02602938.2018.1531108</a>
+</div>
+<div id="ref-hattiePowerFeedback2007" class="csl-entry" role="listitem">
+Hattie, J., &amp; Timperley, H. (2007). The power of feedback. <em>Review of Educational Research</em>, <em>77</em>, 81–112. <a href="https://doi.org/10.3102/003465430298487">https://doi.org/10.3102/003465430298487</a>
+</div>
+<div id="ref-lipnevichWhatGradesMean2020" class="csl-entry" role="listitem">
+Lipnevich, A. A., Guskey, T. R., Murano, D. M., &amp; Smith, J. K. (2020). What do grades mean? <span>Variation</span> in grading criteria in <span>American</span> college and university courses. <em>Assessment in Education: Principles, Policy &amp; Practice</em>, <em>27</em>(5), 480–500. <a href="https://doi.org/10.1080/0969594x.2020.1799190">https://doi.org/10.1080/0969594x.2020.1799190</a>
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->
