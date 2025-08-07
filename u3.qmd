@@ -305,7 +305,7 @@ In addition, please begin planning your [Peer Coaching Session](https://ma-lead.
 
 :::
 -->
-// todo #35 **The following Coaching Notes feel like a mix of a summary and a step-by-step guide to help students coach more effectively. What if we turned this into an H5P presentation and used it as the summary section? Maybe we could also offer a downloadable version—would that be helpful for their assignments?**
+<!-- // todo #35 **The following Coaching Notes feel like a mix of a summary and a step-by-step guide to help students coach more effectively. What if we turned this into an H5P presentation and used it as the summary section? Maybe we could also offer a downloadable version—would that be helpful for their assignments?** -->
 
 <!-- Add this HTML code where you want the button to appear -->
 <a href="https://twuonline.github.io/ldrs663-q/coaching-slides.html">
@@ -364,7 +364,7 @@ In addition, please begin planning your [Peer Coaching Session](https://ma-lead.
 
 #### Core Coaching Competencies {.unnumbered}
 
-// todo #36 The content discusses 6 Core Coaching Competencies, and here there are more than six. Could this be confusing for students? Maybe we could organize them differently?
+<!-- // todo #36 The content discusses 6 Core Coaching Competencies, and here there are more than six. Could this be confusing for students? Maybe we could organize them differently? -->
 
 - Practicing Professional Ethics & Standards
 - Cultivating Trust & Safety
@@ -433,7 +433,7 @@ she finishes communicating, saying things like:
 
 #### Julian Treasure (2011) provides us with critical insights into how we can listen consciously. {.unnumbered}
 
-// todo #37 The link to the video is missing
+<!-- // todo #37 The link to the video is missing -->
 
 ![alt-text](assets/presentations/coaching/ted.jpg "TEDTalks splash page")
 
@@ -480,7 +480,7 @@ she finishes communicating, saying things like:
 2. Name emotions you observe
 3. Be a “mirror”
 
-// todo #38 I think we can improve the quality of the following image, since the text is blurry and hard to read.
+<!-- // todo #38 I think we can improve the quality of the following image, since the text is blurry and hard to read. -->
 
 
 ![alt-text](assets/presentations/coaching/plutchik.jpg "Plutchik's wheel of emotions")

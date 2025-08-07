@@ -27,7 +27,7 @@ When you have completed this unit, you should be able to:
 ### Learning Activities {.unnumbered}
 Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
 
-**// todo #51** Add Learning Activities list 
+<!-- **// todo #51** Add Learning Activities list  -->
 
 ### Assessment {.unnumbered} 
 
@@ -36,7 +36,7 @@ Please see the Assessment section in Moodle for assignment details.
 ### Resources {.unnumbered}
 
 Online resources will be provided in the unit.
-**// todo #50** Should we add the core book: Teaching in a Digital Age?
+<!-- **// todo #50** Should we add the core book: Teaching in a Digital Age? -->
 
 ## What is Educational Experience
 
@@ -57,7 +57,7 @@ His point, here, is that the studying of texts is also an “experiential learni
 
 According to Dewey’s theory of education and experience, one’s learning experience arises from the interaction of two essential principles—continuity and interaction.  Continuity refers to his idea that each experience one has will influence, in some way, one’s future experiences. Building on continuity, interaction expresses the relationship between one’s past experience and present learning situation.
 
-**// todo #39** Use a different format to highlight the following text, since this is not a learning activity 
+<!-- **// todo #39** Use a different format to highlight the following text, since this is not a learning activity  -->
 
 ### Continuity of experience, in Dewey’s (1938) words, 
 
@@ -80,7 +80,7 @@ Dewey describes the mechanics of the interplay of continuity and interaction as 
 
 The course designer has crafted a course of study and associated active learning experiences in the facilitator’s guide. The course designer’s intent is to lead the student, with the help of your facilitation, through a continuity of interactions leading to positive growth in the learner, as defined by the learning outcomes. As facilitator your role is to help learners navigate this pathway of learning experiences and ensure the intended continuity of learning experiences and the intended learner interactions between the learners and these experiences is achieved.
 
-**// todo #40** Use a different format to highlight the following text, since this is not a learning activity
+<!-- **// todo #40** Use a different format to highlight the following text, since this is not a learning activity -->
 
 ### In sum, Dewey’s theory suggests three critical practices for facilitating learning:
 
@@ -97,7 +97,7 @@ Every learner and group of learners is unique, each bringing different prior exp
 
 The first Learning Activity for Unit 4 will focus on the work of John Dewey in his writing *Experience and Education.* While the link below will take you to the entire text (*which you are more then welcome to read!*), the focus for this section will be on Chapter 2 titled: ***The Need of a Theory of Experience.***
 
-**// todo #41** Set up the following link to open in a new tab
+<!-- **// todo #41** Set up the following link to open in a new tab -->
 
  - [**Experience and Education: Chapter 2**](http://ruby.fgcu.edu/courses/ndemers/colloquium/experienceducationdewey.pdf)
 
@@ -171,7 +171,7 @@ As educators today, we have inherited a mix of classical, modern, and now post-m
 
 ::: {.learning-activity}
 
-**// todo #42** It seems that the instructions for the learning activity are missing. Exactly what readings do students have to complete?
+<!-- **// todo #42** It seems that the instructions for the learning activity are missing. Exactly what readings do students have to complete? -->
 
 #### **Questions to Consider** {.unnumbered}
 
@@ -223,7 +223,7 @@ Bound by a space and a time, study is a particularity, not a generality. Study i
 
 ::: {.learning-activity title="Estimayed Time: 00 minutes"}
 
-**// todo #43** It seems that the content provided is sufficient for students to reflect on the questions listed. I’m just wondering if this was the intended design, or if we’re missing some reading resources for this activity.
+<!-- **// todo #43** It seems that the content provided is sufficient for students to reflect on the questions listed. I’m just wondering if this was the intended design, or if we’re missing some reading resources for this activity. -->
 
 #### **Questions to Consider** {.unnumbered}
 
@@ -270,7 +270,7 @@ Explaining the important role of the map Dewey (1902) writes:
 
 The learning design and its associated documents that we create as educators constitute a map of the terrain to be covered within a course of study (that is, a learning program). Nevertheless, it is important to recognize it is not an exhaustive view of the territory, but simply sets directive guidance for the teachers’ and students’ journey through this terrain. In short, *curricular documents, like a syllabus, simply serves as the guide to the learning experience.* As educators, we shouldn’t be bound to it. In our role of coaching and facilitating transformational learning our role is to acts as guides in the curricular journey that students are undertaking and they work to complete a particular course of study.
 
-**// todo #46** I wonder if we should provide some examples of a syllabus or a suggested outline of what it should include.
+<!-- **// todo #46** I wonder if we should provide some examples of a syllabus or a suggested outline of what it should include. -->
 
 ## Emerging Models of Open and Multi-Access Education
 
@@ -284,7 +284,7 @@ After taking a moment to consider the questions above, read Chapter 1 of our cor
 
 ***Note:*** *Particularly focus on sections 1.6-1.8.*
 
-**// todo #47** Configure the following link to open in a new tab.
+<!-- **// todo #47** Configure the following link to open in a new tab. -->
 
 [Teaching in a Digital Age](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/part/chapter-1-fundamental-change-in-education/)
 
@@ -341,7 +341,7 @@ The outermost tier of the model is for open participation from non-credit learne
 
 This Learning Activity begins by asking you to take a close look and consider the picture below this block.
 
-**// todo #44** Include the image within the activity box.
+<!-- **// todo #44** Include the image within the activity box. -->
 
 #### Read {.unnumbered}
 
@@ -360,15 +360,15 @@ After taking some time to consider the picture, along with completing the readin
 ![Beyond Blended Visual notes by giuliaforsythe on Twitter](assets/U5/U5LAImage.jpg)
 
 ## Unit Summary {.unnumbered}
-**// todo #48**
+<!-- **// todo #48** -->
 
 ## Checking Your Learning {.unnumbered}
-**// todo #49**
+<!-- **// todo #49** -->
 
 
-**// todo #45** Delete the following title?
+<!-- **// todo #45** Delete the following title? -->
 
-## Unit 4 Assessment {.unnumbered}
+<!-- ## Unit 4 Assessment {.unnumbered} -->
 
 
 <!--
