@@ -2,7 +2,7 @@
 
 
 
-<!-- [//todo #12](https://github.com/TWUOnline/ldrs663-q/issues/12) -->
+<!--//todo #12 -->
 
 ::: {.callout-note}
 Assignments should be delivered by your normal bedtime in your timezone.

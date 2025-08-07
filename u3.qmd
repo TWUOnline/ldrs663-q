@@ -642,7 +642,7 @@ you really want.
 - Schedule the Work (when you do what)
 
 ## Unit Summary {.unnumbered}
-//todo #20
+<!--//todo #20-->
 
 ## Checking Your Learning
-//todo #21
+<!--//todo #21->

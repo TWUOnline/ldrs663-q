@@ -40,7 +40,7 @@ When you have completed this unit, you will be able to:
 
 Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
 
-//todo #22
+<!--//todo #22-->
 
 1. *[Introductions and Learning Stories* topic in the Learning Community.](https://twu.discourse.group/t/introductions-and-learning-stories)
 2. [Exploring the Community of Inquiry:](#activity-exploring-the-community-of-inquiry) Read *Critical Inquiry in a Text-Based Environment: Computer Conferencing in Higher Education*.
