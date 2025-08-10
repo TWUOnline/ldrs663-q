@@ -10,8 +10,8 @@
 - Meet in Zoom <span class='badge-blue'>Wednesday, September 20, 10:30 am PDT</span> [Check your local time here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20230920T1030&p1=256&ah=1) 
 - Meet in Zoom <span class='badge-blue'>Wednesday, September 27, 10:30 am PDT</span>  [Check your local time here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20230927T1030&p1=256&ah=1) 
 - If you haven't already, sign up for a Learning Pod. Link is in Moodle.
-- **Read** [**Facilitating Learning and Change in Groups**](https://infed.org/mobi/facilitating-learning-and-change-in-groups-and-group-sessions/)  
-- **Read** [**What is a Group?**](https://infed.org/mobi/what-is-a-group/)  
+- **Read** [**Facilitating Learning and Change in Groups**](https://infed.org/mobi/facilitating-learning-and-change-in-groups-and-group-sessions/)  [**ARCHIVE**](https://web.archive.org/web/20250514185822/https://infed.org/mobi/facilitating-learning-and-change-in-groups-and-group-sessions)
+- **Read** [**What is a Group?**](https://infed.org/mobi/what-is-a-group/)  [**ARCHIVE**](https://web.archive.org/web/20250514173100/https://infed.org/mobi/what-is-a-group)
 - **Read** [**Comfort Zone to Performance Management**](https://www.researchgate.net/publication/228957278_From_Comfort_Zone_to_Performance_Management)  
     - [PDF Download](assets/Performance_Management.pdf)
 - **Read** [**Core Competencies**](https://www.iaf-world.org/site/professional/core-competencies)  
@@ -194,7 +194,7 @@ The work of facilitating the learning process within a group setting begins with
 ::: {.learning-activity}
 <!-- // todo #26 Should we include an introduction that encourages the student to start thinking about the planning of their facilitation session? Or should we include specific questions that prompt the student to begin planning their facilitation session? -->
 
-Read the following article [_Facilitating Learning and Change in Groups and Group Sessions_](https://infed.org/mobi/facilitating-learning-and-change-in-groups-and-group-sessions/) (_Infed.Org_, n.d.).
+Read the following article [_Facilitating Learning and Change in Groups and Group Sessions_](https://infed.org/mobi/facilitating-learning-and-change-in-groups-and-group-sessions/) (_Infed.Org_, n.d.). [**ARCHIVE**](https://web.archive.org/web/20250514185822/https://infed.org/mobi/facilitating-learning-and-change-in-groups-and-group-sessions)
 
 After completing the reading above, consider the following questions:  
 
@@ -258,7 +258,7 @@ Each stage of group development requires the facilitator to employ variations in
 
 ::: {.learning-activity title="Read and Reflect"}
 
-Take a moment to read the following article [_What is a Group?_](https://infed.org/mobi/what-is-a-group/) (_Infed.Org_, n.d.).
+Take a moment to read the following article [_What is a Group?_](https://infed.org/mobi/what-is-a-group/) (_Infed.Org_, n.d.).  [**ARCHIVE**](https://web.archive.org/web/20250514173100/https://infed.org/mobi/what-is-a-group)
 
 After reading the article above, consider the following questions:  
 
