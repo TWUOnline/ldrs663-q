@@ -308,19 +308,17 @@ In addition, please begin planning your [Peer Coaching Session](https://ma-lead.
 <!-- // todo #35 **The following Coaching Notes feel like a mix of a summary and a step-by-step guide to help students coach more effectively. What if we turned this into an H5P presentation and used it as the summary section? Maybe we could also offer a downloadable version—would that be helpful for their assignments?** -->
 
 <!-- Add this HTML code where you want the button to appear -->
-<a href="https://twuonline.github.io/ldrs663-q/coaching-slides.html">
+<!-- <a href="https://twuonline.github.io/ldrs663-q/coaching-slides.html">
   <button type="button">Go to Coaching Slides</button>
-</a>
+</a> -->
 
 ## Coaching Notes {.unnumbered}
 
-<div>
 
-```{=html}
+<!-- ```{=html}
 <iframe class="slide-deck" src="presentations/coaching/coaching-slides.qmd"></iframe>
-```
+``` -->
 
-</div>
 
 #### What is **coaching**? {.unnumbered}
 
@@ -335,7 +333,7 @@ In addition, please begin planning your [Peer Coaching Session](https://ma-lead.
 
 
 
-![](assets/presentations/coaching/mike.jpg)
+![](assets/u3/mike.jpg)
 
 
 
@@ -435,7 +433,7 @@ she finishes communicating, saying things like:
 
 <!-- // todo #37 The link to the video is missing -->
 
-![alt-text](assets/presentations/coaching/ted.jpg "TEDTalks splash page")
+![alt-text](assets/u3/ted.jpg "TEDTalks splash page")
 
 
 
@@ -454,7 +452,7 @@ she finishes communicating, saying things like:
 #### Coaching for learning requires Active Listening {.unnumbered}
 
 
-![alt-text](assets/presentations/coaching/active.png "Active Listening Model, (Hoppe, 2006)")
+![alt-text](assets/u3/active.png "Active Listening Model, (Hoppe, 2006)")
 
 
 #### Pay Attention {.unnumbered}
@@ -483,7 +481,7 @@ she finishes communicating, saying things like:
 <!-- // todo #38 I think we can improve the quality of the following image, since the text is blurry and hard to read. -->
 
 
-![alt-text](assets/presentations/coaching/plutchik.jpg "Plutchik's wheel of emotions")
+![alt-text](assets/u3/plutchik.jpg "Plutchik's wheel of emotions")
 
 
 #### Clarify {.unnumbered}
@@ -510,13 +508,12 @@ she finishes communicating, saying things like:
 #### G.R.O.W. Coaching Model {.unnumbered}
 
 
-<div>
 
-```{=html}
+<!-- ```{=html}
 <iframe class="slide-deck" src="coaching/"></iframe>
-```
+``` -->
 
-</div>
+
 
 ## Goal Setting {.unnumbered}
 
