@@ -36,7 +36,7 @@ Online resources will be provided in the unit.
 
 <!-- // todo #29 - The Coaching Notes link is broken. Also, I think it would be good to use the “open in a new tab” setting. -->
 
-[Coaching Notes](https://twuonline.github.io/ldrs663-q/docs/coaching-slides.html)
+<!-- [Coaching Notes](https://twuonline.github.io/ldrs663-q/docs/coaching-slides.html) -->
 
 ## Theories of Learning {.unnumbered}
 
@@ -50,9 +50,9 @@ As you can see, the artist envisioned a process whereby information was fed into
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6vMO3XmNXe4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-These are both examples of how the modern condition of thought (Unit 2), has shaped our thinking about learning. Many modern era educators viewed people as learning “machines” who could be “programmed” with instructions, just like we program computers. The legacy of this thinking still lingers and the educational model of instructors instructing students through instructions is still prevalent.
+These are both examples of how the modern condition of thought, has shaped our thinking about learning. Many modern era educators viewed people as learning “machines” who could be “programmed” with instructions, just like we program computers. The legacy of this thinking still lingers and the educational model of instructors instructing students through instructions is still prevalent.
 
-In these modern visions, learning is something done *to* students, not something done *by* students. The learner is completely passive in the process. The dreams of grade-schoolers to be able to rest a book on their head and learn by osmosis are just as far-fetched as the prognostications from the early 20th century, from the *Matrix,* and from the claims of many edtech companies today. However, we need to recognize that learning is hard work. Consider Erasmus’s (1965) comment in his dialogue *The Art of Learning*, “For my part, I know no other art of learning than hard work, devotion, and perseverance” (p. 461). This statement remains as true today as it was in 1529.
+In these modern visions, learning is something done *to* students, not something done *by* students. The learner is completely passive in the process. The dreams of grade-schoolers to be able to rest a book on their head and learn by osmosis are just as far-fetched as the prognostications from the early 20th century, from the *Matrix,* and from the claims of many so-called "artificial intelligence" (yes, they are artificial; no, they are not in any way intelligent) companies today. However, we need to recognize that learning is hard work. Consider Erasmus’s (1965) comment in his dialogue *The Art of Learning*, “For my part, I know no other art of learning than hard work, devotion, and perseverance” (p. 461). This statement remains as true today as it was in 1529.
 
 Take a few minutes to watch this video from Destin Sandlin, creator of the YouTube channel *Smarter Every Day*. The video has a long introduction, but it is entertaining and sets up the problem of learning very well:
 
@@ -86,7 +86,7 @@ Here is a slightly less scientifically rigorous portrayal of what happens when o
 
 The point of these experiments, at least for our purposes, is that human brains (and likely other animals as well) demonstrate the characteristic of *plasticity*. The connections in our brain that allow ideas to form and be adjusted can be broken and then reconnected in different configurations.
 
-***This is learning. Learning is hard work.***
+> ***This is learning. Learning is hard work.***
 
 One implication of this is that it is naïve for educators to assume that a single exposure to an idea will somehow cause learning. In fact, the opposite is true. It takes repeated exposure, practice, error-correction, and adjustment for learning to become consolidated.
 
@@ -100,6 +100,7 @@ One implication of this is that it is naïve for educators to assume that a sing
 Read Chapters 1-3 of How people learn II: Learners, Context and Cultures, [available for free download here](https://www.nap.edu/catalog/24783).
 
 *Note*: We will not be using this entire book, so don't feel obliged to purchase a copy for yourself.
+
 Click 'Read Online'. As you read, please use hypothes.is to both record your thoughts and connections in the article, but also interact with past annotations. These chapters are already heavily annotated, presumably by other students.
 
 **Questions to Consider**
@@ -637,9 +638,9 @@ you really want.
 - Breakdown the Work (into a list of tasks)
 - Define the Critical Path (the order of tasks)
 - Schedule the Work (when you do what)
-
+<!-- 
 ## Unit Summary {.unnumbered}
 <!--//todo #20-->
 
-## Checking Your Learning
-<!--//todo #21->
+<!-- ## Checking Your Learning
+//todo #21  -->
