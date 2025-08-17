@@ -82,7 +82,8 @@ There is a very good chance that your recollection of a memorable learning exper
 
 The idea didn't originate with Dewey, though, as we know that in first-century Palestine there was a certain itinerant teacher whose lessons were profoundly impactful on a small group of young men and women who were called to live and learn in a deeply personal and social community.
 
-Following Dewey, many others, such as Jean Piaget, Jerome Bruner, and Lev Vygotsky (see @ [Driscoll, 2005])(https://twu.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat05965a&AN=alc.1254633&site=eds-live){target="_blank"} have written about what has now become known as the educational theory of *social constructivism*, or, more concisely, constructivism. Driscoll (2005) describes constructivism as a theory that
+Following Dewey, many others, such as Jean Piaget, Jerome Bruner, and Lev Vygotsky have written about what has now become known as the educational theory of *social constructivism*, or, more concisely, constructivism [@driscollPsychologyLearningInstruction2005]. Driscoll describes constructivism as a theory that
+
 > rests on the assumption that knowledge is constructed by learners as they attempt to make sense of their experiences. Learners, therefore are not empty vessels waiting to be filled, but rather active organisms seeking meaning. (p.387)
 
 This process of seeking meaning is an iterative process whereby the learner experiences some sort of cognitive dissonance, or a disconnect between what they previously knew and some new piece of evidence or experience that disconfirms that knowledge. The learner then seeks to resolve that dissonance by either incorporating the new experience into an older schema, or by disregarding one or the other. Most often, the resulting knowledge is constructed from portions of both the new and old idea.

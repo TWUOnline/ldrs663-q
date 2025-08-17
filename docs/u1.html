@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -332,7 +352,10 @@ ul.task-list li input[type="checkbox"] {
 <p>I believe that the school is primarily a social institution. Education being a social process, the school is simply that form of community life in which all those agencies are concentrated that will be most effective in bringing the child to share in the inherited resources of the race, and to use his own powers for social ends. (p.&nbsp;7)</p>
 </blockquote>
 <p>The idea didn’t originate with Dewey, though, as we know that in first-century Palestine there was a certain itinerant teacher whose lessons were profoundly impactful on a small group of young men and women who were called to live and learn in a deeply personal and social community.</p>
-<p>Following Dewey, many others, such as Jean Piaget, Jerome Bruner, and Lev Vygotsky (see @ [Driscoll, 2005])(https://twu.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;db=cat05965a&amp;AN=alc.1254633&amp;site=eds-live){target=“_blank”} have written about what has now become known as the educational theory of <em>social constructivism</em>, or, more concisely, constructivism. Driscoll (2005) describes constructivism as a theory that &gt; rests on the assumption that knowledge is constructed by learners as they attempt to make sense of their experiences. Learners, therefore are not empty vessels waiting to be filled, but rather active organisms seeking meaning. (p.387)</p>
+<p>Following Dewey, many others, such as Jean Piaget, Jerome Bruner, and Lev Vygotsky have written about what has now become known as the educational theory of <em>social constructivism</em>, or, more concisely, constructivism <span class="citation" data-cites="driscollPsychologyLearningInstruction2005">(Driscoll, 2005)</span>. Driscoll describes constructivism as a theory that</p>
+<blockquote class="blockquote">
+<p>rests on the assumption that knowledge is constructed by learners as they attempt to make sense of their experiences. Learners, therefore are not empty vessels waiting to be filled, but rather active organisms seeking meaning. (p.387)</p>
+</blockquote>
 <p>This process of seeking meaning is an iterative process whereby the learner experiences some sort of cognitive dissonance, or a disconnect between what they previously knew and some new piece of evidence or experience that disconfirms that knowledge. The learner then seeks to resolve that dissonance by either incorporating the new experience into an older schema, or by disregarding one or the other. Most often, the resulting knowledge is constructed from portions of both the new and old idea.</p>
 </section>
 <section id="community-of-inquiry" class="level3" data-number="1.1.2">
@@ -517,6 +540,11 @@ Checking Your Learning
 </div>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-driscollPsychologyLearningInstruction2005" class="csl-entry" role="listitem">
+Driscoll, M. P. (2005). <em>Psychology of learning for instruction</em> (3rd ed.). Pearson Education.
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->
@@ -960,7 +988,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </div>
 </nav>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","openEffect":"zoom","loop":false,"selector":".lightbox"});
+<script>var lightboxQuarto = GLightbox({"openEffect":"zoom","selector":".lightbox","descPosition":"bottom","closeEffect":"zoom","loop":false});
 (function() {
   let previousOnload = window.onload;
   window.onload = () => {
