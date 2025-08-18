@@ -65,7 +65,7 @@ Compose each post as a new topic in [the Learning Community](https://twu.discour
 **Read** [Getting the mix right again: An updated and theoretical rationale for interaction](https://www.irrodl.org/index.php/irrodl/article/view/149/230) by Terry Anderson.  
 **Read** [Interaction and the online distance classroom: Do instructional methods effect the quality of interaction?](https://rdcu.be/cKSGf)  by Heather Kanuka.  
 
-Then, post a reponse on your blog defending or criticizing Anderson's Interaction Equivalency Theorem. Ensure that you defend or criticize the idea, not the person, and include something that you have learned about interaction from somewhere other than the assigned readings.
+Then, post a reponse on your blog defending or criticizing Anderson's Interaction Equivalency Theorem. {{< hp glyph="." >}} Ensure that you defend or criticize the idea, not the person, and include something that you have learned about interaction from somewhere other than the assigned readings.
 
 If your birthday is between January 1 and June 30, **defend** Anderson's Interaction Equivalency Theorem.
 
