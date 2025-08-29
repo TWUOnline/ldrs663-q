@@ -164,9 +164,9 @@ In your facilitation session, demonstrate and reflect on the following:
 
 Working with another student (in your pod), you will each coach each other through the process of writing the final draft of your autoethnography assignment or another challenge you have encountered in the course. You will record a video of your session and write critical reflection on your actions as the learning coach.
 
-- Working with another student, use the G.R.O.W. model to coach each other through the process of planning for a particular learning activity within this course (such as, your autoethnography paper).
+- Working with another student, use the G.R.O.W. model to coach each other through the process of planning for a particular learning activity within this course (such as your autoethnography paper).
 - There are two outcomes to assessment:
-  - you will produce a Zoom recording of your coaching session, and
+  - you will produce a Teams recording of your coaching session, and
   - you will write a 1-2 page reflection on your actions coaching your peer’s learning.
 
 
@@ -176,8 +176,62 @@ Using your learning reflections, your experiences as coaches and facilitators in
 
 In the final phase, you will work closely with your learning pod to answer the ‘NOW WHAT?’ question. Looking forward to your life and career or vocation, how will your new knowledge impact your way of being in the world? How could your new knowledge impact others’ ways of being in the world in relation to coaching and facilitation? What are the implications of your analysis. Be sure to express that your conclusions are not generalizable. The result of this phase will be a cohesive paper following the tradition of (collaborative) autoethnography. 
 
+### Steps to complete assignment 4
+
+::: {.callout-note}
+The process to complete Assignment 4 will also complete Assignment 5.
+:::
+
+#### Gather Data
+- Gather all the data that you have generated during the activities of the course. Data sources include
+  -  all four posts from your reflective journal,
+  -  assignment 1 (Autoethnography proposal)
+  -  assignment 2 (Facilitation Reflections)
+  -  assignment 3 (Coaching Reflections)
+  -  text transcripts from your facilitation and coaching sessions (if these are not available, include the feedback notes you received from me). You can export the transcripts to .docx from the recording page.
+-  Copy the text from each of those files into separate files in your obsidian vault.
+
+#### Code or Tag your Data
+
+-  Once you have everything in your vault, you can start coding your work using `#tags`. To create a tag, simply add a `#` to the beginning of a word, so your vault will look something like this:
+
+![Example of tagged text.](assets/assessments/tags.png)
+
+- each tag should represent a theme present in your reflections. Themes will likely include things like facilitation, coaching, coach, facilitator, GROW (and each component), EFFECT (and each component), interaction, and keywords from the course learning outcomes. If you find that your reflections were too sparse, you may need to write more, and that is fine.
+- you should look for both 'mentions' of course topics as well as 'examples' of you demonstrating coaching and facilitation skills.
+
+#### View the Graph in Obsidian
+
+- once you have a deep network of tags in your data, you can view the Graph in Obsidian. To do this, click the `Open graph view` button in the menu on the left side of the Obsidian window.
+
+![Graph view button in Obsidian](assets/assessments/graph.png)
+
+Here is a quick video demonstration:
+
+<div style="max-width: 640px"><div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"><iframe src="https://mytwu.sharepoint.com/sites/LearningDesign/_layouts/15/embed.aspx?UniqueId=bcf08012-6248-4dd0-b3a5-5b743ef574ef&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Obsidian - Tags and Graph View.webm" style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+
+Tagging and viewing your graph should be an iterative process as you try to make sense of what you have learned in the course.
+
+#### Write!
+
+Use all of your data as listed above, plus the tags you create, and the patterns you see in your graph to reflect on what you can learn about coaching and facilitation, and apply these lessons to the situation you highlighted in your autoethnography proposal. Your final paper should include the following sections:
+
+- Introduction (from your proposal)
+- Literature Review (from your proposal)
+- Methods (description of autoethnography from your proposal and how you gathered and analysed your data)
+- Data Analysis and Discussion (include discussion of the graph view of your Obsidian vault)
+- Conclusion
+
+Your entire paper should be 2000-2500 words in length, plus references.
+
+
 ## Knowledge Process Map
 
+::: {.callout-important}
+Your Knowledge Process Map is the graph view of your Obsidian vault as created in Assignment 4. Submit Assignment 4 and 5 along with your entire vault as a compressed folder in Moodle.
+:::
+
+## TWU Grading Scale
 
 The [TWU Grading Scale](https://www.twu.ca/about/policies-guidelines/university-standard-grading-system), available on the syllabus for this course, describes A-, A, or A+ work as
 
