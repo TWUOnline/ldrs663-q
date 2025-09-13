@@ -36,13 +36,10 @@ It is important to follow these instructions carefully.
 
 1. Download the 'Starter Obsidian Vault' from Moodle. 
     - This will download a file called `ldrs663-vault.zip` to your computer.
-2. Move the file to your `Documents` folder.
+2. Move the file to your `Documents` folder, or where ever you have your work for this course saved.
 3. Unzip or extract the contents of the file.
 4. Rename the folder to `ldrs663-[YourName]`.
 5. Open the **Obsidian** app and click the `Open another vault` icon in the bottom left corner.
-
-
-
 6. Choose the `ldrs663-[YourName]` folder, and then Obsidian will ask you to trust this vault. Click 'Trust author and enable plugins'.
 7. Once you are in the vault, feel free to take a look around. 
 

@@ -6,12 +6,12 @@
 
 
 <!-- -  Meet in Zoom [<span class='badge-blue'>Monday, November 20, 1-3pm </span>(Click to check your local time)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS+663&iso=20231120T13&p1=1109&ah=2)  -  -->
-- **Before you start: Follow** the instructions on the '[Getting Started with Obsidian](https://ma-lead.github.io/ldrs663/getting-started-with-obsidian.html)' page in the course notes in Moodle.
+- **Before you start: Follow** the instructions on the '[Getting Started with Obsidian](https://twuonline.github.io/ldrs663-q/obsidian.html)' page in the course notes in Moodle.
 - **Read** [Critical inquiry in a text-based environment: Computer conferencing in higher education](https://www-sciencedirect-com.twu.idm.oclc.org/science/article/pii/S1096751600000166)  
 - **Read** [Getting the mix right again: An updated and theoretical rationale for interaction](http://www.irrodl.org/index.php/irrodl/article/view/149/230)   
 - **Read** [Interaction and the online distance classroom: Do instructional methods effect the quality of interaction?](https://rdcu.be/cKSGf)   
 - **Write** your arguments for or against the *Interaction Equivalency Theorem* in the Learning community.  
--  [UPDATE] **Draft** your autoethnography proposal according to the instructions in the 'Assessment Tasks' section in Moodle.
+-  **Draft** your autoethnography proposal according to the instructions in the 'Assessment Tasks' section in Moodle.
   - To get started thinking about autoethnography, please refer to this article available in the TWU Library. Chang, H. (2021). *Individual and Collaborative Autoethnography for Social Science Research*. In T. E. Adams, S. H. Jones, & C. Ellis (Eds.), Handbook of Autoethnography (2nd ed., pp. 53–65). Routledge. DOI: 10.4324/9780429431760-6
 
 - Please complete these tasks by ~~Sunday, Jul 28~~ **Sunday, Aug 3** before your regular bedtime. 

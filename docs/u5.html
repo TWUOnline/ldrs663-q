@@ -91,6 +91,35 @@ div.csl-indent {
 <script type="application/javascript" src="https://twuonline.github.io/course-materials/quarto/twu_global_header.js"></script>
 <link rel="shortcut icon" href="https://twuonline.github.io/course-materials/quarto/favicon.ico">
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="https://twuonline.github.io/course-materials/quarto/twu_styles.css">
 </head>
@@ -224,10 +253,12 @@ div.csl-indent {
   </ul></li>
   <li><a href="#what-is-educational-assessment" id="toc-what-is-educational-assessment" class="nav-link" data-scroll-target="#what-is-educational-assessment"><span class="header-section-number">5.1</span> What is Educational Assessment?</a>
   <ul>
-  <li><a href="#traditional-grading" id="toc-traditional-grading" class="nav-link" data-scroll-target="#traditional-grading"><span class="header-section-number">5.1.1</span> Traditional grading</a></li>
-  <li><a href="#assessment-of-learning" id="toc-assessment-of-learning" class="nav-link" data-scroll-target="#assessment-of-learning"><span class="header-section-number">5.1.2</span> Assessment <em>of</em> learning</a></li>
-  <li><a href="#assessment-for-learning" id="toc-assessment-for-learning" class="nav-link" data-scroll-target="#assessment-for-learning"><span class="header-section-number">5.1.3</span> Assessment <em>for</em> learning</a></li>
-  <li><a href="#assessment-as-learning" id="toc-assessment-as-learning" class="nav-link" data-scroll-target="#assessment-as-learning"><span class="header-section-number">5.1.4</span> Assessment <em>as</em> learning</a></li>
+  <li><a href="#purposes-of-assessment" id="toc-purposes-of-assessment" class="nav-link" data-scroll-target="#purposes-of-assessment"><span class="header-section-number">5.1.1</span> 3 Purposes of Assessment</a>
+  <ul class="collapse">
+  <li><a href="#assessment-of-learning" id="toc-assessment-of-learning" class="nav-link" data-scroll-target="#assessment-of-learning"><span class="header-section-number">5.1.1.1</span> Assessment <em>of</em> learning</a></li>
+  <li><a href="#assessment-for-learning" id="toc-assessment-for-learning" class="nav-link" data-scroll-target="#assessment-for-learning"><span class="header-section-number">5.1.1.2</span> Assessment <em>for</em> learning</a></li>
+  <li><a href="#assessment-as-learning" id="toc-assessment-as-learning" class="nav-link" data-scroll-target="#assessment-as-learning"><span class="header-section-number">5.1.1.3</span> Assessment <em>as</em> learning</a></li>
+  </ul></li>
   </ul></li>
   <li><a href="#what-is-wrong-with-educational-assessment" id="toc-what-is-wrong-with-educational-assessment" class="nav-link" data-scroll-target="#what-is-wrong-with-educational-assessment"><span class="header-section-number">5.2</span> What is wrong with Educational Assessment?</a>
   <ul>
@@ -298,18 +329,32 @@ div.csl-indent {
 </section>
 <section id="what-is-educational-assessment" class="level2" data-number="5.1">
 <h2 data-number="5.1" class="anchored" data-anchor-id="what-is-educational-assessment"><span class="header-section-number">5.1</span> What is Educational Assessment?</h2>
-<p>A key component of facilitation and coaching in an educational environment is understanding how educators come to know what learners know. In this case, coaches and facilitators are educators in that they are key to supporting learners as they study. A facilitator or coachcan play the role of the more experienced ‘other’ that a learner needs to get them from the zone of not being able to complete a task, to being able to complete it with assistance in their zone of proximal development <span class="citation" data-cites="vygotskyMindSociety1978">(<strong>vygotskyMindSociety1978?</strong>)</span>. <span class="citation" data-cites="lipnevichWhatGradesMean2020">(Lipnevich et al., 2020)</span></p>
-<section id="traditional-grading" class="level3" data-number="5.1.1">
-<h3 data-number="5.1.1" class="anchored" data-anchor-id="traditional-grading"><span class="header-section-number">5.1.1</span> Traditional grading</h3>
+<p>A key component of facilitation and coaching in an educational environment is understanding how educators come to know what learners know. In this case, coaches and facilitators are educators in that they are key to supporting learners as they study. A facilitator or coach can play the role of the more experienced ‘other’ that a learner needs to get them from the zone of not being able to complete a task, to being able to complete it with assistance in their zone of proximal development <span class="citation" data-cites="vygotskyMindSociety1978">(Vygotsky, 1978)</span>. However, coming to know what learners know is not really a simple task because ‘learning’ and ‘knowledge’ are not things that we can see or measure. There are many things in our world that we can measure, like the mass of an apple, or the distance between two points, or the volume of an ingredient in a recipe. Knowledge is not like that, though, because it is encoded in the myriad connections between neurons in our brains. We can’t examine a person’s brain and determine what they know.</p>
+<p>For example, if we want to know if a learner can calculate the following:</p>
+<p><span class="math display">\[2+2=x\]</span></p>
+<p>we cannot examine the physical properties of their brain to learn anything about whether they know how to calculate that sum. Instead, we must ask them to provide the answer. If they provide the following:</p>
+<p><span class="math display">\[2+2=\text{apple}\]</span></p>
+<p>we can then <code>infer</code> that they do not know how to calculate that sum. We can’t be certain though, because they may have mistyped, or otherwise gotten confused about the task, or distracted because they were hungry. Conversely, if they respond with</p>
+<p><span class="math display">\[2+2=4\]</span></p>
+<p>We can <code>infer</code> that they do know how to calculate the sum, but again, we can’t be sure. Perhaps they asked someone else, or used a calculator. The point is that we cannot truly <code>measure</code> a person’s knowledge because knowledge of any given thing is <code>latent</code>, or not observable.</p>
+<p>Educational assessment can be framed as a trio of components that are essential to allowing instructors to learn what learners know. First, there must be some sort of cognitive domain that is mapped and understood. In the case above, the cognitive domain might be <code>addition</code> as a mathematical procedure. Second, there must be some sort of observation in the form of a performance task, like ‘calculate <span class="math inline">\(2+2\)</span>’. Third, there is always an interpretation of the results of the performance task, the <code>inference</code> mentioned above.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/U5/Assessment-Triangle.png" class="img-fluid figure-img"></p>
+</figure>
+</div>
+<p><span class="citation" data-cites="lipnevichWhatGradesMean2020">(Lipnevich et al., 2020)</span></p>
+<section id="purposes-of-assessment" class="level3" data-number="5.1.1">
+<h3 data-number="5.1.1" class="anchored" data-anchor-id="purposes-of-assessment"><span class="header-section-number">5.1.1</span> 3 Purposes of Assessment</h3>
+<section id="assessment-of-learning" class="level4" data-number="5.1.1.1">
+<h4 data-number="5.1.1.1" class="anchored" data-anchor-id="assessment-of-learning"><span class="header-section-number">5.1.1.1</span> Assessment <em>of</em> learning</h4>
 </section>
-<section id="assessment-of-learning" class="level3" data-number="5.1.2">
-<h3 data-number="5.1.2" class="anchored" data-anchor-id="assessment-of-learning"><span class="header-section-number">5.1.2</span> Assessment <em>of</em> learning</h3>
+<section id="assessment-for-learning" class="level4" data-number="5.1.1.2">
+<h4 data-number="5.1.1.2" class="anchored" data-anchor-id="assessment-for-learning"><span class="header-section-number">5.1.1.2</span> Assessment <em>for</em> learning</h4>
 </section>
-<section id="assessment-for-learning" class="level3" data-number="5.1.3">
-<h3 data-number="5.1.3" class="anchored" data-anchor-id="assessment-for-learning"><span class="header-section-number">5.1.3</span> Assessment <em>for</em> learning</h3>
+<section id="assessment-as-learning" class="level4" data-number="5.1.1.3">
+<h4 data-number="5.1.1.3" class="anchored" data-anchor-id="assessment-as-learning"><span class="header-section-number">5.1.1.3</span> Assessment <em>as</em> learning</h4>
 </section>
-<section id="assessment-as-learning" class="level3" data-number="5.1.4">
-<h3 data-number="5.1.4" class="anchored" data-anchor-id="assessment-as-learning"><span class="header-section-number">5.1.4</span> Assessment <em>as</em> learning</h3>
 </section>
 </section>
 <section id="what-is-wrong-with-educational-assessment" class="level2" data-number="5.2">
@@ -376,6 +421,9 @@ Hattie, J., &amp; Timperley, H. (2007). The power of feedback. <em>Review of Edu
 </div>
 <div id="ref-lipnevichWhatGradesMean2020" class="csl-entry" role="listitem">
 Lipnevich, A. A., Guskey, T. R., Murano, D. M., &amp; Smith, J. K. (2020). What do grades mean? <span>Variation</span> in grading criteria in <span>American</span> college and university courses. <em>Assessment in Education: Principles, Policy &amp; Practice</em>, <em>27</em>(5), 480–500. <a href="https://doi.org/10.1080/0969594x.2020.1799190">https://doi.org/10.1080/0969594x.2020.1799190</a>
+</div>
+<div id="ref-vygotskyMindSociety1978" class="csl-entry" role="listitem">
+Vygotsky, L. S. (1978). <em>Mind in society</em> (M. Cole, V. John-Steiner, S. Scribner, &amp; E. Souberman, Eds.; A. R. Luria, Trans.). Harvard University Press.
 </div>
 </div>
 </section>

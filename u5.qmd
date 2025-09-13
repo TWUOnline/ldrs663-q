@@ -39,16 +39,37 @@ Here is a list of learning activities that will benefit you in completing this u
 
 ## What is Educational Assessment?
 
-A key component of facilitation and coaching in an educational environment is understanding how educators come to know what learners know. In this case, coaches and facilitators are educators in that they are key to supporting learners as they study. A facilitator or coachcan play the role of the more experienced 'other' that a learner needs to get them from the zone of not being able to complete a task, to being able to complete it with assistance in their zone of proximal development [@vygotskyMindSociety1978].
+A key component of facilitation and coaching in an educational environment is understanding how educators come to know what learners know. In this case, coaches and facilitators are educators in that they are key to supporting learners as they study. A facilitator or coach can play the role of the more experienced 'other' that a learner needs to get them from the zone of not being able to complete a task, to being able to complete it with assistance in their zone of proximal development [@vygotskyMindSociety1978]. However, coming to know what learners know is not really a simple task because 'learning' and 'knowledge' are not things that we can see or measure. There are many things in our world that we can measure, like the mass of an apple, or the distance between two points, or the volume of an ingredient in a recipe. Knowledge is not like that, though, because it is encoded in the myriad connections between neurons in our brains. We can't examine a person's brain and determine what they know.
+
+For example, if we want to know if a learner can calculate the following:
+
+$$2+2=x$$
+
+we cannot examine the physical properties of their brain to learn anything about whether they know how to calculate that sum. Instead, we must ask them to provide the answer. If they provide the following:
+
+$$2+2=\text{apple}$$
+
+we can then `infer` that they do not know how to calculate that sum. We can't be certain though, because they may have mistyped, or otherwise gotten confused about the task, or distracted because they were hungry. Conversely, if they respond with
+
+$$2+2=4$$
+
+We can `infer` that they do know how to calculate the sum, but again, we can't be sure. Perhaps they asked someone else, or used a calculator. The point is that we cannot truly `measure` a person's knowledge because knowledge of any given thing is `latent`, or not observable.
+
+Educational assessment can be framed as a trio of components that are essential to allowing instructors to learn what learners know. First, there must be some sort of cognitive domain that is mapped and understood. In the case above, the cognitive domain might be `addition` as a mathematical procedure. Second, there must be some sort of observation in the form of a performance task, like 'calculate $2+2$'. Third, there is always an interpretation of the results of the performance task, the `inference` mentioned above.
+
+![Assessment Triangle](assets/U5/Assessment-Triangle.png)
+
+
+
 [@lipnevichWhatGradesMean2020]
 
-### Traditional grading
+### 3 Purposes of Assessment
 
-### Assessment *of* learning
+#### Assessment *of* learning
 
-### Assessment *for* learning
+#### Assessment *for* learning
 
-### Assessment *as* learning
+#### Assessment *as* learning
 
 ## What is wrong with Educational Assessment?
 
