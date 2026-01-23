@@ -500,17 +500,12 @@ she finishes communicating, saying things like:
 2. Share thoughts, feelings, and experiences to deepen and/or check for understanding.
 3. Ask the learner about your impact on him or her.
 
-#### G.R.O.W. Coaching Model {.unnumbered}
+## G.R.O.W. Coaching Model {.unnumbered}
 
 
 
-<!-- ```{=html}
-<iframe class="slide-deck" src="coaching/"></iframe>
-``` -->
 
-
-
-## Goal Setting {.unnumbered}
+### Goal Setting {.unnumbered}
 
 - Setting short and long term learning goals.
 - Key questions to ask:
@@ -566,7 +561,7 @@ goals.
   - What can I do now?
 
 
-## Reality Checking {.unnumbered}
+### Reality Checking {.unnumbered}
 
 - Understanding where you really are relative to what
 you really want.
@@ -598,7 +593,7 @@ you really want.
 ~Gallwey, 1997
 
 
-## Option Exploration {.unnumbered}
+### Option Exploration {.unnumbered}
 
 - Key questions to ask:
   - What alternatives do you have?
@@ -615,7 +610,7 @@ you really want.
 - Why is this problem problematic?
 
 
-## The Way Forward {.unnumbered}
+### The Way Forward {.unnumbered}
 
 - Key questions to ask:
   - What commitments am I going to make?

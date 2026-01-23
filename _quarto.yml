@@ -1,19 +1,23 @@
 # version 3.3
 
 project:
-  type: book
+  type: website
   output-dir: docs
+  render: 
+    - "*.qmd"
 
-
+author: "Colin Madland, Mark Halvorson, Scott Macklin"
+date: "last-modified"
+date-format: "MMM D, YYYY"
 published-title: "Last Modified"
 
-book:
-  title: "LDRS 463/663"
-  author: "Colin Madland, Mark Halvorson, Scott Macklin"
-  date: "last-modified"
-  date-format: "MMM D, YYYY"
-  search: true
-  chapters:
+
+website:
+  title: "LDRS 663"
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
     - index.qmd
     - intro.qmd
     - u1.qmd
@@ -25,6 +29,7 @@ book:
     - assessment.qmd
     - obsidian.qmd
     - references.qmd
+    - toolkit.qmd
 
 
 # References

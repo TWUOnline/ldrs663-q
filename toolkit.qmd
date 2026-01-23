@@ -1,0 +1,77 @@
+---
+title: "Technology Toolkit"
+format: dashboard
+scrolling: true
+---
+
+## 
+
+This page provides an overview of the technology tools we use in this course. We use some of these tools as a direct response to the proliferation of 'generative AI' chatbots (chatGPT, Gemini, Claude, etc.) that have been forced on us by the tech companies. Some of these tools will be new to you and will take some time to get used to, but in the end, we trust you will have been able to exercise a degree of agency in a technological landscape littered with rubbish.
+
+##
+
+::: {.card}
+
+![](assets/toolkit/moodle-logo.png)
+
+## Moodle
+
+Moodle is the TWU 'learning management system', which is a tool we use to organize classes and ensure that learners are connected with the correct section, instructor, and cohort of other learners.
+
+
+<a href="https://learn.twu.ca" target="_blank" rel="noopener noreferrer">
+  <span class="badge rounded-pill bg-primary">Link to Moodle</span>
+</a> <a href="https://twu.ca/help" target="_blank" rel="noopener noreferrer">
+  <span class="badge rounded-pill bg-primary">Link to Help Resources</span>
+</a>
+
+:::
+
+::: {.card}
+
+![](https://upload.wikimedia.org/wikipedia/commons/c/cf/Discourse_logo.svg)
+
+## Discourse
+
+Discourse is the site that hosts the TWU Online Learning Community. This site is open to anyone all members of the TWU community and hosts both private and public conversations about courses. Your course discussions may be hosted here rather than in Moodle. You will be able to see conversations in a wide variety of courses and you will not lose access after your course ends, so the conversations may continue.
+
+<a href="https://twu.discourse.group" target="_blank" rel="noopener noreferrer">
+  <span class="badge rounded-pill bg-primary">Link to Discourse</span>
+</a> 
+
+:::
+
+## {.flow}
+
+::: {.card}
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg)
+
+## Obsidian
+
+Obsidian is one of the note-taking apps that we recommend. Obsidian uses simple text files and allows you to build a deeply connected knowledge base of your own notes and files.
+
+<a href="https://obsidian.md" target="_blank" rel="noopener noreferrer">
+  <span class="badge rounded-pill bg-primary">Download Obsidian</span>
+</a> 
+<a href="https://help.obsidian.md/" target="_blank" rel="noopener noreferrer">
+  <span class="badge rounded-pill bg-primary">Get Help with Obsidian</span>
+</a> 
+
+:::
+
+::: {.card}
+
+![](https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg)
+
+## Notion
+
+Notion is another note-taking app that you may explore. Similar to Obsidian, Notion allows you to create a networked system of notes that you can use to keep track of and make visible your learning.
+
+<a href="https://notion.so/" target="_blank" rel="noopener noreferrer">
+  <span class="badge rounded-pill bg-primary">Access Notion</span>
+
+:::
+
+
+##
