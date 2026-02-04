@@ -72,7 +72,8 @@ format:
     - text: |
         <script type="application/javascript" src="https://twuonline.github.io/course-materials/quarto/twu_global_header.js"></script>
         <link rel = "shortcut icon" href = "https://twuonline.github.io/course-materials/quarto/favicon.ico" />
-        
+    # reference-location: margin
+
 # # Format - PDF
 #   pdf:
 #     documentclass: scrreprt

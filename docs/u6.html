@@ -21,7 +21,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -72,6 +92,35 @@ ul.task-list li input[type="checkbox"] {
 <script type="application/javascript" src="https://twuonline.github.io/course-materials/quarto/twu_global_header.js"></script>
 <link rel="shortcut icon" href="https://twuonline.github.io/course-materials/quarto/favicon.ico">
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="https://twuonline.github.io/course-materials/quarto/twu_styles.css">
 </head>
@@ -85,7 +134,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./u6.html">Concluding the Course</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./u6.html">Technology-Integrated Assessment</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -108,7 +157,7 @@ ul.task-list li input[type="checkbox"] {
                         </div>
               <div>
                             <div class="quarto-title-meta-heading"><p>Last Modified</p></div>
-                            <div class="quarto-title-meta-contents"><p>Sep 6, 2024</p></div>
+                            <div class="quarto-title-meta-contents"><p>Feb 3, 2026</p></div>
                         </div>
         </div>
     </div>
@@ -160,19 +209,19 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./u4.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Educational Experience in a Multi-Access World</span></a>
+ <span class="menu-text">Educational Experience</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./u5.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Technology-Integrated Assessment</span></a>
+ <span class="menu-text">Merging Modalities of Learning</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./u6.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Concluding the Course</span></a>
+ <span class="menu-text">Technology-Integrated Assessment</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -209,7 +258,45 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On This Page</h2>
    
   <ul>
-  <li><a href="#concluding-the-course" id="toc-concluding-the-course" class="nav-link active" data-scroll-target="#concluding-the-course">Concluding the Course</a></li>
+  <li><a href="#technology-integrated-assessment" id="toc-technology-integrated-assessment" class="nav-link active" data-scroll-target="#technology-integrated-assessment">Technology-Integrated Assessment</a>
+  <ul>
+  <li><a href="#overview" id="toc-overview" class="nav-link" data-scroll-target="#overview">Overview</a>
+  <ul class="collapse">
+  <li><a href="#topics" id="toc-topics" class="nav-link" data-scroll-target="#topics">Topics</a></li>
+  <li><a href="#unit-learning-outcomes" id="toc-unit-learning-outcomes" class="nav-link" data-scroll-target="#unit-learning-outcomes">Unit Learning Outcomes</a></li>
+  <li><a href="#learning-activities" id="toc-learning-activities" class="nav-link" data-scroll-target="#learning-activities">Learning Activities</a></li>
+  </ul></li>
+  <li><a href="#what-is-educational-assessment" id="toc-what-is-educational-assessment" class="nav-link" data-scroll-target="#what-is-educational-assessment">What is Educational Assessment?</a></li>
+  <li><a href="#measuring-knowledge" id="toc-measuring-knowledge" class="nav-link" data-scroll-target="#measuring-knowledge">Measuring Knowledge</a>
+  <ul class="collapse">
+  <li><a href="#purposes-of-assessment" id="toc-purposes-of-assessment" class="nav-link" data-scroll-target="#purposes-of-assessment">3 Purposes of Assessment</a>
+  <ul class="collapse">
+  <li><a href="#assessment-of-learning" id="toc-assessment-of-learning" class="nav-link" data-scroll-target="#assessment-of-learning">Assessment <em>of</em> learning</a></li>
+  <li><a href="#assessment-for-learning" id="toc-assessment-for-learning" class="nav-link" data-scroll-target="#assessment-for-learning">Assessment <em>for</em> learning</a></li>
+  <li><a href="#assessment-as-learning" id="toc-assessment-as-learning" class="nav-link" data-scroll-target="#assessment-as-learning">Assessment <em>as</em> learning</a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#what-is-wrong-with-educational-assessment" id="toc-what-is-wrong-with-educational-assessment" class="nav-link" data-scroll-target="#what-is-wrong-with-educational-assessment">What is wrong with Educational Assessment?</a>
+  <ul class="collapse">
+  <li><a href="#the-math-doesnt-add-up" id="toc-the-math-doesnt-add-up" class="nav-link" data-scroll-target="#the-math-doesnt-add-up">The math doesn’t add up</a></li>
+  <li><a href="#fair-does-not-mean-equal" id="toc-fair-does-not-mean-equal" class="nav-link" data-scroll-target="#fair-does-not-mean-equal">Fair does not mean equal</a></li>
+  <li><a href="#understanding-learning-outcomes" id="toc-understanding-learning-outcomes" class="nav-link" data-scroll-target="#understanding-learning-outcomes">Understanding Learning Outcomes</a></li>
+  <li><a href="#creating-learning-outcomes" id="toc-creating-learning-outcomes" class="nav-link" data-scroll-target="#creating-learning-outcomes">Creating Learning Outcomes</a></li>
+  </ul></li>
+  <li><a href="#how-does-technology-impact-educational-assessment" id="toc-how-does-technology-impact-educational-assessment" class="nav-link" data-scroll-target="#how-does-technology-impact-educational-assessment">How does Technology Impact Educational Assessment?</a>
+  <ul class="collapse">
+  <li><a href="#technology-mediated-learning" id="toc-technology-mediated-learning" class="nav-link" data-scroll-target="#technology-mediated-learning">Technology-mediated learning</a></li>
+  <li><a href="#technology-and-assessment" id="toc-technology-and-assessment" class="nav-link" data-scroll-target="#technology-and-assessment">Technology and assessment</a></li>
+  </ul></li>
+  <li><a href="#feedback-loops-and-spirals" id="toc-feedback-loops-and-spirals" class="nav-link" data-scroll-target="#feedback-loops-and-spirals">Feedback Loops and Spirals</a>
+  <ul class="collapse">
+  <li><a href="#what-is-feedback" id="toc-what-is-feedback" class="nav-link" data-scroll-target="#what-is-feedback">What is feedback</a></li>
+  <li><a href="#feedback-loops" id="toc-feedback-loops" class="nav-link" data-scroll-target="#feedback-loops">Feedback loops</a></li>
+  <li><a href="#feedback-spirals" id="toc-feedback-spirals" class="nav-link" data-scroll-target="#feedback-spirals">Feedback spirals</a></li>
+  </ul></li>
+  <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary">Summary</a></li>
+  <li><a href="#unit-5-assessment" id="toc-unit-5-assessment" class="nav-link" data-scroll-target="#unit-5-assessment">Unit 5 Assessment</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -219,27 +306,239 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="concluding-the-course" class="level1">
-<h1>Concluding the Course</h1>
-<p>Congratulations! We have taken a bit of a whirlwind tour through the main ideas of <em>facilitating learning experiences</em> and <em>coaching learners through challenges</em>. These two competencies form the backbone of the model of teaching and learning in TWU Online, GLOBAL FAR Centres, and similar programs, and they are also highly transferable skills for anyone who is in a role that involves the acquisition of new cognitive skills.</p>
-<p>These two related competencies are not ‘new’ educational ideas, but are based in a long history of educational research showing the power of social constructivist pedagogies to transform thinking within a critical community of inquiry.</p>
-<!--
+<section id="technology-integrated-assessment" class="level1">
+<h1>Technology-Integrated Assessment</h1>
+<section id="overview" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="overview">Overview</h2>
+<p>In this unit, we will explore the nature of technology integrated assessment. In any formal learning environment, and many informal learning environments, there is a requirement for the instructor to engage in some sort of assessment of how well the learners are achieving the outcomes intended in the course design. Typically, this has happened with the assignment of a grade in a percentage or letter format, and usually accompanied by a significant amount of feedback from the instructor. In order to do this, the instructor needs to come to know what the learner knows, can do, or has become in relation to the outcomes. Coaching and facilitation are two activities that are highly dependent on assessing a learner’s knowledge or ability in relation to a learning outcome and are key components of the process of certifying that a learner has achieved a certain level of proficiency. Knowledge of results occurs when an instructor or learner have identified a gap between what the learner is currently able to do and what they should be able to do in light of the course or program learning outcomes. Feedback occurs when information about how to close that gap is identified and the learner has the opportunity to improve their performance.</p>
+<section id="topics" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="topics">Topics</h3>
+<p>This unit is divided into the following topics:</p>
+<ol type="1">
+<li>What is educational assessment?</li>
+<li>What is wrong with educational assesment?</li>
+<li>How does technology impact assessment?</li>
+<li>Feedback Loops and Spirals</li>
+</ol>
+</section>
+<section id="unit-learning-outcomes" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="unit-learning-outcomes">Unit Learning Outcomes</h3>
+<p>When you have completed this unit, you will be able to:</p>
+<ul>
+<li>Evaluate the quality of feedback in light of evidence-based research</li>
+<li>Evaluate interactions in a learning environment and develop strategies for high quality educative interactions</li>
+</ul>
+</section>
+<section id="learning-activities" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="learning-activities">Learning Activities</h3>
+<p>Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.</p>
+<ul>
+<li>Read, annotate, and tag
+<ul>
+<li>Allen, J. D. (2005). <a href="https://doi.org/10.3200/TCHS.78.5.218-223">Grades as Valid Measures of Academic Achievement of Classroom Learning</a>. <em>The Clearing House: A Journal of Educational Strategies, Issues and Ideas, 78</em>(5), 218–223.</li>
+<li>Bower, M. (2019). <a href="https://doi.org/10.1111/bjet.12771">Technology‐mediated learning theory.</a> <em>British Journal of Educational Technology, 50</em>(3), 1035–1048.</li>
+<li>Carless, D. (2019). <a href="https://doi.org/10.1080/02602938.2018.1531108">Feedback loops and the longer-term: Towards feedback spirals.</a> <em>Assessment &amp; Evaluation in Higher Education, 44</em>(5), 705–714.<br>
+</li>
+<li>Lipnevich, A. A., Guskey, T. R., Murano, D. M., &amp; Smith, J. K. (2020). What do grades mean? Variation in grading criteria in American college and university courses. Assessment in Education: Principles, Policy &amp; Practice, 27(5), 480–500. https://doi.org/10/ghjw3k</li>
+<li>Hattie, J., &amp; Timperley, H. (2007). The power of feedback. Review of Educational Research, 77, 81–112. https://doi.org/10.3102/003465430298487</li>
+</ul></li>
+<li>Post 4</li>
+</ul>
+</section>
+</section>
+<section id="what-is-educational-assessment" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-educational-assessment">What is Educational Assessment?</h2>
+<p>A key component of facilitation and coaching in an educational environment is understanding how educators come to know what learners know. In this case, coaches and facilitators are educators in that they are key to supporting learners as they study. A facilitator or coach can play the role of the more experienced ‘other’ that a learner needs to get them from the zone of not being able to complete a task, to being able to complete it with assistance in their zone of proximal development <span class="citation" data-cites="vygotskyMindSociety1978">(<strong>vygotskyMindSociety1978?</strong>)</span>. However, coming to know what learners know is not really a simple task because ‘learning’ and ‘knowledge’ are not things that we can see or measure. There are many things in our world that we can measure, like the mass of an apple, or the distance between two points, or the volume of an ingredient in a recipe. Knowledge is not like that, though, because it is encoded in the myriad connections between neurons in our brains. We can’t examine a person’s brain and determine what they know.</p>
+<p>For example, if we want to know if a learner can calculate the following:</p>
+<p><span class="math display">\[2+2=x\]</span></p>
+<p>we cannot examine the physical properties of their brain to learn anything about whether they know how to calculate that sum. Instead, we must ask them to provide the answer. If they provide the following:</p>
+<p><span class="math display">\[2+2=\text{apple}\]</span></p>
+<p>we can then <code>infer</code> that they do not know how to calculate that sum. We can’t be certain though, because they may have mistyped, or otherwise gotten confused about the task, or distracted because they were hungry. Conversely, if they respond with</p>
+<p><span class="math display">\[2+2=4\]</span></p>
+<p>We can <code>infer</code> that they do know how to calculate the sum, but again, we can’t be sure. Perhaps they asked someone else, or used a calculator. The point is that we cannot truly <code>measure</code> a person’s knowledge because knowledge of any given thing is <code>latent</code>, or not observable.</p>
+<p>Educational assessment can be framed as a trio of components that are essential to allowing instructors to learn what learners know. First, there must be some sort of <em>cognitive model or domain</em> that is mapped and understood. In the case above, the cognitive domain might be <code>addition</code> as a mathematical procedure. Second, there must be some sort of <em>observation</em> in the form of a performance task, like “calculate <span class="math inline">\(2+2\)</span>”. Third, there is always an <em>interpretation</em> of the results of the performance task, the <code>inference</code> mentioned above.</p>
+<p>These three components are interdependent and can be visualised as a triangle as below.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/U6/assessment-triangle.png" class="img-fluid figure-img"></p>
+</figure>
+</div>
+<p>…more here</p>
+</section>
+<section id="measuring-knowledge" class="level2">
+<h2 class="anchored" data-anchor-id="measuring-knowledge">Measuring Knowledge</h2>
+<p>Unfortunately, an inference drawn from a ‘correct response’ may not tell us anything at all about what a learner knows.</p>
+<p>Consider the following definitions:</p>
+<div class="callout callout-style-simple callout-none no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<ol type="a">
+<li><dl>
+<dt><span style="font-family:Wingdings">validity</span></dt>
+<dd>
+Definition: <span style="font-family:Wingdings">the main extent to which a concept, conclusion, or measurement is well-founded and likely corresponds accurately to the real world.</span>
+</dd>
+</dl></li>
+<li><dl>
+<dt><span style="font-family:Wingdings">reliability</span></dt>
+<dd>
+Definition: <span style="font-family:Wingdings">the overall consistency of a measure. A measure is said to have a high reliability if it produces similar results under consistent conditions</span>
+</dd>
+</dl></li>
+<li><dl>
+<dt><span style="font-family:Wingdings">bias</span></dt>
+<dd>
+Definition: <span style="font-family:Wingdings">a systematic tendency in which the methods used to gather data and estimate a sample statistic present an inaccurate, skewed or distorted depiction of reality.</span>
+</dd>
+</dl></li>
+</ol>
+</div>
+</div>
+</div>
+<p>And the following quiz:</p>
+<details>
+<summary>
+Click to open
+</summary>
+<p>Choose the correct definition from the list.</p>
+<dl>
+<dt><span style="font-family:Wingdings">bias</span></dt>
+<dd>
+<ol type="a">
+<li><span style="font-family:Wingdings">the overall consistency of a measure. A measure is said to have a high reliability if it produces similar results under consistent conditions</span></li>
+</ol>
+</dd>
+<dd>
+<ol start="2" type="a">
+<li><span style="font-family:Wingdings">a systematic tendency in which the methods used to gather data and estimate a sample statistic present an inaccurate, skewed or distorted depiction of reality.</span></li>
+</ol>
+</dd>
+<dd>
+<ol start="3" type="a">
+<li><span style="font-family:Wingdings">the main extent to which a concept, conclusion, or measurement is well-founded and likely corresponds accurately to the real world.</span></li>
+</ol>
+</dd>
+</dl>
+</details>
+<p>It is highly likely that you were able to figure out the correct answer, even though you have no knowledge of the content of the quiz.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> So if our only method of determining the learner’s ability is to ask them questions, but the questions can be answered without knowledge, then our assessment strategy is not valid.</p>
+<details>
+<summary>
+Click to reveal the content
+</summary>
+<ol type="a">
+<li><dl>
+<dt>validity</dt>
+<dd>
+the main extent to which a concept, conclusion, or measurement is well-founded and likely corresponds accurately to the real world.
+</dd>
+</dl></li>
+<li><dl>
+<dt>reliability</dt>
+<dd>
+the overall consistency of a measure. A measure is said to have a high reliability if it produces similar results under consistent conditions
+</dd>
+</dl></li>
+<li><dl>
+<dt>bias</dt>
+<dd>
+a systematic tendency in which the methods used to gather data and estimate a sample statistic present an inaccurate, skewed or distorted depiction of reality.
+</dd>
+</dl></li>
+</ol>
+</details>
+<p><span class="citation" data-cites="lipnevichWhatGradesMean2020">(Lipnevich et al., 2020)</span></p>
+<section id="purposes-of-assessment" class="level3">
+<h3 class="anchored" data-anchor-id="purposes-of-assessment">3 Purposes of Assessment</h3>
+<section id="assessment-of-learning" class="level4">
+<h4 class="anchored" data-anchor-id="assessment-of-learning">Assessment <em>of</em> learning</h4>
+</section>
+<section id="assessment-for-learning" class="level4">
+<h4 class="anchored" data-anchor-id="assessment-for-learning">Assessment <em>for</em> learning</h4>
+</section>
+<section id="assessment-as-learning" class="level4">
+<h4 class="anchored" data-anchor-id="assessment-as-learning">Assessment <em>as</em> learning</h4>
+</section>
+</section>
+</section>
+<section id="what-is-wrong-with-educational-assessment" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-wrong-with-educational-assessment">What is wrong with Educational Assessment?</h2>
+<section id="the-math-doesnt-add-up" class="level3">
+<h3 class="anchored" data-anchor-id="the-math-doesnt-add-up">The math doesn’t add up</h3>
+</section>
+<section id="fair-does-not-mean-equal" class="level3">
+<h3 class="anchored" data-anchor-id="fair-does-not-mean-equal">Fair does not mean equal</h3>
+</section>
+<section id="understanding-learning-outcomes" class="level3">
+<h3 class="anchored" data-anchor-id="understanding-learning-outcomes">Understanding Learning Outcomes</h3>
+<ul>
+<li>review of 627</li>
+</ul>
+</section>
+<section id="creating-learning-outcomes" class="level3">
+<h3 class="anchored" data-anchor-id="creating-learning-outcomes">Creating Learning Outcomes</h3>
+<ul>
+<li>new practice</li>
+<li></li>
+</ul>
+</section>
+</section>
+<section id="how-does-technology-impact-educational-assessment" class="level2">
+<h2 class="anchored" data-anchor-id="how-does-technology-impact-educational-assessment">How does Technology Impact Educational Assessment?</h2>
+<p><span class="citation" data-cites="bowerTechnologymediatedLearningTheory2019">(Bower, 2019)</span></p>
+<section id="technology-mediated-learning" class="level3">
+<h3 class="anchored" data-anchor-id="technology-mediated-learning">Technology-mediated learning</h3>
+</section>
+<section id="technology-and-assessment" class="level3">
+<h3 class="anchored" data-anchor-id="technology-and-assessment">Technology and assessment</h3>
+</section>
+</section>
+<section id="feedback-loops-and-spirals" class="level2">
+<h2 class="anchored" data-anchor-id="feedback-loops-and-spirals">Feedback Loops and Spirals</h2>
+<p><span class="citation" data-cites="hattiePowerFeedback2007 carlessFeedbackLoopsLongerterm2019">(Carless, 2019; Hattie &amp; Timperley, 2007)</span></p>
+<section id="what-is-feedback" class="level3">
+<h3 class="anchored" data-anchor-id="what-is-feedback">What is feedback</h3>
+</section>
+<section id="feedback-loops" class="level3">
+<h3 class="anchored" data-anchor-id="feedback-loops">Feedback loops</h3>
+</section>
+<section id="feedback-spirals" class="level3">
+<h3 class="anchored" data-anchor-id="feedback-spirals">Feedback spirals</h3>
+</section>
+</section>
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+</section>
+<section id="unit-5-assessment" class="level2">
 
 
-#### Things To Do This Week
-
-👥 Meet in Zoom [Friday May 13 - End of the Day](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20220506T2359&p1=256&ah=1&am=30&p1=1109)    
-⌨️ **Publish** your [Showcase Post](https://ma-lead.github.io/ldrs663/assessments.html#showcase-post) using the category `ldrs663` AND the category `Showcase`. Due [Friday May 13 - End of the Day](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20220506T2359&p1=256&ah=1&am=30&p1=1109)   
-👥 **Complete** your [Facilitation Resource Project](https://ma-lead.github.io/ldrs663/assessments.html#facilitation-resource-project-40)   Due [Friday May 13 - End of the Day](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20220506T2359&p1=256&ah=1&am=30&p1=1109)  
-
-:::
-
--->
 
 
 </section>
+</section>
 
-</main> <!-- /main -->
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">Unit 5 Assessment</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-bowerTechnologymediatedLearningTheory2019" class="csl-entry" role="listitem">
+Bower, M. (2019). Technology-mediated learning theory. <em>British Journal of Educational Technology</em>, <em>50</em>(3), 1035–1048. <a href="https://doi.org/10.1111/bjet.12771">https://doi.org/10.1111/bjet.12771</a>
+</div>
+<div id="ref-carlessFeedbackLoopsLongerterm2019" class="csl-entry" role="listitem">
+Carless, D. (2019). Feedback loops and the longer-term: Towards feedback spirals. <em>Assessment &amp; Evaluation in Higher Education</em>, <em>44</em>(5), 705–714. <a href="https://doi.org/10.1080/02602938.2018.1531108">https://doi.org/10.1080/02602938.2018.1531108</a>
+</div>
+<div id="ref-hattiePowerFeedback2007" class="csl-entry" role="listitem">
+Hattie, J., &amp; Timperley, H. (2007). The power of feedback. <em>Review of Educational Research</em>, <em>77</em>, 81–112. <a href="https://doi.org/10.3102/003465430298487">https://doi.org/10.3102/003465430298487</a>
+</div>
+<div id="ref-lipnevichWhatGradesMean2020" class="csl-entry" role="listitem">
+Lipnevich, A. A., Guskey, T. R., Murano, D. M., &amp; Smith, J. K. (2020). What do grades mean? <span>Variation</span> in grading criteria in <span>American</span> college and university courses. <em>Assessment in Education: Principles, Policy &amp; Practice</em>, <em>27</em>(5), 480–500. <a href="https://doi.org/10.1080/0969594x.2020.1799190">https://doi.org/10.1080/0969594x.2020.1799190</a>
+</div>
+</div></section><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>The correct answer is ‘b’.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

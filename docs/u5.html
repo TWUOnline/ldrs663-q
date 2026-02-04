@@ -21,27 +21,7 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for citations */
-div.csl-bib-body { }
-div.csl-entry {
-  clear: both;
-  margin-bottom: 0em;
-}
-.hanging-indent div.csl-entry {
-  margin-left:2em;
-  text-indent:-2em;
-}
-div.csl-left-margin {
-  min-width:2em;
-  float:left;
-}
-div.csl-right-inline {
-  margin-left:2em;
-  padding-left:1em;
-}
-div.csl-indent {
-  margin-left: 2em;
-}</style>
+</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -92,35 +72,6 @@ div.csl-indent {
 <script type="application/javascript" src="https://twuonline.github.io/course-materials/quarto/twu_global_header.js"></script>
 <link rel="shortcut icon" href="https://twuonline.github.io/course-materials/quarto/favicon.ico">
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="https://twuonline.github.io/course-materials/quarto/twu_styles.css">
 </head>
@@ -134,7 +85,7 @@ window.Quarto = {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./u5.html">Technology-Integrated Assessment</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./u5.html">Merging Modalities of Learning</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -157,7 +108,7 @@ window.Quarto = {
                         </div>
               <div>
                             <div class="quarto-title-meta-heading"><p>Last Modified</p></div>
-                            <div class="quarto-title-meta-contents"><p>Sep 11, 2025</p></div>
+                            <div class="quarto-title-meta-contents"><p>Feb 3, 2026</p></div>
                         </div>
         </div>
     </div>
@@ -209,19 +160,19 @@ window.Quarto = {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./u4.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Educational Experience in a Multi-Access World</span></a>
+ <span class="menu-text">Educational Experience</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./u5.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Technology-Integrated Assessment</span></a>
+ <span class="menu-text">Merging Modalities of Learning</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./u6.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Concluding the Course</span></a>
+ <span class="menu-text">Technology-Integrated Assessment</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -258,43 +209,24 @@ window.Quarto = {
     <h2 id="toc-title">On This Page</h2>
    
   <ul>
-  <li><a href="#technology-integrated-assessment" id="toc-technology-integrated-assessment" class="nav-link active" data-scroll-target="#technology-integrated-assessment">Technology-Integrated Assessment</a>
+  <li><a href="#merging-modalities-of-learning" id="toc-merging-modalities-of-learning" class="nav-link active" data-scroll-target="#merging-modalities-of-learning">Merging Modalities of Learning</a>
   <ul>
-  <li><a href="#overview" id="toc-overview" class="nav-link" data-scroll-target="#overview">Overview</a>
-  <ul class="collapse">
   <li><a href="#topics" id="toc-topics" class="nav-link" data-scroll-target="#topics">Topics</a></li>
   <li><a href="#unit-learning-outcomes" id="toc-unit-learning-outcomes" class="nav-link" data-scroll-target="#unit-learning-outcomes">Unit Learning Outcomes</a></li>
   <li><a href="#learning-activities" id="toc-learning-activities" class="nav-link" data-scroll-target="#learning-activities">Learning Activities</a></li>
-  </ul></li>
-  <li><a href="#what-is-educational-assessment" id="toc-what-is-educational-assessment" class="nav-link" data-scroll-target="#what-is-educational-assessment">What is Educational Assessment?</a>
+  <li><a href="#assessment" id="toc-assessment" class="nav-link" data-scroll-target="#assessment">Assessment</a></li>
+  <li><a href="#resources" id="toc-resources" class="nav-link" data-scroll-target="#resources">Resources</a></li>
+  <li><a href="#emerging-models-of-open-and-multi-access-education" id="toc-emerging-models-of-open-and-multi-access-education" class="nav-link" data-scroll-target="#emerging-models-of-open-and-multi-access-education">Emerging Models of Open and Multi-Access Education</a>
   <ul class="collapse">
-  <li><a href="#purposes-of-assessment" id="toc-purposes-of-assessment" class="nav-link" data-scroll-target="#purposes-of-assessment">3 Purposes of Assessment</a>
+  <li><a href="#activity" id="toc-activity" class="nav-link" data-scroll-target="#activity">Activity</a></li>
+  </ul></li>
+  <li><a href="#multi-access-learning-environments" id="toc-multi-access-learning-environments" class="nav-link" data-scroll-target="#multi-access-learning-environments">Multi-Access Learning Environments</a>
   <ul class="collapse">
-  <li><a href="#assessment-of-learning" id="toc-assessment-of-learning" class="nav-link" data-scroll-target="#assessment-of-learning">Assessment <em>of</em> learning</a></li>
-  <li><a href="#assessment-for-learning" id="toc-assessment-for-learning" class="nav-link" data-scroll-target="#assessment-for-learning">Assessment <em>for</em> learning</a></li>
-  <li><a href="#assessment-as-learning" id="toc-assessment-as-learning" class="nav-link" data-scroll-target="#assessment-as-learning">Assessment <em>as</em> learning</a></li>
+  <li><a href="#the-4-tiers-of-multi-access-learning" id="toc-the-4-tiers-of-multi-access-learning" class="nav-link" data-scroll-target="#the-4-tiers-of-multi-access-learning">The 4 tiers of multi-access learning:</a></li>
+  <li><a href="#activity-look-read-and-reflect" id="toc-activity-look-read-and-reflect" class="nav-link" data-scroll-target="#activity-look-read-and-reflect">Activity: Look, Read, and Reflect</a></li>
   </ul></li>
-  </ul></li>
-  <li><a href="#what-is-wrong-with-educational-assessment" id="toc-what-is-wrong-with-educational-assessment" class="nav-link" data-scroll-target="#what-is-wrong-with-educational-assessment">What is wrong with Educational Assessment?</a>
-  <ul class="collapse">
-  <li><a href="#the-math-doesnt-add-up" id="toc-the-math-doesnt-add-up" class="nav-link" data-scroll-target="#the-math-doesnt-add-up">The math doesn’t add up</a></li>
-  <li><a href="#fair-does-not-mean-equal" id="toc-fair-does-not-mean-equal" class="nav-link" data-scroll-target="#fair-does-not-mean-equal">Fair does not mean equal</a></li>
-  <li><a href="#understanding-learning-outcomes" id="toc-understanding-learning-outcomes" class="nav-link" data-scroll-target="#understanding-learning-outcomes">Understanding Learning Outcomes</a></li>
-  <li><a href="#creating-learning-outcomes" id="toc-creating-learning-outcomes" class="nav-link" data-scroll-target="#creating-learning-outcomes">Creating Learning Outcomes</a></li>
-  </ul></li>
-  <li><a href="#how-does-technology-impact-educational-assessment" id="toc-how-does-technology-impact-educational-assessment" class="nav-link" data-scroll-target="#how-does-technology-impact-educational-assessment">How does Technology Impact Educational Assessment?</a>
-  <ul class="collapse">
-  <li><a href="#technology-mediated-learning" id="toc-technology-mediated-learning" class="nav-link" data-scroll-target="#technology-mediated-learning">Technology-mediated learning</a></li>
-  <li><a href="#technology-and-assessment" id="toc-technology-and-assessment" class="nav-link" data-scroll-target="#technology-and-assessment">Technology and assessment</a></li>
-  </ul></li>
-  <li><a href="#feedback-loops-and-spirals" id="toc-feedback-loops-and-spirals" class="nav-link" data-scroll-target="#feedback-loops-and-spirals">Feedback Loops and Spirals</a>
-  <ul class="collapse">
-  <li><a href="#what-is-feedback" id="toc-what-is-feedback" class="nav-link" data-scroll-target="#what-is-feedback">What is feedback</a></li>
-  <li><a href="#feedback-loops" id="toc-feedback-loops" class="nav-link" data-scroll-target="#feedback-loops">Feedback loops</a></li>
-  <li><a href="#feedback-spirals" id="toc-feedback-spirals" class="nav-link" data-scroll-target="#feedback-spirals">Feedback spirals</a></li>
-  </ul></li>
-  <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary">Summary</a></li>
-  <li><a href="#unit-5-assessment" id="toc-unit-5-assessment" class="nav-link" data-scroll-target="#unit-5-assessment">Unit 5 Assessment</a></li>
+  <li><a href="#unit-summary" id="toc-unit-summary" class="nav-link" data-scroll-target="#unit-summary">Unit Summary</a></li>
+  <li><a href="#checking-your-learning" id="toc-checking-your-learning" class="nav-link" data-scroll-target="#checking-your-learning">Checking Your Learning</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -305,146 +237,155 @@ window.Quarto = {
 
 
 
-<section id="technology-integrated-assessment" class="level1">
-<h1>Technology-Integrated Assessment</h1>
-<section id="overview" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="overview">Overview</h2>
-<p>In this unit, we will explore the nature of technology integrated assessment. In any formal learning environment, and many informal learning environments, there is a requirement for the instructor to engage in some sort of assessment of how well the learners are achieving the outcomes intended in the course design. Typically, this has happened with the assignment of a grade in a percentage or letter format, and usually accompanied by a significant amount of feedback from the instructor. In order to do this, the instructor needs to come to know what the learner knows, can do, or has become in relation to the outcomes. Coaching and facilitation are two activities that are highly dependent on assessing a learner’s knowledge or ability in relation to a learning outcome and are key components of the process of certifying that a learner has achieved a certain level of proficiency. Knowledge of results occurs when an instructor or learner have identified a gap between what the learner is currently able to do and what they should be able to do in light of the course or program learning outcomes. Feedback occurs when information about how to close that gap is identified and the learner has the opportunity to improve their performance.</p>
+<section id="merging-modalities-of-learning" class="level1">
+<h1>Merging Modalities of Learning</h1>
 <section id="topics" class="level3 unnumbered">
 <h3 class="unnumbered anchored" data-anchor-id="topics">Topics</h3>
-<p>This unit is divided into the following topics:</p>
-<ol type="1">
-<li>What is educational assessment?</li>
-<li>What is wrong with educational assesment?</li>
-<li>How does technology impact assessment?</li>
-<li>Feedback Loops and Spirals</li>
+<p><span style="font-family:Wingdings">This unit is divided into the following topics</span>:</p>
+<ol start="5" type="1">
+<li>Emerging Models of Open and Multi-Access Education</li>
+<li>Multi-Access Learning Environments</li>
+<li>Large Language Models and so-called “AI”</li>
 </ol>
 </section>
 <section id="unit-learning-outcomes" class="level3 unnumbered">
 <h3 class="unnumbered anchored" data-anchor-id="unit-learning-outcomes">Unit Learning Outcomes</h3>
-<p>When you have completed this unit, you will be able to:</p>
+<p>When you have completed this unit, you should be able to:</p>
 <ul>
-<li>Evaluate the quality of feedback in light of evidence-based research</li>
-<li>Evaluate interactions in a learning environment and develop strategies for high quality educative interactions</li>
+<li>Identify the ways institutional learning and teaching is changing.<br>
+</li>
+<li>Understand the difference between pedagogy and modality.</li>
 </ul>
 </section>
 <section id="learning-activities" class="level3 unnumbered">
 <h3 class="unnumbered anchored" data-anchor-id="learning-activities">Learning Activities</h3>
 <p>Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.</p>
+<!-- **// todo #51** Add Learning Activities list  -->
+</section>
+<section id="assessment" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="assessment">Assessment</h3>
+<p>Please see the Assessment section in Moodle for assignment details.</p>
+</section>
+<section id="resources" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="resources">Resources</h3>
+<p>Online resources will be provided in the unit. <!-- **// todo #50** Should we add the core book: Teaching in a Digital Age? --></p>
+</section>
+<section id="emerging-models-of-open-and-multi-access-education" class="level2">
+<h2 class="anchored" data-anchor-id="emerging-models-of-open-and-multi-access-education">Emerging Models of Open and Multi-Access Education</h2>
+<p>Online learning, blended learning, flipped classroom, face-to-face, hybrid course, multi-access… you may have heard some of these terms tossed around, especially recently with the shifting focus to online. Before we unpack and examine these modalities of learning, consider how learning in Higher Education has changed. <em>What are the shifts that have happened in the last 20, 10, 5 years? How has technology shaped the way teachers teach and the way students learn?</em></p>
+<section id="activity" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="activity">Activity</h3>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>After taking a moment to consider the questions above, read Chapter 1 of our core text, <em>Teaching in a Digital Age</em> by Tony Bates. It can be found by clicking on the following link:</p>
+<p><strong><em>Note:</em></strong> <em>Particularly focus on sections 1.6-1.8.</em></p>
+<!-- **// todo #47** Configure the following link to open in a new tab. -->
+<p><a href="https://pressbooks.bccampus.ca/teachinginadigitalagev3m/part/chapter-1-fundamental-change-in-education/" target="_blank">Teaching in a Digital Age</a></p>
+<section id="questions-to-consider" class="level4 unnumbered">
+<h4 class="unnumbered anchored" data-anchor-id="questions-to-consider"><strong>Questions to Consider</strong></h4>
+<p>After completing the reading above, consider the following questions:</p>
 <ul>
-<li>Read, annotate, and tag
-<ul>
-<li>Allen, J. D. (2005). <a href="https://doi.org/10.3200/TCHS.78.5.218-223">Grades as Valid Measures of Academic Achievement of Classroom Learning</a>. <em>The Clearing House: A Journal of Educational Strategies, Issues and Ideas, 78</em>(5), 218–223.</li>
-<li>Bower, M. (2019). <a href="https://doi.org/10.1111/bjet.12771">Technology‐mediated learning theory.</a> <em>British Journal of Educational Technology, 50</em>(3), 1035–1048.</li>
-<li>Carless, D. (2019). <a href="https://doi.org/10.1080/02602938.2018.1531108">Feedback loops and the longer-term: Towards feedback spirals.</a> <em>Assessment &amp; Evaluation in Higher Education, 44</em>(5), 705–714.<br>
-</li>
-<li>Lipnevich, A. A., Guskey, T. R., Murano, D. M., &amp; Smith, J. K. (2020). What do grades mean? Variation in grading criteria in American college and university courses. Assessment in Education: Principles, Policy &amp; Practice, 27(5), 480–500. https://doi.org/10/ghjw3k</li>
-<li>Hattie, J., &amp; Timperley, H. (2007). The power of feedback. Review of Educational Research, 77, 81–112. https://doi.org/10.3102/003465430298487</li>
-</ul></li>
-<li>Post 4</li>
+<li>What changes have you seen in Online Learning?</li>
+<li>What changes to you foresee in the next few years?</li>
 </ul>
 </section>
+</div>
+</div>
 </section>
-<section id="what-is-educational-assessment" class="level2">
-<h2 class="anchored" data-anchor-id="what-is-educational-assessment">What is Educational Assessment?</h2>
-<p>A key component of facilitation and coaching in an educational environment is understanding how educators come to know what learners know. In this case, coaches and facilitators are educators in that they are key to supporting learners as they study. A facilitator or coach can play the role of the more experienced ‘other’ that a learner needs to get them from the zone of not being able to complete a task, to being able to complete it with assistance in their zone of proximal development <span class="citation" data-cites="vygotskyMindSociety1978">(<strong>vygotskyMindSociety1978?</strong>)</span>. However, coming to know what learners know is not really a simple task because ‘learning’ and ‘knowledge’ are not things that we can see or measure. There are many things in our world that we can measure, like the mass of an apple, or the distance between two points, or the volume of an ingredient in a recipe. Knowledge is not like that, though, because it is encoded in the myriad connections between neurons in our brains. We can’t examine a person’s brain and determine what they know.</p>
-<p>For example, if we want to know if a learner can calculate the following:</p>
-<p><span class="math display">\[2+2=x\]</span></p>
-<p>we cannot examine the physical properties of their brain to learn anything about whether they know how to calculate that sum. Instead, we must ask them to provide the answer. If they provide the following:</p>
-<p><span class="math display">\[2+2=\text{apple}\]</span></p>
-<p>we can then <code>infer</code> that they do not know how to calculate that sum. We can’t be certain though, because they may have mistyped, or otherwise gotten confused about the task, or distracted because they were hungry. Conversely, if they respond with</p>
-<p><span class="math display">\[2+2=4\]</span></p>
-<p>We can <code>infer</code> that they do know how to calculate the sum, but again, we can’t be sure. Perhaps they asked someone else, or used a calculator. The point is that we cannot truly <code>measure</code> a person’s knowledge because knowledge of any given thing is <code>latent</code>, or not observable.</p>
-<p>Educational assessment can be framed as a trio of components that are essential to allowing instructors to learn what learners know. First, there must be some sort of cognitive domain that is mapped and understood. In the case above, the cognitive domain might be <code>addition</code> as a mathematical procedure. Second, there must be some sort of observation in the form of a performance task, like ‘calculate <span class="math inline">\(2+2\)</span>’. Third, there is always an interpretation of the results of the performance task, the <code>inference</code> mentioned above.</p>
+</section>
+<section id="multi-access-learning-environments" class="level2">
+<h2 class="anchored" data-anchor-id="multi-access-learning-environments">Multi-Access Learning Environments</h2>
+<p>One trend that is gaining traction is <strong>Multi-Access Learning.</strong></p>
+<p>Read the following excerpt from <em>Realigning Higher Education for the 21st-Century Learner through Multi-Access Learning</em> by Irvine, Code &amp; Richards (2013):</p>
+<blockquote class="blockquote">
+<p>Multi-access learning is an opportunity to meet both student needs for access to learning experiences and faculty needs for graduate student recruitment (Irvine, 2009; Irvine &amp; Code, 2011, 2012; Irvine &amp; Richards, 2013). Irvine defines multi-access learning as a <em>framework for enabling students in both face-to-face and online contexts to personalize learning experiences while engaging as a part of the same course.</em> Multi-access learning is different than blended learning because it places the <strong>student at the center</strong> of the learning experience as opposed to the instructor or the institution.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>Further, “blended learning” is a problematic term due to its multiple interpretations in the literature and in daily practice, leaving one to ask, “Who controls the blend?” When and where the face-to-face sessions occur and when and how the online synchronous or asynchronous sessions occur are often controlled in blended learning settings. At the core, the institution or instructor is in control of the blend, no matter the configuration.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p><strong>Multi-access learning, however, has the learner at the center, with the ability to choose how he/she wants to access the course.</strong> The core principle of the multi-access framework is one of enabling student choice in terms of the combination of course delivery methods through which the learning environment is accessed; that is, each individual learner decides how he/she wishes to take the course (e.g., face-to-face or online) and can then participate with other students and the instructor – each of whom have their own modality preferences – at the same time” (Irvine, Code &amp; Richards, 2013).</p>
+</blockquote>
+<p><em>Source: Tiers of the multi-access framework (Irvine, Code &amp; Richards, 2013).</em></p>
+<p>With the uncertainty brought on by COVID-19, multi-access learning has great potential for our education system. This modality not only brings more choice to students, but promotes a learner-centred course design and best practices in teaching and learning.</p>
+<section id="the-4-tiers-of-multi-access-learning" class="level3">
+<h3 class="anchored" data-anchor-id="the-4-tiers-of-multi-access-learning">The 4 tiers of multi-access learning:</h3>
+<section id="tier-1" class="level5 unnumbered">
+<h5 class="unnumbered anchored" data-anchor-id="tier-1">Tier 1</h5>
+<p>The first tier of multi-access learning is what most of you have experienced (as learners and faculty) as the predominant modality of higher education, face-to-face (f2f). F2f learning environments are often assumed to be the preferred modality of learning because a f2f classroom allows for rich, multi-modal interactions and robust community-building. This is true to an extent, but only if class sizes are very small; large, lecture-based classrooms present significant challenges to building the kind of critical and safe community for engaged interaction.</p>
+</section>
+<section id="tier-2" class="level5 unnumbered">
+<h5 class="unnumbered anchored" data-anchor-id="tier-2">Tier 2</h5>
+<p>The second tier of access allows learners who cannot travel to a central campus (like during a worldwide pandemic) to participate in a learning community syncronously via video conferencing. Remote and local learners may exchange items and artifacts and may share video feeds and use software such as Etherpad or screensharing through the web-conferencing tool to collaborate on documents for co-creation of content.</p>
+</section>
+<section id="tier-3" class="level5 unnumbered">
+<h5 class="unnumbered anchored" data-anchor-id="tier-3">Tier 3</h5>
+<p>The third tier provides asynchronous access for remote learners who cannot join the scheduled class session due to any number of constraints (employment, child/elder care, time-zone, or even network bandwidth). Irvine, et al.&nbsp;acknowledge that simply viewing a recording of a synchronous session, regardless of how collaborative and engaging that session may have been, is a much leaner experience for learners and may not be optimal. This highlights the need to provide learning materials in formats beyond video and audio, perhaps including text-based materials and asynchronous tools for co-creation of content such as GitHub.</p>
+</section>
+<section id="tier-4" class="level5 unnumbered">
+<h5 class="unnumbered anchored" data-anchor-id="tier-4">Tier 4</h5>
+<p>The outermost tier of the model is for open participation from non-credit learners who are choosing to participate for their own interest and edification. It may seem anathema to some faculty to consider opening their course to the world, but the benefits can be significant, particularly in times like the spring of 2020.</p>
+</section>
+</section>
+<section id="activity-look-read-and-reflect" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="activity-look-read-and-reflect">Activity: Look, Read, and Reflect</h3>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>This Learning Activity begins by asking you to take a close look and consider the picture below this block.</p>
+<!-- **// todo #44** Include the image within the activity box. -->
+<section id="read" class="level4 unnumbered">
+<h4 class="unnumbered anchored" data-anchor-id="read">Read</h4>
+<p><a href="https://jolt.merlot.org/vol9no2/irvine_0613.htm">Realigning Higher Education for the 21st-Century Learner through Multi-Access Learning</a></p>
+</section>
+<section id="questions-to-consider-1" class="level4 unnumbered">
+<h4 class="unnumbered anchored" data-anchor-id="questions-to-consider-1"><strong>Questions to Consider</strong></h4>
+<p>After taking some time to consider the picture, along with completing the reading above, consider the following questions:</p>
+<ul>
+<li>What ideas surround multi-access learning, according to the image?</li>
+<li>What is your definition of multi-access learning?</li>
+<li>If you were asked to provide multi-access learning for your course, what initial questions would you have?</li>
+</ul>
+</section>
+</div>
+</div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="assets/U5/Assessment-Triangle.png" class="img-fluid figure-img"></p>
+<p><img src="assets/U5/U5LAImage.jpg" class="img-fluid figure-img"></p>
 </figure>
 </div>
-<p><span class="citation" data-cites="lipnevichWhatGradesMean2020">(Lipnevich et al., 2020)</span></p>
-<section id="purposes-of-assessment" class="level3">
-<h3 class="anchored" data-anchor-id="purposes-of-assessment">3 Purposes of Assessment</h3>
-<section id="assessment-of-learning" class="level4">
-<h4 class="anchored" data-anchor-id="assessment-of-learning">Assessment <em>of</em> learning</h4>
-</section>
-<section id="assessment-for-learning" class="level4">
-<h4 class="anchored" data-anchor-id="assessment-for-learning">Assessment <em>for</em> learning</h4>
-</section>
-<section id="assessment-as-learning" class="level4">
-<h4 class="anchored" data-anchor-id="assessment-as-learning">Assessment <em>as</em> learning</h4>
 </section>
 </section>
+<section id="unit-summary" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="unit-summary">Unit Summary</h2>
+<!-- **// todo #48** -->
 </section>
-<section id="what-is-wrong-with-educational-assessment" class="level2">
-<h2 class="anchored" data-anchor-id="what-is-wrong-with-educational-assessment">What is wrong with Educational Assessment?</h2>
-<section id="the-math-doesnt-add-up" class="level3">
-<h3 class="anchored" data-anchor-id="the-math-doesnt-add-up">The math doesn’t add up</h3>
-</section>
-<section id="fair-does-not-mean-equal" class="level3">
-<h3 class="anchored" data-anchor-id="fair-does-not-mean-equal">Fair does not mean equal</h3>
-</section>
-<section id="understanding-learning-outcomes" class="level3">
-<h3 class="anchored" data-anchor-id="understanding-learning-outcomes">Understanding Learning Outcomes</h3>
-<ul>
-<li>review of 627</li>
-</ul>
-</section>
-<section id="creating-learning-outcomes" class="level3">
-<h3 class="anchored" data-anchor-id="creating-learning-outcomes">Creating Learning Outcomes</h3>
-<ul>
-<li>new practice</li>
-<li></li>
-</ul>
-</section>
-</section>
-<section id="how-does-technology-impact-educational-assessment" class="level2">
-<h2 class="anchored" data-anchor-id="how-does-technology-impact-educational-assessment">How does Technology Impact Educational Assessment?</h2>
-<p><span class="citation" data-cites="bowerTechnologymediatedLearningTheory2019">(Bower, 2019)</span></p>
-<section id="technology-mediated-learning" class="level3">
-<h3 class="anchored" data-anchor-id="technology-mediated-learning">Technology-mediated learning</h3>
-</section>
-<section id="technology-and-assessment" class="level3">
-<h3 class="anchored" data-anchor-id="technology-and-assessment">Technology and assessment</h3>
-</section>
-</section>
-<section id="feedback-loops-and-spirals" class="level2">
-<h2 class="anchored" data-anchor-id="feedback-loops-and-spirals">Feedback Loops and Spirals</h2>
-<p><span class="citation" data-cites="hattiePowerFeedback2007 carlessFeedbackLoopsLongerterm2019">(Carless, 2019; Hattie &amp; Timperley, 2007)</span></p>
-<section id="what-is-feedback" class="level3">
-<h3 class="anchored" data-anchor-id="what-is-feedback">What is feedback</h3>
-</section>
-<section id="feedback-loops" class="level3">
-<h3 class="anchored" data-anchor-id="feedback-loops">Feedback loops</h3>
-</section>
-<section id="feedback-spirals" class="level3">
-<h3 class="anchored" data-anchor-id="feedback-spirals">Feedback spirals</h3>
-</section>
-</section>
-<section id="summary" class="level2">
-<h2 class="anchored" data-anchor-id="summary">Summary</h2>
-</section>
-<section id="unit-5-assessment" class="level2">
-
-
+<section id="checking-your-learning" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="checking-your-learning">Checking Your Learning</h2>
+<!-- **// todo #49** -->
+<!-- **// todo #45** Delete the following title? -->
+<!-- ## Unit 4 Assessment {.unnumbered} -->
 
 
 </section>
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">Unit 5 Assessment</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
-<div id="ref-bowerTechnologymediatedLearningTheory2019" class="csl-entry" role="listitem">
-Bower, M. (2019). Technology-mediated learning theory. <em>British Journal of Educational Technology</em>, <em>50</em>(3), 1035–1048. <a href="https://doi.org/10.1111/bjet.12771">https://doi.org/10.1111/bjet.12771</a>
-</div>
-<div id="ref-carlessFeedbackLoopsLongerterm2019" class="csl-entry" role="listitem">
-Carless, D. (2019). Feedback loops and the longer-term: Towards feedback spirals. <em>Assessment &amp; Evaluation in Higher Education</em>, <em>44</em>(5), 705–714. <a href="https://doi.org/10.1080/02602938.2018.1531108">https://doi.org/10.1080/02602938.2018.1531108</a>
-</div>
-<div id="ref-hattiePowerFeedback2007" class="csl-entry" role="listitem">
-Hattie, J., &amp; Timperley, H. (2007). The power of feedback. <em>Review of Educational Research</em>, <em>77</em>, 81–112. <a href="https://doi.org/10.3102/003465430298487">https://doi.org/10.3102/003465430298487</a>
-</div>
-<div id="ref-lipnevichWhatGradesMean2020" class="csl-entry" role="listitem">
-Lipnevich, A. A., Guskey, T. R., Murano, D. M., &amp; Smith, J. K. (2020). What do grades mean? <span>Variation</span> in grading criteria in <span>American</span> college and university courses. <em>Assessment in Education: Principles, Policy &amp; Practice</em>, <em>27</em>(5), 480–500. <a href="https://doi.org/10.1080/0969594x.2020.1799190">https://doi.org/10.1080/0969594x.2020.1799190</a>
-</div>
-</div></section></div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

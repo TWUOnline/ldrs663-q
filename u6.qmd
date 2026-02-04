@@ -1,18 +1,163 @@
-# Concluding the Course
+# Technology-Integrated Assessment
 
-Congratulations! We have taken a bit of a whirlwind tour through the main ideas of *facilitating learning experiences* and *coaching learners through challenges*. These two competencies form the backbone of the model of teaching and learning in TWU Online, GLOBAL FAR Centres, and similar programs, and they are also highly transferable skills for anyone who is in a role that involves the acquisition of new cognitive skills.
+## Overview {.unnumbered}
 
-These two related competencies are not 'new' educational ideas, but are based in a long history of educational research showing the power of social constructivist pedagogies to transform thinking within a critical community of inquiry.
+In this unit, we will explore the nature of technology integrated assessment. In any formal learning environment, and many informal learning environments, there is a requirement for the instructor to engage in some sort of assessment of how well the learners are achieving the outcomes intended in the course design. Typically, this has happened with the assignment of a grade in a percentage or letter format, and usually accompanied by a significant amount of feedback from the instructor. In order to do this, the instructor needs to come to know what the learner knows, can do, or has become in relation to the outcomes. Coaching and facilitation are two activities that are highly dependent on assessing a learner's knowledge or ability in relation to a learning outcome and are key components of the process of certifying that a learner has achieved a certain level of proficiency. Knowledge of results occurs when an instructor or learner have identified a gap between what the learner is currently able to do and what they should be able to do in light of the course or program learning outcomes. Feedback occurs when information about how to close that gap is identified and the learner has the opportunity to improve their performance.
 
-<!--
+### Topics {.unnumbered}
+
+This unit is divided into the following topics:
+
+1. What is educational assessment?
+2. What is wrong with educational assesment?
+3. How does technology impact assessment?
+4. Feedback Loops and Spirals
 
 
-#### Things To Do This Week
 
-👥 Meet in Zoom [Friday May 13 - End of the Day](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20220506T2359&p1=256&ah=1&am=30&p1=1109)    
-⌨️ **Publish** your [Showcase Post](https://ma-lead.github.io/ldrs663/assessments.html#showcase-post) using the category `ldrs663` AND the category `Showcase`. Due [Friday May 13 - End of the Day](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20220506T2359&p1=256&ah=1&am=30&p1=1109)   
-👥 **Complete** your [Facilitation Resource Project](https://ma-lead.github.io/ldrs663/assessments.html#facilitation-resource-project-40)   Due [Friday May 13 - End of the Day](https://www.timeanddate.com/worldclock/fixedtime.html?msg=LDRS663+Meeting&iso=20220506T2359&p1=256&ah=1&am=30&p1=1109)  
 
+### Unit Learning Outcomes {.unnumbered}
+
+When you have completed this unit, you will be able to:
+
+- Evaluate the quality of feedback in light of evidence-based research
+- Evaluate interactions in a learning environment and develop strategies for high quality educative interactions
+
+### Learning Activities {.unnumbered}
+
+Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
+
+- Read, annotate, and tag   
+  - Allen, J. D. (2005). [Grades as Valid Measures of Academic Achievement of Classroom Learning](https://doi.org/10.3200/TCHS.78.5.218-223). *The Clearing House: A Journal of Educational Strategies, Issues and Ideas, 78*(5), 218–223. 
+  - Bower, M. (2019). [Technology‐mediated learning theory.](https://doi.org/10.1111/bjet.12771) *British Journal of Educational Technology, 50*(3), 1035–1048. 
+  - Carless, D. (2019). [Feedback loops and the longer-term: Towards feedback spirals.](https://doi.org/10.1080/02602938.2018.1531108) *Assessment & Evaluation in Higher Education, 44*(5), 705–714.   
+  - Lipnevich, A. A., Guskey, T. R., Murano, D. M., & Smith, J. K. (2020). What do grades mean? Variation in grading criteria in American college and university courses. Assessment in Education: Principles, Policy & Practice, 27(5), 480–500. https://doi.org/10/ghjw3k
+  - Hattie, J., & Timperley, H. (2007). The power of feedback. Review of Educational Research, 77, 81–112. https://doi.org/10.3102/003465430298487
+- Post 4
+
+
+
+## What is Educational Assessment?
+
+A key component of facilitation and coaching in an educational environment is understanding how educators come to know what learners know. In this case, coaches and facilitators are educators in that they are key to supporting learners as they study. A facilitator or coach can play the role of the more experienced 'other' that a learner needs to get them from the zone of not being able to complete a task, to being able to complete it with assistance in their zone of proximal development [@vygotskyMindSociety1978]. However, coming to know what learners know is not really a simple task because 'learning' and 'knowledge' are not things that we can see or measure. There are many things in our world that we can measure, like the mass of an apple, or the distance between two points, or the volume of an ingredient in a recipe. Knowledge is not like that, though, because it is encoded in the myriad connections between neurons in our brains. We can't examine a person's brain and determine what they know.
+
+For example, if we want to know if a learner can calculate the following:
+
+$$2+2=x$$
+
+we cannot examine the physical properties of their brain to learn anything about whether they know how to calculate that sum. Instead, we must ask them to provide the answer. If they provide the following:
+
+$$2+2=\text{apple}$$
+
+we can then `infer` that they do not know how to calculate that sum. We can't be certain though, because they may have mistyped, or otherwise gotten confused about the task, or distracted because they were hungry. Conversely, if they respond with
+
+$$2+2=4$$
+
+We can `infer` that they do know how to calculate the sum, but again, we can't be sure. Perhaps they asked someone else, or used a calculator. The point is that we cannot truly `measure` a person's knowledge because knowledge of any given thing is `latent`, or not observable.
+
+Educational assessment can be framed as a trio of components that are essential to allowing instructors to learn what learners know. First, there must be some sort of _cognitive model or domain_ that is mapped and understood. In the case above, the cognitive domain might be `addition` as a mathematical procedure. Second, there must be some sort of _observation_ in the form of a performance task, like "calculate $2+2$". Third, there is always an _interpretation_ of the results of the performance task, the `inference` mentioned above.
+
+These three components are interdependent and can be visualised as a triangle as below.
+
+![Assessment Triangle](assets/U6/assessment-triangle.png)
+
+...more here
+
+## Measuring Knowledge
+
+Unfortunately, an inference drawn from a 'correct response' may not tell us anything at all about what a learner knows.
+
+Consider the following definitions:
+
+::: {.callout}
+
+
+a. [validity]{style="font-family:Wingdings"}
+: Definition: [the main extent to which a concept, conclusion, or measurement is well-founded and likely corresponds accurately to the real world.]{style="font-family:Wingdings"}
+
+b. [reliability]{style="font-family:Wingdings"}
+: Definition: [the overall consistency of a measure. A measure is said to have a high reliability if it produces similar results under consistent conditions]{style="font-family:Wingdings"}
+
+c. [bias]{style="font-family:Wingdings"}
+: Definition: [a systematic tendency in which the methods used to gather data and estimate a sample statistic present an inaccurate, skewed or distorted depiction of reality.]{style="font-family:Wingdings"}
 :::
 
--->
+And the following quiz:
+
+<details>
+<summary> Click to open</summary>
+
+Choose the correct definition from the list. 
+
+[bias]{style="font-family:Wingdings"}
+: a. [the overall consistency of a measure. A measure is said to have a high reliability if it produces similar results under consistent conditions]{style="font-family:Wingdings"}
+: b. [a systematic tendency in which the methods used to gather data and estimate a sample statistic present an inaccurate, skewed or distorted depiction of reality.]{style="font-family:Wingdings"}
+: c. [the main extent to which a concept, conclusion, or measurement is well-founded and likely corresponds accurately to the real world.]{style="font-family:Wingdings"}
+
+</details>
+
+It is highly likely that you were able to figure out the correct answer, even though you have no knowledge of the content of the quiz.^[The correct answer is 'b'.] So if our only method of determining the learner's ability is to ask them questions, but the questions can be answered without knowledge, then our assessment strategy is not valid.
+
+<details>
+<summary> Click to reveal the content</summary>
+a. validity  
+  : the main extent to which a concept, conclusion, or measurement is well-founded and likely corresponds accurately to the real world.  
+b. reliability  
+  : the overall consistency of a measure. A measure is said to have a high reliability if it produces similar results under consistent conditions  
+c. bias  
+  : a systematic tendency in which the methods used to gather data and estimate a sample statistic present an inaccurate, skewed or distorted depiction of reality.
+</details>
+
+
+
+
+
+
+[@lipnevichWhatGradesMean2020]
+
+### 3 Purposes of Assessment
+
+#### Assessment *of* learning
+
+#### Assessment *for* learning
+
+#### Assessment *as* learning
+
+## What is wrong with Educational Assessment?
+
+### The math doesn't add up
+
+### Fair does not mean equal
+
+### Understanding Learning Outcomes
+
+- review of 627
+
+### Creating Learning Outcomes
+
+- new practice
+- 
+
+
+## How does Technology Impact Educational Assessment?
+
+[@bowerTechnologymediatedLearningTheory2019]
+
+### Technology-mediated learning
+
+### Technology and assessment
+
+## Feedback Loops and Spirals
+[@hattiePowerFeedback2007; @carlessFeedbackLoopsLongerterm2019]
+
+### What is feedback
+
+### Feedback loops
+
+### Feedback spirals
+
+## Summary
+
+## Unit 5 Assessment
+
+
