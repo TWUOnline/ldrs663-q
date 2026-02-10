@@ -1,3 +1,7 @@
+---
+slide-format: revealjs
+---
+
 # Technology-Integrated Assessment
 
 ## Overview {.unnumbered}
@@ -65,38 +69,18 @@ These three components are interdependent and can be visualised as a triangle as
 
 ## Measuring Knowledge
 
+```{r echo=FALSE}
+knitr::include_url("https://twuonline.github.io/ldrs663-q/wingding.html")
+```
+
+```{r echo=FALSE}
+knitr::include_url("https://claudiupapasteri.github.io/quarto-slide/e-quarto-slide.html#/")
+```
+
+
 Unfortunately, an inference drawn from a 'correct response' may not tell us anything at all about what a learner knows.
 
 Consider the following definitions:
-
-::: {.callout}
-
-
-a. [validity]{style="font-family:Wingdings"}
-: Definition: [the main extent to which a concept, conclusion, or measurement is well-founded and likely corresponds accurately to the real world.]{style="font-family:Wingdings"}
-
-b. [reliability]{style="font-family:Wingdings"}
-: Definition: [the overall consistency of a measure. A measure is said to have a high reliability if it produces similar results under consistent conditions]{style="font-family:Wingdings"}
-
-c. [bias]{style="font-family:Wingdings"}
-: Definition: [a systematic tendency in which the methods used to gather data and estimate a sample statistic present an inaccurate, skewed or distorted depiction of reality.]{style="font-family:Wingdings"}
-:::
-
-And the following quiz:
-
-<details>
-<summary> Click to open</summary>
-
-Choose the correct definition from the list. 
-
-[bias]{style="font-family:Wingdings"}
-: a. [the overall consistency of a measure. A measure is said to have a high reliability if it produces similar results under consistent conditions]{style="font-family:Wingdings"}
-: b. [a systematic tendency in which the methods used to gather data and estimate a sample statistic present an inaccurate, skewed or distorted depiction of reality.]{style="font-family:Wingdings"}
-: c. [the main extent to which a concept, conclusion, or measurement is well-founded and likely corresponds accurately to the real world.]{style="font-family:Wingdings"}
-
-</details>
-
-It is highly likely that you were able to figure out the correct answer, even though you have no knowledge of the content of the quiz.^[The correct answer is 'b'.] So if our only method of determining the learner's ability is to ask them questions, but the questions can be answered without knowledge, then our assessment strategy is not valid.
 
 <details>
 <summary> Click to reveal the content</summary>
@@ -107,6 +91,41 @@ b. reliability
 c. bias  
   : a systematic tendency in which the methods used to gather data and estimate a sample statistic present an inaccurate, skewed or distorted depiction of reality.
 </details>
+
+
+
+::: {.callout-note}
+Yes, the definitions are formatted in a font called 'wingdings', you are not seeing an error. You don't need to use much of the 'definitions' to figure out the answer to the quiz below.
+:::
+
+::: {.callout}
+The following is the 'content' for a topic of learning. There are three terms defined in this window, then a quiz below
+
+a. Term: [validity]{style="font-family:Wingdings"}
+: Definition: [the main extent to which a concept, conclusion, or measurement is well-founded and likely corresponds accurately to the real world.]{style="font-family:Wingdings"}
+
+b. Term: [reliability]{style="font-family:Wingdings"}
+: Definition: [the overall consistency of a measure. A measure is said to have a high reliability if it produces similar results under consistent conditions]{style="font-family:Wingdings"}
+
+c. Term: [bias]{style="font-family:Wingdings"}
+: Definition: [a systematic tendency in which the methods used to gather data and estimate a sample statistic present an inaccurate, skewed or distorted depiction of reality.]{style="font-family:Wingdings"}
+:::
+
+And the following quiz:
+
+<details>
+<summary> Click to open</summary>
+
+Choose the correct definition from the list. 
+
+Term: [bias]{style="font-family:Wingdings"}
+: a. [the overall consistency of a measure. A measure is said to have a high reliability if it produces similar results under consistent conditions]{style="font-family:Wingdings"}
+: b. [a systematic tendency in which the methods used to gather data and estimate a sample statistic present an inaccurate, skewed or distorted depiction of reality.]{style="font-family:Wingdings"}
+: c. [the main extent to which a concept, conclusion, or measurement is well-founded and likely corresponds accurately to the real world.]{style="font-family:Wingdings"}
+
+</details>
+
+It is highly likely that you were able to figure out the correct answer, even though you have no knowledge of the content of the quiz.^[The correct answer is 'b'.] So if our only method of determining the learner's ability is to ask them questions, but the questions can be answered without knowledge, then our assessment strategy is not valid.
 
 
 

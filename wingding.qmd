@@ -1,0 +1,38 @@
+---
+format: revealjs
+---
+
+## {.smaller}
+validity  
+  : the main extent to which a concept, conclusion, or measurement is well-founded and likely corresponds accurately to the real world. 
+
+reliability  
+  : the overall consistency of a measure. A measure is said to have a high reliability if it produces similar results under consistent conditions  
+
+bias  
+  : a systematic tendency in which the methods used to gather data and estimate a sample statistic present an inaccurate, skewed or distorted depiction of reality.
+
+---
+
+## {.smaller}
+[validity]{style="font-family:Wingdings"}
+: Definition: [the main extent to which a concept, conclusion, or measurement is well-founded and likely corresponds accurately to the real world.]{style="font-family:Wingdings"}. 
+
+[reliability]{style="font-family:Wingdings"}
+: Definition: [the overall consistency of a measure. A measure is said to have a high reliability if it produces similar results under consistent conditions]{style="font-family:Wingdings"}. 
+
+[bias]{style="font-family:Wingdings"}
+: Definition: [a systematic tendency in which the methods used to gather data and estimate a sample statistic present an inaccurate, skewed or distorted depiction of reality.]{style="font-family:Wingdings"}. 
+  
+---
+
+## {.smaller}
+
+Choose the correct definition from the list. 
+
+Term: [bias]{style="font-family:Wingdings"}
+: a. [the overall consistency of a measure. A measure is said to have a high reliability if it produces similar results under consistent conditions]{style="font-family:Wingdings"}
+: b. [a systematic tendency in which the methods used to gather data and estimate a sample statistic present an inaccurate, skewed or distorted depiction of reality.]{style="font-family:Wingdings"}
+: c. [the main extent to which a concept, conclusion, or measurement is well-founded and likely corresponds accurately to the real world.]{style="font-family:Wingdings"}
+
+---
