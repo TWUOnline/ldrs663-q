@@ -3,6 +3,13 @@ format: revealjs
 ---
 
 ## {.smaller}
+
+::: {.callout}
+Consider the following definitions.
+
+:::
+
+
 validity  
   : the main extent to which a concept, conclusion, or measurement is well-founded and likely corresponds accurately to the real world. 
 
@@ -11,6 +18,10 @@ reliability
 
 bias  
   : a systematic tendency in which the methods used to gather data and estimate a sample statistic present an inaccurate, skewed or distorted depiction of reality.
+
+---
+
+The following slide in the deck contains the exact same content, except it is in the 'Wingdings' font.
 
 ---
 

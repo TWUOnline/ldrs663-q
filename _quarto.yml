@@ -53,6 +53,7 @@ title-block-banner: true
 format:
 # Format - HTML
   html:
+    embed-resources: true
     template-partials:
       yml-assets/title-block.html
     link-external-icon: true
