@@ -58,7 +58,7 @@ we can then `infer` that they do not know how to calculate that sum. We can't be
 
 $$2+2=4$$
 
-We can `infer` that they do know how to calculate the sum, but again, we can't be sure. Perhaps they asked someone else, or used a calculator. The point is that we cannot truly `measure` a person's knowledge because knowledge of any given thing is `latent`, or not observable.
+We can `infer` that they do know how to calculate the sum, but again, _we can't be sure_. Perhaps they asked someone else, or used a calculator. The point is that we cannot truly `measure` a person's knowledge because knowledge of any given thing is `latent`, or not directly observable, and it is always subject to `error` ($\epsilon$).
 
 Educational assessment can be framed as a trio of components that are essential to allowing instructors to learn what learners know. First, there must be some sort of _cognitive model or domain_ that is mapped and understood. In the case above, the cognitive domain might be `addition` as a mathematical procedure. Second, there must be some sort of _observation_ in the form of a performance task, like "calculate $2+2$". Third, there is always an _interpretation_ of the results of the performance task, the `inference` mentioned above.
 
@@ -76,7 +76,7 @@ On successful completion of this course, students should be able to:
 - Model metacognitive strategies for self-regulated learning.
 :::
 
-Notice that this is not describing an _activity_ in the course, but rather a description of some state of knowledge or eing _after_ the course. Additionally, the outcome is observable. I'm not entirely comfortable with advising that outcomes be measurable, as we will see in the next section, but it is important that it is observable. An observable outcome (from the perspective of the instructor) should also be an outcome that can be operationalized (from the perspective of the learner). In other words, the learner will be able to use their new knowledge or ability in their life-context.
+Notice that this is not describing an _activity_ in the course, but rather a description of some state of knowledge or being _after_ the course. Additionally, the outcome is (indierectly) observable. I'm not entirely comfortable with advising that outcomes be measurable, as we will see in the next section, but it is important that it is observable. An observable outcome (from the perspective of the instructor) should also be an outcome that can be operationalized (from the perspective of the learner). In other words, the learner will be able to use their new knowledge or ability in their life-context.
 
 The verbs used in learning outcomes are important determinants of how observable or operationalizable is the outcome. For example, if the outcome noted above read 
 
@@ -84,9 +84,11 @@ The verbs used in learning outcomes are important determinants of how observable
 "Describe metacognitive strategies for self-regulated learning."
 :::
 
-A simple question on a quiz or in a conversation that simply restates the outcome will allow the instructor to observe whether or not the learner can describe strategies for metacognitive learning. However, operationalizing the ability to describe these strategies is less than inspiring. On the other hand, the ability to 'model' these strategies is perhaps more tricky for the instructor being able to observe the learner's ability, but it is highly relevant when operationalized in the learner's life.
+A simple question on a quiz or in a conversation that simply restates the outcome as a question will allow the instructor to observe whether or not the learner can describe strategies for metacognitive learning. However, operationalizing the ability to describe these strategies is less than inspiring. On the other hand, the ability to 'model' these strategies is perhaps more tricky for the instructor being able to observe the learner's ability, but it is highly relevant when operationalized in the learner's life.
 
 ## Observing Ability
+
+The second component of the model is that of an `observation` of the learner's ability, or an assessment task of some sort. Assessment tasks can take a huge variety of forms and structures, often dictated by the cognitive domain addressed in the course. Examples include essays, exams, oral presentations, videos, dramatic productions, paintings, drawings, sculptures, journals, demonstrations, peer reviews, songs, poems, lab reports, worked examples, mathematic proofs, assessment conversations, revised drafts, websites, marketing campaigns, case studies, skills demonstrations, fitness tests, agility tests, concept maps, photographs...
 
 ::: {.callout-important}
 The following demonstration may not work on mobile devices.
@@ -107,7 +109,7 @@ It is highly likely that you were able to figure out the correct answer, even th
 
 ## Interpreting Evidence
 
-
+$$X=T+\epsilon$$
 
 [@lipnevichWhatGradesMean2020]
 
