@@ -86,6 +86,9 @@ The verbs used in learning outcomes are important determinants of how observable
 
 A simple question on a quiz or in a conversation that simply restates the outcome as a question will allow the instructor to observe whether or not the learner can describe strategies for metacognitive learning. However, operationalizing the ability to describe these strategies is less than inspiring. On the other hand, the ability to 'model' these strategies is perhaps more tricky for the instructor being able to observe the learner's ability, but it is highly relevant when operationalized in the learner's life.
 
+describe = low-level cognitive skill
+model = high level cognitive skill
+
 ## Observing Ability
 
 The second component of the model is that of an `observation` of the learner's ability, or an assessment task of some sort. Assessment tasks can take a huge variety of forms and structures, often dictated by the cognitive domain addressed in the course. Examples include essays, exams, oral presentations, videos, dramatic productions, paintings, drawings, sculptures, journals, demonstrations, peer reviews, songs, poems, lab reports, worked examples, mathematic proofs, assessment conversations, revised drafts, websites, marketing campaigns, case studies, skills demonstrations, fitness tests, agility tests, concept maps, photographs...
@@ -96,15 +99,19 @@ The following demonstration may not work on mobile devices.
 
 ```{r echo=FALSE}
 #| label: wingdings
-knitr::include_url("https://twuonline.github.io/ldrs663-q/wingding.html")
+knitr::include_url("wingding.html")
 ```
 
+You can likely see from the quiz on the middle slide that someone could answer the question correctly by simply matching a few patterns between the wingding content and the wingding quiz^[The correct answer is 'b'.], and not know anything at all about the actual content on the final slide. This means that a 'correct response' may not tell us anything at all about what a learner knows. So if our only method of determining the learner's ability is to ask them questions, but the questions can be correctly answered without knowledge, then our assessment strategy is not valid.
+
+The instrument that an instructor uses to gather data about what learners know or can do is important, and unfortunately, the range of instruments commonly used is relatively limited. Many people may be able to recall their own undergrad experience with the final grade being determined by some combination of papers, midterms, and a final exam, with the weight of each increasing throughout the semester. However, as I mentioned in the previous paragraph, there are myriad different assessment task formats.
+
+In a sense, it both matters deeply what assessment task you choose, and matters very little what assessment task you use. The important thing is that the assessment task allows you to gather `data` about what a learner knows, can do, or has become. Recall that the details of what a learner will know, be able to do, or become are specified in the learning outcomes and can be summarized in the word `ability`.
+
+As long as the learning task is aligned with at least one learning outcome [@biggsEnhancingTeachingConstructive1996], and can reasonably provide data about the learner's ability
 
 
-Unfortunately, an inference drawn from a 'correct response' may not tell us anything at all about what a learner knows.
-
-
-It is highly likely that you were able to figure out the correct answer, even though you have no knowledge of the content of the quiz.^[The correct answer is 'b'.] So if our only method of determining the learner's ability is to ask them questions, but the questions can be answered without knowledge, then our assessment strategy is not valid.
+We will think about what it means to make a valid inference in the next section. 
 
 
 ## Interpreting Evidence

@@ -33,10 +33,13 @@ website:
 
 
 # References
-bibliography: https://twuonline.github.io/course-materials/quarto/references.bib
-csl: https://twuonline.github.io/course-materials/quarto/apa.csl
+# bibliography: https://twuonline.github.io/course-materials/quarto/references.bib
+bibliography: references.bib
+# csl: https://twuonline.github.io/course-materials/quarto/apa.csl
+csl: apa.csl
 link-bibliography: true
 link-citations: false
+# reference-location: margin
 
 # Lua Filters
 filters:
@@ -89,3 +92,8 @@ format:
 # fig-cap-location: top
 # lightbox:
 #   desc-position: top
+
+  # typst:
+  #   toc: true
+  #   section-numbering: 1.1.a
+  #   columns: 2

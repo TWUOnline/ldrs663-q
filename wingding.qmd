@@ -2,37 +2,25 @@
 format: revealjs
 ---
 
-## {.smaller}
+## 
 
-::: {.callout}
-Consider the following definitions.
-
-:::
+Consider the following terms and their definitions.
 
 
-validity  
-  : the main extent to which a concept, conclusion, or measurement is well-founded and likely corresponds accurately to the real world. 
 
-reliability  
-  : the overall consistency of a measure. A measure is said to have a high reliability if it produces similar results under consistent conditions  
-
-bias  
-  : a systematic tendency in which the methods used to gather data and estimate a sample statistic present an inaccurate, skewed or distorted depiction of reality.
+Use your arrow keys to navigate.
 
 ---
 
-The following slide in the deck contains the exact same content, except it is in the 'Wingdings' font.
-
----
 
 ## {.smaller}
-[validity]{style="font-family:Wingdings"}
+Term - [validity]{style="font-family:Wingdings"}
 : Definition: [the main extent to which a concept, conclusion, or measurement is well-founded and likely corresponds accurately to the real world.]{style="font-family:Wingdings"}. 
 
-[reliability]{style="font-family:Wingdings"}
+Term - [reliability]{style="font-family:Wingdings"}
 : Definition: [the overall consistency of a measure. A measure is said to have a high reliability if it produces similar results under consistent conditions]{style="font-family:Wingdings"}. 
 
-[bias]{style="font-family:Wingdings"}
+Term - [bias]{style="font-family:Wingdings"}
 : Definition: [a systematic tendency in which the methods used to gather data and estimate a sample statistic present an inaccurate, skewed or distorted depiction of reality.]{style="font-family:Wingdings"}. 
   
 ---
@@ -46,4 +34,19 @@ Term: [bias]{style="font-family:Wingdings"}
 : b. [a systematic tendency in which the methods used to gather data and estimate a sample statistic present an inaccurate, skewed or distorted depiction of reality.]{style="font-family:Wingdings"}
 : c. [the main extent to which a concept, conclusion, or measurement is well-founded and likely corresponds accurately to the real world.]{style="font-family:Wingdings"}
 
+Feel free to flip back to the previous slide.
+
 ---
+
+The following slide in the deck contains the exact same content as the first slide, except it is in a readable font.
+
+---
+
+validity  
+  : the main extent to which a concept, conclusion, or measurement is well-founded and likely corresponds accurately to the real world. 
+
+reliability  
+  : the overall consistency of a measure. A measure is said to have a high reliability if it produces similar results under consistent conditions  
+
+bias  
+  : a systematic tendency in which the methods used to gather data and estimate a sample statistic present an inaccurate, skewed or distorted depiction of reality.
